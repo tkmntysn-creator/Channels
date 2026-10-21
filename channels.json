@@ -2,12 +2,12 @@
   "updatedAt": "2026-10-20T09:42:00Z",
   "channels": [
     {
-      "id": "bein-connect-bein-sports-hd-50-fps-038",
-      "name": "BEIN SPORTS HD (50 FPS)",
-      "logo": "",
+      "id": "the boss baby",
+      "name": "the boss baby",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/The-boss-baby_logo.png/revision/latest?cb=20250210134426",
       "category": "beIN Connect",
       "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/43853",
+      "streamUrl": "https://af3.downet.net/download/1792671725/6ad8ae6d6ce78/The.Boss.Baby.2017.720p.BluRay.aflaam.com.mp4",
       "description": "Imported from M3U group: beIN Connect 50FPS.",
       "country": "Qatar / Global",
       "language": "Arabic",
