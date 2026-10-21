@@ -1,329 +1,725 @@
 {
-  "updatedAt": "2026-10-20T09:42:00Z",
+  "updatedAt": "2026-10-21T14:07:00Z",
   "channels": [
     {
-      "id": "the boss baby",
-      "name": "the boss baby",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/The-boss-baby_logo.png/revision/latest?cb=20250210134426",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "https://af3.downet.net/download/1792671725/6ad8ae6d6ce78/The.Boss.Baby.2017.720p.BluRay.aflaam.com.mp4",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-1-hd",
+      "name": "BEIN SPORTS 1 HD",
+      "logo": "https://i.imgur.com/6ZqRrYp.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=34&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/43853"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=34&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-fhd-50-fps-039",
-      "name": "BEIN SPORTS FHD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/43854",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-2-hd",
+      "name": "BEIN SPORTS 2 HD",
+      "logo": "https://i.imgur.com/s9aNNau.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=35&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/43854"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=35&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-1-hd-50-fps-040",
-      "name": "BEIN SPORTS 1 HD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89259",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-3-hd",
+      "name": "BEIN SPORTS 3 HD",
+      "logo": "https://i.imgur.com/V43ChWk.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=184&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89259"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=184&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-1-fhd-50-fps-041",
-      "name": "BEIN SPORTS 1 FHD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/112484",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-4-hd",
+      "name": "BEIN SPORTS_4 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=789&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/112484"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=789&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-2-hd-50-fps-042",
-      "name": "BEIN SPORTS 2 HD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89263",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-5-hd",
+      "name": "BEIN SPORTS_5 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=790&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89263"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=790&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-2-fhd-50-fps-043",
-      "name": "BEIN SPORTS 2 FHD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/112423",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-6-hd",
+      "name": "BEIN SPORTS_6 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=791&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/112423"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=791&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-3-hd-50-fps-044",
-      "name": "BEIN SPORTS 3 HD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89265",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-7-hd",
+      "name": "BEIN SPORTS_7 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=792&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89265"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=792&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-3-fhd-50-fps-045",
-      "name": "BEIN SPORTS 3 FHD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/112292",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-8-hd",
+      "name": "BEIN SPORTS_8 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=793&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/112292"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=793&extension=ts"
         }
       ]
     },
     {
-      "id": "bein-connect-bein-sports-4-hd-50-fps-046",
-      "name": "BEIN SPORTS 4 HD (50 FPS)",
-      "logo": "",
-      "category": "beIN Connect",
-      "provider": "beIN Connect",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89264",
-      "description": "Imported from M3U group: beIN Connect 50FPS.",
+      "id": "bein-sports-9-hd",
+      "name": "BEIN SPORTS_9 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "beIN Sports",
+      "provider": "beIN Sports",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=794&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "beIN Connect stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89264"
+          "label": "beIN Sports stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=794&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-1-sd-001",
-      "name": "EVENT SPORTS 1 SD",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89272",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "2m-maroc-hd",
+      "name": "2M MAROC HD",
+      "logo": "http://i.imgur.com/YGXdwKu.png",
+      "category": "Morocco",
+      "provider": "SNRT / Moroccan TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=274&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Morocco",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89272"
+          "label": "SNRT / Moroccan TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=274&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-1-hd-002",
-      "name": "EVENT SPORTS 1 HD",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89271",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "arriadia-maroc-hd",
+      "name": "ARRIADIA MAROC HD",
+      "logo": "https://i.imgur.com/81ksuGS.png",
+      "category": "Morocco",
+      "provider": "SNRT / Moroccan TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=644&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Morocco",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89271"
+          "label": "SNRT / Moroccan TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=644&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-1-fhd-exclus-003",
-      "name": "EVENT SPORTS 1 FHD (EXCLUS)",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/69346",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "al-maghribia-alikhbaria-fhd",
+      "name": "AL MAGHRIBIA ALIKHBARIA FHD",
+      "logo": "http://i.imgur.com/TaxrKCi.png",
+      "category": "Morocco",
+      "provider": "SNRT / Moroccan TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=382&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Morocco",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/69346"
+          "label": "SNRT / Moroccan TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=382&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-2-sd-004",
-      "name": "EVENT SPORTS 2 SD",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89268",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "assadissa-hd",
+      "name": "ASSADISSA HD",
+      "logo": "http://i.imgur.com/l1puCC0.png",
+      "category": "Morocco",
+      "provider": "SNRT / Moroccan TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=535&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Morocco",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89268"
+          "label": "SNRT / Moroccan TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=535&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-2-hd-005",
-      "name": "EVENT SPORTS 2 HD",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89267",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "tamazight-hd",
+      "name": "TAMAZIGHT HD",
+      "logo": "http://i.imgur.com/htebjJD.png",
+      "category": "Morocco",
+      "provider": "SNRT / Moroccan TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=559&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Morocco",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/89267"
+          "label": "SNRT / Moroccan TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=559&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-2-fhd-exclus-006",
-      "name": "EVENT SPORTS 2 FHD (EXCLUS)",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/69164",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "mbc-1-hd",
+      "name": "MBC 1 HD",
+      "logo": "https://i.imgur.com/YO6kFsp.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=94&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/69164"
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=94&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-3-sd-007",
-      "name": "EVENT SPORTS 3 SD",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/99520",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "mbc-2-hd",
+      "name": "MBC 2 HD",
+      "logo": "https://i.imgur.com/WBh4NGJ.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=109&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/99520"
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=109&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-3-hd-008",
-      "name": "EVENT SPORTS 3 HD",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/74017",
-      "description": "Imported from M3U group: TOD by beIN.",
-      "country": "Qatar / Global",
+      "id": "mbc-3-hd",
+      "name": "MBC 3 HD",
+      "logo": "https://i.imgur.com/qygieMO.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=110&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/74017"
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=110&extension=ts"
         }
       ]
     },
     {
-      "id": "tod-event-sports-3-fhd-exclus-009",
-      "name": "EVENT SPORTS 3 FHD (EXCLUS)",
-      "logo": "",
-      "category": "TOD by beIN",
-      "provider": "TOD by beIN",
-      "streamUrl": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/1205",
-      "description": "Imported from M3U group: TOD by beIN.",
+      "id": "mbc-4-hd",
+      "name": "MBC 4 HD",
+      "logo": "https://i.imgur.com/ItBKYL1.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=319&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=319&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "mbc-5-fhd",
+      "name": "MBC 5 FHD+",
+      "logo": "https://i.imgur.com/XotBHFv.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=42091&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=42091&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "mbc-action-hd",
+      "name": "MBC ACTION HD",
+      "logo": "https://i.imgur.com/I4z3F0j.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2852&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2852&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "al-jazeera-hd",
+      "name": "AL JAZEERA HD",
+      "logo": "http://i.imgur.com/jLxN3D8.png",
+      "category": "Arabic News",
+      "provider": "Al Jazeera",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=45586&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
       "country": "Qatar / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TOD by beIN stream",
-          "url": "http://r656.dad:80/u77BxPZZ/OoxMqy4qh0/1205"
+          "label": "Al Jazeera stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=45586&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "al-arabiya-hd",
+      "name": "AL ARABIYA HD",
+      "logo": "http://i.imgur.com/bztmSXX.png",
+      "category": "Arabic News",
+      "provider": "Arabic News",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=343&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Arab World",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Arabic News stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=343&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "asharq-news-channel-hd",
+      "name": "ASHARQ NEWS CHANNEL HD",
+      "logo": "",
+      "category": "Arabic News",
+      "provider": "Arabic News",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=195420&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Arab World",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Arabic News stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=195420&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "bbc-news-arabia-fhd",
+      "name": "BBC NEWS ARABIA FHD",
+      "logo": "http://tvlogos.sytes.net/tv-logos/countries/international/bbc-news-arabic-white-hz-int.png",
+      "category": "Arabic News",
+      "provider": "BBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=754&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "United Kingdom / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=754&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "al-araby-tv-fhd",
+      "name": "AL ARABY TV FHD",
+      "logo": "",
+      "category": "Arabic News",
+      "provider": "Arabic News",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=12068&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Arab World",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Arabic News stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=12068&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "trt-arabiya-hd",
+      "name": "TRT ARABIYA HD",
+      "logo": "",
+      "category": "Arabic News",
+      "provider": "Arabic News",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2614&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Arab World",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Arabic News stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2614&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "dubai-fhd",
+      "name": "DUBAI FHD",
+      "logo": "http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-tv-ae.png",
+      "category": "UAE",
+      "provider": "UAE TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=681&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "United Arab Emirates",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "UAE TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=681&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "abu-dhabi-tv-hd",
+      "name": "ABU DHABI TV HD",
+      "logo": "http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png",
+      "category": "UAE",
+      "provider": "UAE TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2804&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "United Arab Emirates",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "UAE TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2804&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "saudi-quran-hd",
+      "name": "SAUDI QURAN HD",
+      "logo": "http://i.imgur.com/akthN6N.png",
+      "category": "Saudi Arabia",
+      "provider": "Saudi TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=272&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Saudi TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=272&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "al-jazeera-documentary-hd",
+      "name": "AL JAZEERA DOCUMENTARY HD",
+      "logo": "http://i.imgur.com/br8qG1j.png",
+      "category": "Arabic News",
+      "provider": "Al Jazeera",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=345&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Qatar / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Jazeera stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=345&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "rotana-aflam-hd",
+      "name": "ROTANA AFLAM HD",
+      "logo": "https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png",
+      "category": "Arabic Entertainment",
+      "provider": "Rotana",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=385&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Rotana stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=385&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "rotana-drama-hd",
+      "name": "ROTANA DRAMA HD",
+      "logo": "https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png",
+      "category": "Arabic Entertainment",
+      "provider": "Rotana",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=384&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Rotana stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=384&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "rotana-comedy-hd",
+      "name": "ROTANA COMEDY HD",
+      "logo": "https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png",
+      "category": "Arabic Entertainment",
+      "provider": "Rotana",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=90003&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Rotana stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=90003&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "mbc-masr-1-hd",
+      "name": "MBC MASR 1 HD",
+      "logo": "https://i.imgur.com/3GTiYWF.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=22397&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=22397&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "mbc-masr-2-hd",
+      "name": "MBC MASR 2 HD",
+      "logo": "https://i.imgur.com/2kbbTap.png",
+      "category": "Arabic Entertainment",
+      "provider": "MBC",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=22396&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia / MENA",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MBC stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=22396&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "nile-news-hd",
+      "name": "NILE NEWS HD",
+      "logo": "",
+      "category": "Arabic News",
+      "provider": "Arabic News",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=687&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Arab World",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Arabic News stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=687&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "saudia-tv-fhd",
+      "name": "SAUDIA TV FHD",
+      "logo": "http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png",
+      "category": "Saudi Arabia",
+      "provider": "Saudi TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=42066&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Saudi TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=42066&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "sama-dubai-hd",
+      "name": "SAMA DUBAI HD",
+      "logo": "http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/sama-dubai-ae.png",
+      "category": "UAE",
+      "provider": "UAE TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2803&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "United Arab Emirates",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "UAE TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=2803&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "sharjah-tv-hd",
+      "name": "SHARJAH TV HD",
+      "logo": "",
+      "category": "UAE",
+      "provider": "UAE TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=195331&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "United Arab Emirates",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "UAE TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=195331&extension=ts"
+        }
+      ]
+    },
+    {
+      "id": "dubai-sport-1-hd",
+      "name": "DUBAI SPORT 1 HD",
+      "logo": "https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-football-football-team-team-physical-education-png-image_478629.png",
+      "category": "UAE",
+      "provider": "UAE TV",
+      "streamUrl": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=195323&extension=ts",
+      "description": "Imported from M3U playlist; selected HD/FHD stream where available.",
+      "country": "United Arab Emirates",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "UAE TV stream",
+          "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=195323&extension=ts"
         }
       ]
     }
   ]
-        }
+    }
