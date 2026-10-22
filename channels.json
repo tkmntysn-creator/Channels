@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:10:00Z",
+  "updatedAt": "2026-10-22T14:23:00Z",
   "channels": [
     {
       "id": "alwan-sport-alwan-sport-1-hd",
@@ -436,7 +436,7 @@
     {
       "id": "al-kass-al-kass-ap-eight-twelve-hd",
       "name": "Al Kass AP Eight | Twelve HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_eight.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292811.ts",
@@ -454,7 +454,7 @@
     {
       "id": "al-kass-al-kass-ap-five-nine-hd",
       "name": "Al Kass AP Five | Nine HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_five.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292812.ts",
@@ -472,7 +472,7 @@
     {
       "id": "al-kass-al-kass-ap-four-hd",
       "name": "Al Kass AP Four HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_four.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292813.ts",
@@ -490,7 +490,7 @@
     {
       "id": "al-kass-al-kass-ap-one-hd",
       "name": "Al Kass AP One HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_one_qa.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292814.ts",
@@ -508,7 +508,7 @@
     {
       "id": "al-kass-al-kass-ap-seven-eleven-hd",
       "name": "Al Kass AP Seven | Eleven HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_seven.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292815.ts",
@@ -526,7 +526,7 @@
     {
       "id": "al-kass-al-kass-ap-six-ten-hd",
       "name": "Al Kass AP Six | Ten HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_six.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292816.ts",
@@ -544,7 +544,7 @@
     {
       "id": "al-kass-al-kass-ap-three-hd",
       "name": "Al Kass AP Three HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_three.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292817.ts",
@@ -562,7 +562,7 @@
     {
       "id": "al-kass-al-kass-ap-two-hd",
       "name": "Al Kass AP Two HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_kass_two_qa.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292818.ts",
@@ -742,7 +742,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-1",
       "name": "BEIN SPORTS AP LOCAL HD 1",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271132.ts",
@@ -760,7 +760,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-2",
       "name": "BEIN SPORTS AP LOCAL HD 2",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_2_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271133.ts",
@@ -778,7 +778,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-3",
       "name": "BEIN SPORTS AP LOCAL HD 3",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_3_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271134.ts",
@@ -796,7 +796,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-4",
       "name": "BEIN SPORTS AP LOCAL HD 4",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_4_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271137.ts",
@@ -814,7 +814,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-5",
       "name": "BEIN SPORTS AP LOCAL HD 5",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_5_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271138.ts",
@@ -832,7 +832,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-6",
       "name": "BEIN SPORTS AP LOCAL HD 6",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_6_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271139.ts",
@@ -850,7 +850,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-7",
       "name": "BEIN SPORTS AP LOCAL HD 7",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_7_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271140.ts",
@@ -868,7 +868,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-8",
       "name": "BEIN SPORTS AP LOCAL HD 8",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_8_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271141.ts",
@@ -886,7 +886,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-hd-9",
       "name": "BEIN SPORTS AP LOCAL HD 9",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_9_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271142.ts",
@@ -904,7 +904,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-news",
       "name": "BEIN SPORTS AP LOCAL NEWS",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_news_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/283833.ts",
@@ -922,7 +922,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-1",
       "name": "beIN Sports XTRA HD 1",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_1_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285820.ts",
@@ -940,7 +940,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-2",
       "name": "beIN Sports XTRA HD 2",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_2_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285821.ts",
@@ -958,7 +958,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-3",
       "name": "beIN Sports XTRA HD 3",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_3_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285822.ts",
@@ -976,7 +976,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-4",
       "name": "beIN Sports XTRA HD 4",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_4_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285823.ts",
@@ -994,7 +994,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-5",
       "name": "beIN Sports XTRA HD 5",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_5_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285824.ts",
@@ -1012,7 +1012,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-6",
       "name": "beIN Sports XTRA HD 6",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_6_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285825.ts",
@@ -1030,7 +1030,7 @@
     {
       "id": "bein-entertainment-al-jazeera-channel",
       "name": "Al Jazeera Channel",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_jazeera.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291551.ts",
@@ -1048,7 +1048,7 @@
     {
       "id": "bein-entertainment-al-jazeera-documentary",
       "name": "Al Jazeera Documentary",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/aljazeera_documentary_qa.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291552.ts",
@@ -1066,7 +1066,7 @@
     {
       "id": "bein-entertainment-al-jazeera-english-hd",
       "name": "Al Jazeera English HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Hindi/aljazeera_english.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291553.ts",
@@ -1084,7 +1084,7 @@
     {
       "id": "bein-entertainment-al-jazeera-mubasher",
       "name": "Al Jazeera Mubasher",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/al_jazeera_mubasher.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291554.ts",
@@ -1102,7 +1102,7 @@
     {
       "id": "bein-entertainment-baraem",
       "name": "Baraem",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/baraem.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291555.ts",
@@ -1120,7 +1120,7 @@
     {
       "id": "bein-entertainment-bbc-earth-middle-east",
       "name": "BBC Earth Middle East",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/English/bbc_earth_middle_east.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291556.ts",
@@ -1138,7 +1138,7 @@
     {
       "id": "bein-entertainment-bein-box-office-1",
       "name": "BeIn Box Office 1",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_box_office_1.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291557.ts",
@@ -1156,7 +1156,7 @@
     {
       "id": "bein-entertainment-bein-box-office-2",
       "name": "BeIn Box Office 2",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_box_office_2.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291558.ts",
@@ -1174,7 +1174,7 @@
     {
       "id": "bein-entertainment-bein-drama-hd-1",
       "name": "beIN Drama HD 1",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/bein_drama_1_qa.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291559.ts",
@@ -1192,7 +1192,7 @@
     {
       "id": "bein-entertainment-bein-gourmet-hd",
       "name": "beIN Gourmet HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/bein_gourmet_hd.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291560.ts",
@@ -1210,7 +1210,7 @@
     {
       "id": "bein-entertainment-bein-movies-hd-1",
       "name": "beIN Movies HD 1",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_movies_premiere_1.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291561.ts",
@@ -1228,7 +1228,7 @@
     {
       "id": "bein-entertainment-bein-movies-hd-2",
       "name": "beIN Movies HD 2",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_movies_action_2.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291562.ts",
@@ -1246,7 +1246,7 @@
     {
       "id": "bein-entertainment-bein-movies-hd-3",
       "name": "beIN Movies HD 3",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_movies_drama_3.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291563.ts",
@@ -1264,7 +1264,7 @@
     {
       "id": "bein-entertainment-bein-movies-hd-4",
       "name": "beIN Movies HD 4",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_movies_family_4.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291564.ts",
@@ -1282,7 +1282,7 @@
     {
       "id": "bein-entertainment-bein-series-hd-1",
       "name": "beIN Series HD 1",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/bein_series_1_qa.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291565.ts",
@@ -1300,7 +1300,7 @@
     {
       "id": "bein-entertainment-bein-series-hd-2",
       "name": "beIN Series HD 2",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/bein_series_2_qa.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291566.ts",
@@ -1318,7 +1318,7 @@
     {
       "id": "bein-entertainment-be-junior",
       "name": "Be Junior",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/be_junior.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291567.ts",
@@ -1336,7 +1336,7 @@
     {
       "id": "bein-entertainment-bloomberg-tv-europe",
       "name": "Bloomberg TV Europe",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/English/blommberg_uk.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291568.ts",
@@ -1354,7 +1354,7 @@
     {
       "id": "bein-entertainment-cartoonito",
       "name": "Cartoonito",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/English/cartoonito.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291569.ts",
@@ -1372,7 +1372,7 @@
     {
       "id": "bein-entertainment-cartoon-network-arabic",
       "name": "Cartoon Network Arabic",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/cartoon_network_arabic.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291570.ts",
@@ -1390,7 +1390,7 @@
     {
       "id": "bein-entertainment-cartoon-network-mena",
       "name": "Cartoon Network MENA",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/English/cartoon_network.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291571.ts",
@@ -1408,7 +1408,7 @@
     {
       "id": "bein-entertainment-disney-channel",
       "name": "Disney Channel",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Portuguese/disney_channel_hd.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291572.ts",
@@ -1426,7 +1426,7 @@
     {
       "id": "bein-entertainment-disney-junior",
       "name": "Disney Junior",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/French/disney_junior.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291573.ts",
@@ -1444,7 +1444,7 @@
     {
       "id": "bein-entertainment-food-network",
       "name": "Food Network",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/food_network.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291574.ts",
@@ -1462,7 +1462,7 @@
     {
       "id": "bein-entertainment-hgtv",
       "name": "HGTV",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/hgtv.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291575.ts",
@@ -1480,7 +1480,7 @@
     {
       "id": "bein-entertainment-jeem",
       "name": "Jeem",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/jeem.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291576.ts",
@@ -1498,7 +1498,7 @@
     {
       "id": "bein-entertainment-nat-geo",
       "name": "Nat Geo",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Hebrew/nat_geo_fhd.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291577.ts",
@@ -1516,7 +1516,7 @@
     {
       "id": "bein-entertainment-nat-geo-wild",
       "name": "Nat Geo Wild",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Hebrew/nat_geo_wild_fhd.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291578.ts",
@@ -1534,7 +1534,7 @@
     {
       "id": "bein-entertainment-star-action",
       "name": "Star Action",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/star_action.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291579.ts",
@@ -1552,7 +1552,7 @@
     {
       "id": "bein-entertainment-star-movies-middle-east",
       "name": "Star Movies Middle East",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Albania/star_movies_alb.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291580.ts",
@@ -1570,7 +1570,7 @@
     {
       "id": "bein-entertainment-star-world-hd",
       "name": "Star World HD",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/star_world_hd.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291581.ts",
@@ -1588,7 +1588,7 @@
     {
       "id": "bein-entertainment-travel-channel-europe",
       "name": "Travel Channel Europe",
-      "logo": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/English/travel_channel_europe_1.jpg",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291582.ts",
@@ -1606,7 +1606,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-2023-1-1080p",
       "name": "ARA: BEIN OD 2023 1 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_2023_1_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298146.ts",
@@ -1624,7 +1624,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-2023-2-1080p",
       "name": "ARA: BEIN OD 2023 2 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_2023_2_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298147.ts",
@@ -1642,7 +1642,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-2023-3-1080p",
       "name": "ARA: BEIN OD 2023 3 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_2023_3_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298148.ts",
@@ -1660,7 +1660,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-2023-4-1080p",
       "name": "ARA: BEIN OD 2023 4 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_2023_4_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298149.ts",
@@ -1678,7 +1678,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-movies-1-1080p",
       "name": "ARA: BEIN OD MOVIES 1 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_MOVIES_1_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298150.ts",
@@ -1696,7 +1696,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-movies-2-1080p",
       "name": "ARA: BEIN OD MOVIES 2 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_MOVIES_2_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298151.ts",
@@ -1714,7 +1714,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-movies-3-1080p",
       "name": "ARA: BEIN OD MOVIES 3 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_MOVIES_3_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298152.ts",
@@ -1732,7 +1732,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-movies-4-1080p",
       "name": "ARA: BEIN OD MOVIES 4 [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_MOVIES_4_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298153.ts",
@@ -1750,7 +1750,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-5-movies-1080p",
       "name": "ARA: BEIN OD 5 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_5_MOVIES_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298154.ts",
@@ -1768,7 +1768,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-6-movies-1080p",
       "name": "ARA: BEIN OD 6 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_6_MOVIES_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298155.ts",
@@ -1786,7 +1786,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-7-movies-1080p",
       "name": "ARA: BEIN OD 7 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://francoisa.win/channel-logo.php?k=U2FsdGVkX18e77wynORRiX%2BkWHKYL43W%2BEeYpNN7OD%2FdEGT3D7ajPKrltupQdt1AVQ6s%2BcfHDOvy49bM%2Fb%2BP%2FlPbSIrPkZAIhZ0tCnCj%2BuI%3D",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298156.ts",
@@ -1804,7 +1804,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-8-movies-1080p",
       "name": "ARA: BEIN OD 8 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_8_MOVIES_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298157.ts",
@@ -1822,7 +1822,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-9-movies-1080p",
       "name": "ARA: BEIN OD 9 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B0aYiCuezqwEFCXl%2FWQ69z2l9fQkQPe4Z1jtXMDZE7QAbTAGAUsth9qw0%2FGWuDIzNvZp%2BrF02UGjL02LLaQnmmG4LfSSqKvpk%3D",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298158.ts",
@@ -1840,7 +1840,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-10-movies-1080p",
       "name": "ARA: BEIN OD 10 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FE9DI4H1YwYVF4Yc2MWqdAxNaNwQox6a7LpC6Al1hhkY6f7kiD%2Fk6R1ukxHcZ31KuHZVtkNSsky4WVrm5DFo9bedngJxjmoow%3D",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298159.ts",
@@ -1858,7 +1858,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-11-movies-1080p",
       "name": "ARA: BEIN OD 11 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://francoisa.win/channel-logo.php?k=U2FsdGVkX19s1wjBKOCplpArI4DBN0R2%2BrakwVRotMMFMcpJfJKJ7XOpgFlZa%2BqJubgqoZBPsBxcpIYXx4D%2FUskw7eSAV9W3Et1rrJ2fiBk%3D",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298160.ts",
@@ -1876,7 +1876,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-12-movies-1080p",
       "name": "ARA: BEIN OD 12 MOVIES [1080p]",
-      "logo": "",
+      "logo": "https://francoisa.win/channel-logo.php?k=U2FsdGVkX19N3J0%2FtqvE0haUc3vU%2BJuS1uRpzSGSKDmQl%2BDbuCU93VDntBemjx2Jtcg6SW8%2FN29PPobBXEZXOtbfISaa0D4pxXSw4bRYxJM%3D",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298161.ts",
@@ -1894,7 +1894,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-1-kids-1080p",
       "name": "ARA: BEIN OD 1 KIDS [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_1_KIDS_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298162.ts",
@@ -1912,7 +1912,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-2-kids-1080p",
       "name": "ARA: BEIN OD 2 KIDS [1080p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_OD_2_KIDS_1080p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298163.ts",
@@ -1930,7 +1930,7 @@
     {
       "id": "bein-entertainment-ara-bein-od-3-kids-1080p",
       "name": "ARA: BEIN OD 3 KIDS [1080p]",
-      "logo": "",
+      "logo": "https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BUGh4ljVp0n9lY%2BnTHb87zu6bQYRli4OGNEqXvJZZp5d%2FaGOoRwIwjF2fi%2F1BIWB%2F8wgTqDZ2v6hR7qSZgpsX9rLI1GL0Cz6M%3D",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298164.ts",
@@ -1948,7 +1948,7 @@
     {
       "id": "bein-entertainment-ara-bein-box-office-1-720p",
       "name": "ARA: BEIN BOX OFFICE 1 [720p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_BOX_OFFICE_1_720p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298166.ts",
@@ -1966,7 +1966,7 @@
     {
       "id": "bein-entertainment-ara-bein-box-office-2-720p",
       "name": "ARA: BEIN BOX OFFICE 2 [720p]",
-      "logo": "",
+      "logo": "https://tv1iptv.cc/images/live/ARA_BEIN_ONDEMAND/ARA_BEIN_BOX_OFFICE_2_720p.png",
       "category": "BEIN ENTERTAINMENT",
       "provider": "BEIN ENTERTAINMENT",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298168.ts",
