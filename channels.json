@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T15:01:00Z",
+  "updatedAt": "2026-10-22T15:04:00Z",
   "channels": [
     {
       "id": "alwan-sport-alwan-sport-1-hd",
@@ -904,7 +904,7 @@
     {
       "id": "bein-sports-ap-bein-sports-ap-local-news",
       "name": "BEIN SPORTS AP LOCAL NEWS",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_news_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/283833.ts",
@@ -922,7 +922,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-1",
       "name": "beIN Sports XTRA HD 1",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_1_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285820.ts",
@@ -940,7 +940,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-2",
       "name": "beIN Sports XTRA HD 2",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_2_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285821.ts",
@@ -958,7 +958,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-3",
       "name": "beIN Sports XTRA HD 3",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_3_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285822.ts",
@@ -976,7 +976,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-4",
       "name": "beIN Sports XTRA HD 4",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_4_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285823.ts",
@@ -994,7 +994,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-5",
       "name": "beIN Sports XTRA HD 5",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_5_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285824.ts",
@@ -1012,7 +1012,7 @@
     {
       "id": "bein-sports-ap-bein-sports-xtra-hd-6",
       "name": "beIN Sports XTRA HD 6",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_xtra_6_qa.jpg",
       "category": "BEIN SPORTS AP",
       "provider": "BEIN SPORTS AP",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285825.ts",
