@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-22T14:23:00Z",
+  "updatedAt": "2026-10-22T14:43:00Z",
   "channels": [
     {
       "id": "alwan-sport-alwan-sport-1-hd",
       "name": "Alwan Sport 1 HD",
-      "logo": "",
+      "logo": "https://i.postimg.cc/yx5dHg7N/1779720308188.png",
       "category": "Alwan Sport",
       "provider": "Alwan Sport",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285842.ts",
@@ -22,7 +22,7 @@
     {
       "id": "alwan-sport-alwan-sport-2-hd",
       "name": "Alwan Sport 2 HD",
-      "logo": "",
+      "logo": "https://files.manuscdn.com/search-media/310519663929703318/Ah5JxGDHhoHuqb6ZUDtA3W/BzGUDk8nArbJ67tF2abwG7.png",
       "category": "Alwan Sport",
       "provider": "Alwan Sport",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285843.ts",
@@ -40,7 +40,7 @@
     {
       "id": "alwan-sport-alwan-sport-3-hd",
       "name": "Alwan Sport 3 HD",
-      "logo": "",
+      "logo": "https://files.manuscdn.com/search-media/310519663929703318/Ah5JxGDHhoHuqb6ZUDtA3W/NKMb5jAgpMdLzfouZbRVSm.png",
       "category": "Alwan Sport",
       "provider": "Alwan Sport",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285844.ts",
@@ -58,7 +58,7 @@
     {
       "id": "alwan-sport-alwan-sport-4-hd",
       "name": "Alwan Sport 4 HD",
-      "logo": "",
+      "logo": "https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png",
       "category": "Alwan Sport",
       "provider": "Alwan Sport",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285845.ts",
@@ -76,7 +76,7 @@
     {
       "id": "alwan-sport-alwan-sport-5-hd",
       "name": "Alwan Sport 5 HD",
-      "logo": "",
+      "logo": "https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png",
       "category": "Alwan Sport",
       "provider": "Alwan Sport",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285846.ts",
@@ -94,7 +94,7 @@
     {
       "id": "alwan-sport-alwan-sport-6-hd",
       "name": "Alwan Sport 6 HD",
-      "logo": "",
+      "logo": "https://i.postimg.cc/yx5dHg7N/1779720308188.png",
       "category": "Alwan Sport",
       "provider": "Alwan Sport",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285847.ts",
@@ -112,7 +112,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-01-720p",
       "name": "BEE LOCAL BEIN SPORT 01 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/BeIN_Sports_1_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298116.ts",
@@ -130,7 +130,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-02-720p",
       "name": "BEE LOCAL BEIN SPORT 02 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/BeIN_Sports_2_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298117.ts",
@@ -148,7 +148,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-03-720p",
       "name": "BEE LOCAL BEIN SPORT 03 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/BeIN_Sports_3_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298118.ts",
@@ -166,7 +166,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-04-720p",
       "name": "BEE LOCAL BEIN SPORT 04 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298119.ts",
@@ -184,7 +184,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-05-720p",
       "name": "BEE LOCAL BEIN SPORT 05 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c6/BeIN_Sports_5_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298120.ts",
@@ -202,7 +202,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-06-720p",
       "name": "BEE LOCAL BEIN SPORT 06 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_6_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298121.ts",
@@ -220,7 +220,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-07-720p",
       "name": "BEE LOCAL BEIN SPORT 07 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/BeIN_Sports_7_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298122.ts",
@@ -238,7 +238,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-08-720p",
       "name": "BEE LOCAL BEIN SPORT 08 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/BeIN_Sports_8_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298123.ts",
@@ -256,7 +256,7 @@
     {
       "id": "bein-sport-bee-bee-local-bein-sport-09-720p",
       "name": "BEE LOCAL BEIN SPORT 09 [720p]",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/BeIN_Sports_9_logo.svg",
       "category": "BEIN SPORT (BEE)",
       "provider": "BEIN SPORT (BEE)",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298124.ts",
@@ -274,7 +274,7 @@
     {
       "id": "al-kass-shoof-1",
       "name": "SHOOF 1",
-      "logo": "",
+      "logo": "https://play-lh.googleusercontent.com/dnOvO2zpzrSc_KdA6Y7AB3fJhjuBP94dEUUze4RQaK_mpQIKHtf1PSsTWusBkQ8RtKe-N2viJJEnc0CW356U=w512-h512",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292782.ts",
@@ -292,7 +292,7 @@
     {
       "id": "al-kass-ar-alkass-1-hd",
       "name": "AR | ALKASS 1 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.svg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234035.ts",
@@ -310,7 +310,7 @@
     {
       "id": "al-kass-ar-alkass-2-hd",
       "name": "AR | ALKASS 2 HD",
-      "logo": "",
+      "logo": "https://images.seeklogo.com/logo-png/21/1/al-kass-sport-channel-logo-png_seeklogo-219933.png",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234036.ts",
@@ -328,7 +328,7 @@
     {
       "id": "al-kass-ar-alkass-3-hd",
       "name": "AR | ALKASS 3 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.svg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234037.ts",
@@ -346,7 +346,7 @@
     {
       "id": "al-kass-ar-alkass-4-hd",
       "name": "AR | ALKASS 4 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.svg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234038.ts",
@@ -364,7 +364,7 @@
     {
       "id": "al-kass-ar-alkass-5-hd",
       "name": "AR | ALKASS 5 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234039.ts",
@@ -382,7 +382,7 @@
     {
       "id": "al-kass-ar-alkass-6-hd",
       "name": "AR | ALKASS 6 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234040.ts",
@@ -400,7 +400,7 @@
     {
       "id": "al-kass-ar-alkass-7-hd",
       "name": "AR | ALKASS 7 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3.jpg",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/237358.ts",
@@ -418,7 +418,7 @@
     {
       "id": "al-kass-ar-alkass-8-hd",
       "name": "AR | ALKASS 8 HD",
-      "logo": "",
+      "logo": "https://www.alkass.net/assets/images/logo@2x.png",
       "category": "Al Kass",
       "provider": "Al Kass",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/255159.ts",
@@ -580,7 +580,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-1-hd",
       "name": "BEIN SPORTS F 1 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267030.ts",
@@ -598,7 +598,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-2-hd",
       "name": "BEIN SPORTS F 2 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/46/BeIN_Sports_FR_2_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267031.ts",
@@ -616,7 +616,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-3-hd",
       "name": "BEIN SPORTS F 3 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267032.ts",
@@ -634,7 +634,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-4-hd",
       "name": "BEIN SPORTS F 4 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/BeIN_Sports_4_logo.svg",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267033.ts",
@@ -652,7 +652,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-5-hd",
       "name": "BEIN SPORTS F 5 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c6/BeIN_Sports_5_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267034.ts",
@@ -670,7 +670,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-6-hd",
       "name": "BEIN SPORTS F 6 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_6_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267035.ts",
@@ -688,7 +688,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-7-hd",
       "name": "BEIN SPORTS F 7 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/BeIN_Sports_7_logo.svg",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267036.ts",
@@ -706,7 +706,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-8-hd",
       "name": "BEIN SPORTS F 8 HD",
-      "logo": "",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_8_logo.svg",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267037.ts",
@@ -724,7 +724,7 @@
     {
       "id": "bein-sports-family-bein-sports-f-9-hd",
       "name": "BEIN SPORTS F 9 HD",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png",
       "category": "BEIN SPORTS FAMILY",
       "provider": "BEIN SPORTS FAMILY",
       "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267038.ts",
