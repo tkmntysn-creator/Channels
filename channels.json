@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T14:07:00Z",
+  "updatedAt": "2026-10-22T14:00:00Z",
   "channels": [
     {
       "id": "bein-sports-1-hd",
@@ -720,6 +720,1986 @@
           "url": "http://r656.dad:80/play/live.php?mac=00%3A1A%3A79%3A58%3A09%3A70&stream=195323&extension=ts"
         }
       ]
+    },
+    {
+      "id": "alwan-sport-alwan-sport-1-hd",
+      "name": "Alwan Sport 1 HD",
+      "logo": "",
+      "category": "Alwan Sport",
+      "provider": "Alwan Sport",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285842.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Alwan Sport stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285842.ts"
+        }
+      ]
+    },
+    {
+      "id": "alwan-sport-alwan-sport-2-hd",
+      "name": "Alwan Sport 2 HD",
+      "logo": "",
+      "category": "Alwan Sport",
+      "provider": "Alwan Sport",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285843.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Alwan Sport stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285843.ts"
+        }
+      ]
+    },
+    {
+      "id": "alwan-sport-alwan-sport-3-hd",
+      "name": "Alwan Sport 3 HD",
+      "logo": "",
+      "category": "Alwan Sport",
+      "provider": "Alwan Sport",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285844.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Alwan Sport stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285844.ts"
+        }
+      ]
+    },
+    {
+      "id": "alwan-sport-alwan-sport-4-hd",
+      "name": "Alwan Sport 4 HD",
+      "logo": "",
+      "category": "Alwan Sport",
+      "provider": "Alwan Sport",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285845.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Alwan Sport stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285845.ts"
+        }
+      ]
+    },
+    {
+      "id": "alwan-sport-alwan-sport-5-hd",
+      "name": "Alwan Sport 5 HD",
+      "logo": "",
+      "category": "Alwan Sport",
+      "provider": "Alwan Sport",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285846.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Alwan Sport stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285846.ts"
+        }
+      ]
+    },
+    {
+      "id": "alwan-sport-alwan-sport-6-hd",
+      "name": "Alwan Sport 6 HD",
+      "logo": "",
+      "category": "Alwan Sport",
+      "provider": "Alwan Sport",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285847.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Alwan Sport stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285847.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-01-720p",
+      "name": "BEE LOCAL BEIN SPORT 01 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298116.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298116.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-02-720p",
+      "name": "BEE LOCAL BEIN SPORT 02 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298117.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298117.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-03-720p",
+      "name": "BEE LOCAL BEIN SPORT 03 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298118.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298118.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-04-720p",
+      "name": "BEE LOCAL BEIN SPORT 04 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298119.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298119.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-05-720p",
+      "name": "BEE LOCAL BEIN SPORT 05 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298120.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298120.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-06-720p",
+      "name": "BEE LOCAL BEIN SPORT 06 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298121.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298121.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-07-720p",
+      "name": "BEE LOCAL BEIN SPORT 07 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298122.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298122.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-08-720p",
+      "name": "BEE LOCAL BEIN SPORT 08 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298123.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298123.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sport-bee-bee-local-bein-sport-09-720p",
+      "name": "BEE LOCAL BEIN SPORT 09 [720p]",
+      "logo": "",
+      "category": "BEIN SPORT (BEE)",
+      "provider": "BEIN SPORT (BEE)",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298124.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORT (BEE) stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298124.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-shoof-1",
+      "name": "SHOOF 1",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292782.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292782.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-1-hd",
+      "name": "AR | ALKASS 1 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234035.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234035.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-2-hd",
+      "name": "AR | ALKASS 2 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234036.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234036.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-3-hd",
+      "name": "AR | ALKASS 3 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234037.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234037.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-4-hd",
+      "name": "AR | ALKASS 4 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234038.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234038.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-5-hd",
+      "name": "AR | ALKASS 5 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234039.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234039.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-6-hd",
+      "name": "AR | ALKASS 6 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234040.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/234040.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-7-hd",
+      "name": "AR | ALKASS 7 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/237358.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/237358.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-ar-alkass-8-hd",
+      "name": "AR | ALKASS 8 HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/255159.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/255159.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-eight-twelve-hd",
+      "name": "Al Kass AP Eight | Twelve HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292811.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292811.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-five-nine-hd",
+      "name": "Al Kass AP Five | Nine HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292812.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292812.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-four-hd",
+      "name": "Al Kass AP Four HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292813.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292813.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-one-hd",
+      "name": "Al Kass AP One HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292814.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292814.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-seven-eleven-hd",
+      "name": "Al Kass AP Seven | Eleven HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292815.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292815.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-six-ten-hd",
+      "name": "Al Kass AP Six | Ten HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292816.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292816.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-three-hd",
+      "name": "Al Kass AP Three HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292817.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292817.ts"
+        }
+      ]
+    },
+    {
+      "id": "al-kass-al-kass-ap-two-hd",
+      "name": "Al Kass AP Two HD",
+      "logo": "",
+      "category": "Al Kass",
+      "provider": "Al Kass",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292818.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "Al Kass stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/292818.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-1-hd",
+      "name": "BEIN SPORTS F 1 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267030.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267030.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-2-hd",
+      "name": "BEIN SPORTS F 2 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267031.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267031.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-3-hd",
+      "name": "BEIN SPORTS F 3 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267032.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267032.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-4-hd",
+      "name": "BEIN SPORTS F 4 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267033.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267033.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-5-hd",
+      "name": "BEIN SPORTS F 5 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267034.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267034.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-6-hd",
+      "name": "BEIN SPORTS F 6 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267035.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267035.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-7-hd",
+      "name": "BEIN SPORTS F 7 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267036.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267036.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-8-hd",
+      "name": "BEIN SPORTS F 8 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267037.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267037.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-family-bein-sports-f-9-hd",
+      "name": "BEIN SPORTS F 9 HD",
+      "logo": "",
+      "category": "BEIN SPORTS FAMILY",
+      "provider": "BEIN SPORTS FAMILY",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267038.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS FAMILY stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/267038.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-1",
+      "name": "BEIN SPORTS AP LOCAL HD 1",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271132.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271132.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-2",
+      "name": "BEIN SPORTS AP LOCAL HD 2",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271133.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271133.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-3",
+      "name": "BEIN SPORTS AP LOCAL HD 3",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271134.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271134.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-4",
+      "name": "BEIN SPORTS AP LOCAL HD 4",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271137.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271137.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-5",
+      "name": "BEIN SPORTS AP LOCAL HD 5",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271138.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271138.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-6",
+      "name": "BEIN SPORTS AP LOCAL HD 6",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271139.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271139.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-7",
+      "name": "BEIN SPORTS AP LOCAL HD 7",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271140.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271140.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-8",
+      "name": "BEIN SPORTS AP LOCAL HD 8",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271141.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271141.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-hd-9",
+      "name": "BEIN SPORTS AP LOCAL HD 9",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271142.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/271142.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-ap-local-news",
+      "name": "BEIN SPORTS AP LOCAL NEWS",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/283833.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/283833.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-xtra-hd-1",
+      "name": "beIN Sports XTRA HD 1",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285820.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285820.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-xtra-hd-2",
+      "name": "beIN Sports XTRA HD 2",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285821.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285821.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-xtra-hd-3",
+      "name": "beIN Sports XTRA HD 3",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285822.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285822.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-xtra-hd-4",
+      "name": "beIN Sports XTRA HD 4",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285823.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285823.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-xtra-hd-5",
+      "name": "beIN Sports XTRA HD 5",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285824.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285824.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-sports-ap-bein-sports-xtra-hd-6",
+      "name": "beIN Sports XTRA HD 6",
+      "logo": "",
+      "category": "BEIN SPORTS AP",
+      "provider": "BEIN SPORTS AP",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285825.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS AP stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/285825.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-al-jazeera-channel",
+      "name": "Al Jazeera Channel",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291551.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291551.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-al-jazeera-documentary",
+      "name": "Al Jazeera Documentary",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291552.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291552.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-al-jazeera-english-hd",
+      "name": "Al Jazeera English HD",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291553.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291553.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-al-jazeera-mubasher",
+      "name": "Al Jazeera Mubasher",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291554.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291554.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-baraem",
+      "name": "Baraem",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291555.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291555.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bbc-earth-middle-east",
+      "name": "BBC Earth Middle East",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291556.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291556.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-box-office-1",
+      "name": "BeIn Box Office 1",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291557.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291557.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-box-office-2",
+      "name": "BeIn Box Office 2",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291558.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291558.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-drama-hd-1",
+      "name": "beIN Drama HD 1",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291559.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291559.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-gourmet-hd",
+      "name": "beIN Gourmet HD",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291560.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291560.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-movies-hd-1",
+      "name": "beIN Movies HD 1",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291561.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291561.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-movies-hd-2",
+      "name": "beIN Movies HD 2",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291562.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291562.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-movies-hd-3",
+      "name": "beIN Movies HD 3",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291563.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291563.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-movies-hd-4",
+      "name": "beIN Movies HD 4",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291564.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291564.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-series-hd-1",
+      "name": "beIN Series HD 1",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291565.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291565.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bein-series-hd-2",
+      "name": "beIN Series HD 2",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291566.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291566.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-be-junior",
+      "name": "Be Junior",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291567.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291567.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-bloomberg-tv-europe",
+      "name": "Bloomberg TV Europe",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291568.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291568.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-cartoonito",
+      "name": "Cartoonito",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291569.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291569.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-cartoon-network-arabic",
+      "name": "Cartoon Network Arabic",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291570.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291570.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-cartoon-network-mena",
+      "name": "Cartoon Network MENA",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291571.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291571.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-disney-channel",
+      "name": "Disney Channel",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291572.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291572.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-disney-junior",
+      "name": "Disney Junior",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291573.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291573.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-food-network",
+      "name": "Food Network",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291574.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291574.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-hgtv",
+      "name": "HGTV",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291575.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291575.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-jeem",
+      "name": "Jeem",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291576.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291576.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-nat-geo",
+      "name": "Nat Geo",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291577.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291577.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-nat-geo-wild",
+      "name": "Nat Geo Wild",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291578.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291578.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-star-action",
+      "name": "Star Action",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291579.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291579.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-star-movies-middle-east",
+      "name": "Star Movies Middle East",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291580.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291580.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-star-world-hd",
+      "name": "Star World HD",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291581.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291581.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-travel-channel-europe",
+      "name": "Travel Channel Europe",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291582.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/291582.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-2023-1-1080p",
+      "name": "ARA: BEIN OD 2023 1 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298146.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298146.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-2023-2-1080p",
+      "name": "ARA: BEIN OD 2023 2 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298147.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298147.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-2023-3-1080p",
+      "name": "ARA: BEIN OD 2023 3 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298148.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298148.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-2023-4-1080p",
+      "name": "ARA: BEIN OD 2023 4 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298149.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298149.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-movies-1-1080p",
+      "name": "ARA: BEIN OD MOVIES 1 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298150.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298150.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-movies-2-1080p",
+      "name": "ARA: BEIN OD MOVIES 2 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298151.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298151.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-movies-3-1080p",
+      "name": "ARA: BEIN OD MOVIES 3 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298152.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298152.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-movies-4-1080p",
+      "name": "ARA: BEIN OD MOVIES 4 [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298153.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298153.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-5-movies-1080p",
+      "name": "ARA: BEIN OD 5 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298154.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298154.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-6-movies-1080p",
+      "name": "ARA: BEIN OD 6 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298155.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298155.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-7-movies-1080p",
+      "name": "ARA: BEIN OD 7 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298156.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298156.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-8-movies-1080p",
+      "name": "ARA: BEIN OD 8 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298157.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298157.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-9-movies-1080p",
+      "name": "ARA: BEIN OD 9 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298158.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298158.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-10-movies-1080p",
+      "name": "ARA: BEIN OD 10 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298159.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298159.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-11-movies-1080p",
+      "name": "ARA: BEIN OD 11 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298160.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298160.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-12-movies-1080p",
+      "name": "ARA: BEIN OD 12 MOVIES [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298161.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298161.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-1-kids-1080p",
+      "name": "ARA: BEIN OD 1 KIDS [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298162.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298162.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-2-kids-1080p",
+      "name": "ARA: BEIN OD 2 KIDS [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298163.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298163.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-od-3-kids-1080p",
+      "name": "ARA: BEIN OD 3 KIDS [1080p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298164.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298164.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-box-office-1-720p",
+      "name": "ARA: BEIN BOX OFFICE 1 [720p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298166.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298166.ts"
+        }
+      ]
+    },
+    {
+      "id": "bein-entertainment-ara-bein-box-office-2-720p",
+      "name": "ARA: BEIN BOX OFFICE 2 [720p]",
+      "logo": "",
+      "category": "BEIN ENTERTAINMENT",
+      "provider": "BEIN ENTERTAINMENT",
+      "streamUrl": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298168.ts",
+      "description": "Imported from the selected M3U sections; preferred 720p/HD stream, with FHD fallback; 4K excluded.",
+      "country": "MENA / Global",
+      "language": "Arabic / English",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN ENTERTAINMENT stream",
+          "url": "http://u.goldeniptv.com:2052/live/8918036223225999/37e130684d86/298168.ts"
+        }
+      ]
     }
   ]
-    }
+}
