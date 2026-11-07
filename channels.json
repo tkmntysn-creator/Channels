@@ -22,7 +22,7 @@
     {
       "id": "bein-sports-3-4k",
       "name": "Bein Sports 3 4K",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_3_qa.jpg",
+      "logo": "https://img.logo-cdn.cc/beinsports.png",
       "category": "Bein Sports",
       "provider": "Bein Sports",
       "streamUrl": "https://live404.ai.studio/api/korasport/stream/bein3.m3u8",
@@ -40,7 +40,7 @@
     {
       "id": "bein-sports-1-fhd",
       "name": "Bein Sports 1 FHD",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_1_qa.jpg",
+      "logo": "https://img.logo-cdn.cc/beinsports.png",
       "category": "Bein Sports",
       "provider": "Bein Sports",
       "streamUrl": "https://krikartv4k.shaqlawatvworkersdev.workers.dev/b1s/index.m3u8",
@@ -58,7 +58,7 @@
     {
       "id": "bein-sports-2-fhd",
       "name": "Bein Sports 2 FHD",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_2_qa.jpg",
+      "logo": "https://img.logo-cdn.cc/beinsports.png",
       "category": "Bein Sports",
       "provider": "Bein Sports",
       "streamUrl": "https://krikartv4k.shaqlawatvworkersdev.workers.dev/b2s/index.m3u8",
@@ -76,7 +76,7 @@
     {
       "id": "bein-sports-3-fhd",
       "name": "Bein Sports 3 FHD",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_3_qa.jpg",
+      "logo": "https://img.logo-cdn.cc/beinsports.png",
       "category": "Bein Sports",
       "provider": "Bein Sports",
       "streamUrl": "https://krikartv4k.shaqlawatvworkersdev.workers.dev/b3s/index.m3u8",
@@ -94,7 +94,7 @@
     {
       "id": "bein-sports-6-sd",
       "name": "Bein Sports 6 SD",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_6_qa.jpg",
+      "logo": "https://img.logo-cdn.cc/beinsports.png",
       "category": "Bein Sports",
       "provider": "Bein Sports",
       "streamUrl": "https://kidn.pages.dev/m3u8/173.m3u8",
@@ -112,7 +112,7 @@
     {
       "id": "bein-sports-7-sd",
       "name": "Bein Sports 7 SD",
-      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_7_qa.jpg",
+      "logo": "https://img.logo-cdn.cc/beinsports.png",
       "category": "Bein Sports",
       "provider": "Bein Sports",
       "streamUrl": "https://kidn.pages.dev/m3u8/175.m3u8",
