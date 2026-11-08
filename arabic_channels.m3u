@@ -1,56 +1,170 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="37234" tvg-name="BEIN FATAFEAT HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN FATAFEAT HD
-http://r656.dad:80/ch/37234_
-#EXTINF:-1 tvg-id="4391" tvg-name="BEIN NAT GEO HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN NAT GEO HD
-http://r656.dad:80/ch/4391_
-#EXTINF:-1 tvg-id="3147" tvg-name="BEIN SERIES 2 FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SERIES 2 FHD
-http://r656.dad:80/ch/3147_
+#EXTINF:-1 tvg-id="69346" tvg-name="EVENT SPORTS 1 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 1 FHD (EXCLUS)
+http://r656.dad:80/ch/69346_
+#EXTINF:-1 tvg-id="89271" tvg-name="EVENT SPORTS 1 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 1 HD
+http://r656.dad:80/ch/89271_
+#EXTINF:-1 tvg-id="89272" tvg-name="EVENT SPORTS 1 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 1 SD
+http://r656.dad:80/ch/89272_
+#EXTINF:-1 tvg-id="69164" tvg-name="EVENT SPORTS 2 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 2 FHD (EXCLUS)
+http://r656.dad:80/ch/69164_
+#EXTINF:-1 tvg-id="89267" tvg-name="EVENT SPORTS 2 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 2 HD
+http://r656.dad:80/ch/89267_
+#EXTINF:-1 tvg-id="89268" tvg-name="EVENT SPORTS 2 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 2 SD
+http://r656.dad:80/ch/89268_
+#EXTINF:-1 tvg-id="1205" tvg-name="EVENT SPORTS 3 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 3 FHD (EXCLUS)
+http://r656.dad:80/ch/1205_
+#EXTINF:-1 tvg-id="74017" tvg-name="EVENT SPORTS 3 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 3 HD
+http://r656.dad:80/ch/74017_
+#EXTINF:-1 tvg-id="99520" tvg-name="EVENT SPORTS 3 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 3 SD
+http://r656.dad:80/ch/99520_
+#EXTINF:-1 tvg-id="1206" tvg-name="EVENT SPORTS 4 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 4 FHD (EXCLUS)
+http://r656.dad:80/ch/1206_
+#EXTINF:-1 tvg-id="68967" tvg-name="EVENT SPORTS 4 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 4 HD
+http://r656.dad:80/ch/68967_
+#EXTINF:-1 tvg-id="74012" tvg-name="EVENT SPORTS 4 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 4 SD
+http://r656.dad:80/ch/74012_
+#EXTINF:-1 tvg-id="1774" tvg-name="EVENT SPORTS 5 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 5 FHD (EXCLUS)
+http://r656.dad:80/ch/1774_
+#EXTINF:-1 tvg-id="89262" tvg-name="EVENT SPORTS 5 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 5 HD
+http://r656.dad:80/ch/89262_
+#EXTINF:-1 tvg-id="101070" tvg-name="EVENT SPORTS 5 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 5 SD
+http://r656.dad:80/ch/101070_
+#EXTINF:-1 tvg-id="2664" tvg-name="EVENT SPORTS 6 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 6 FHD (EXCLUS)
+http://r656.dad:80/ch/2664_
+#EXTINF:-1 tvg-id="89270" tvg-name="EVENT SPORTS 6 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 6 HD
+http://r656.dad:80/ch/89270_
+#EXTINF:-1 tvg-id="101113" tvg-name="EVENT SPORTS 6 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 6 SD
+http://r656.dad:80/ch/101113_
+#EXTINF:-1 tvg-id="2820" tvg-name="EVENT SPORTS 7 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 7 FHD (EXCLUS)
+http://r656.dad:80/ch/2820_
+#EXTINF:-1 tvg-id="99533" tvg-name="EVENT SPORTS 7 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 7 HD
+http://r656.dad:80/ch/99533_
+#EXTINF:-1 tvg-id="99507" tvg-name="EVENT SPORTS 7 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 7 SD
+http://r656.dad:80/ch/99507_
+#EXTINF:-1 tvg-id="12671" tvg-name="EVENT SPORTS 8 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 8 FHD (EXCLUS)
+http://r656.dad:80/ch/12671_
+#EXTINF:-1 tvg-id="26848" tvg-name="EVENT SPORTS 8 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 8 HD
+http://r656.dad:80/ch/26848_
+#EXTINF:-1 tvg-id="99421" tvg-name="EVENT SPORTS 8 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 8 SD
+http://r656.dad:80/ch/99421_
+#EXTINF:-1 tvg-id="2250" tvg-name="EVENT SPORTS 9 FHD (EXCLUS)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 9 FHD (EXCLUS)
+http://r656.dad:80/ch/2250_
+#EXTINF:-1 tvg-id="37261" tvg-name="EVENT SPORTS 9 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 9 HD
+http://r656.dad:80/ch/37261_
+#EXTINF:-1 tvg-id="26849" tvg-name="EVENT SPORTS 9 SD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 9 SD
+http://r656.dad:80/ch/26849_
+#EXTINF:-1 tvg-id="99605" tvg-name="EVENT SPORTS 10 FHD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 10 FHD
+http://r656.dad:80/ch/99605_
+#EXTINF:-1 tvg-id="89261" tvg-name="EVENT SPORTS 10 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 10 HD
+http://r656.dad:80/ch/89261_
+#EXTINF:-1 tvg-id="43851" tvg-name="EVENT SPORTS 11 FHD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 11 FHD
+http://r656.dad:80/ch/43851_
+#EXTINF:-1 tvg-id="69098" tvg-name="EVENT SPORTS 11 HD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 11 HD
+http://r656.dad:80/ch/69098_
+#EXTINF:-1 tvg-id="112607" tvg-name="EVENT SPORTS 12 FHD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 12 FHD
+http://r656.dad:80/ch/112607_
+#EXTINF:-1 tvg-id="112600" tvg-name="EVENT SPORTS 13 FHD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 13 FHD
+http://r656.dad:80/ch/112600_
+#EXTINF:-1 tvg-id="112599" tvg-name="EVENT SPORTS 14 FHD" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT SPORTS 14 FHD
+http://r656.dad:80/ch/112599_
+#EXTINF:-1 tvg-id="112078" tvg-name="EVENT 1 4K HDR (LIVE EVENT ONLY)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT 1 4K HDR (LIVE EVENT ONLY)
+http://r656.dad:80/ch/112078_
+#EXTINF:-1 tvg-id="3644" tvg-name="EVENT 2 4K HDR (LIVE EVENT ONLY)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT 2 4K HDR (LIVE EVENT ONLY)
+http://r656.dad:80/ch/3644_
+#EXTINF:-1 tvg-id="111992" tvg-name="EVENT 3 4K HDR (LIVE EVENT ONLY)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN",EVENT 3 4K HDR (LIVE EVENT ONLY)
+http://r656.dad:80/ch/111992_
+#EXTINF:-1 tvg-id="105102" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 1 FHD
+http://r656.dad:80/ch/105102_
 #EXTINF:-1 tvg-id="45704" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 1 FHD
 http://r656.dad:80/ch/45704_
+#EXTINF:-1 tvg-id="105103" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 1 HD
+http://r656.dad:80/ch/105103_
 #EXTINF:-1 tvg-id="45705" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 1 HD
 http://r656.dad:80/ch/45705_
 #EXTINF:-1 tvg-id="583" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 1 HEVC
 http://r656.dad:80/ch/583_
+#EXTINF:-1 tvg-id="105104" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 1 SD
+http://r656.dad:80/ch/105104_
 #EXTINF:-1 tvg-id="45706" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 1 SD
 http://r656.dad:80/ch/45706_
+#EXTINF:-1 tvg-id="105105" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 2 FHD
+http://r656.dad:80/ch/105105_
 #EXTINF:-1 tvg-id="45707" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 2 FHD
 http://r656.dad:80/ch/45707_
+#EXTINF:-1 tvg-id="105106" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 2 HD
+http://r656.dad:80/ch/105106_
 #EXTINF:-1 tvg-id="45708" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 2 HD
 http://r656.dad:80/ch/45708_
 #EXTINF:-1 tvg-id="683" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 2 HEVC
 http://r656.dad:80/ch/683_
+#EXTINF:-1 tvg-id="105107" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 2 SD
+http://r656.dad:80/ch/105107_
 #EXTINF:-1 tvg-id="45709" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 2 SD
 http://r656.dad:80/ch/45709_
 #EXTINF:-1 tvg-id="10081" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 3 FHD
 http://r656.dad:80/ch/10081_
 #EXTINF:-1 tvg-id="22392" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 3 HEVC
 http://r656.dad:80/ch/22392_
+#EXTINF:-1 tvg-id="788" tvg-name="BEIN SPORTS_3 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_3 HD
+http://r656.dad:80/ch/788_
+#EXTINF:-1 tvg-id="2600" tvg-name="BEIN SPORTS_3 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_3 SD
+http://r656.dad:80/ch/2600_
 #EXTINF:-1 tvg-id="10080" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 4 FHD
 http://r656.dad:80/ch/10080_
 #EXTINF:-1 tvg-id="22391" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 4 HEVC
 http://r656.dad:80/ch/22391_
-#EXTINF:-1 tvg-id="104974" tvg-name="BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)" tvg-logo="https://i.imgur.com/WwH58EE.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
-http://r656.dad:80/ch/104974_
+#EXTINF:-1 tvg-id="789" tvg-name="BEIN SPORTS_4 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_4 HD
+http://r656.dad:80/ch/789_
+#EXTINF:-1 tvg-id="2601" tvg-name="BEIN SPORTS_4 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_4 SD
+http://r656.dad:80/ch/2601_
 #EXTINF:-1 tvg-id="10079" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 5 FHD
 http://r656.dad:80/ch/10079_
 #EXTINF:-1 tvg-id="22390" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 5 HEVC
 http://r656.dad:80/ch/22390_
+#EXTINF:-1 tvg-id="790" tvg-name="BEIN SPORTS_5 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_5 HD
+http://r656.dad:80/ch/790_
+#EXTINF:-1 tvg-id="2602" tvg-name="BEIN SPORTS_5 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_5 SD
+http://r656.dad:80/ch/2602_
 #EXTINF:-1 tvg-id="10078" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 6 FHD
 http://r656.dad:80/ch/10078_
 #EXTINF:-1 tvg-id="22389" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 6 HEVC
 http://r656.dad:80/ch/22389_
+#EXTINF:-1 tvg-id="791" tvg-name="BEIN SPORTS_6 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_6 HD
+http://r656.dad:80/ch/791_
+#EXTINF:-1 tvg-id="2603" tvg-name="BEIN SPORTS_6 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_6 SD
+http://r656.dad:80/ch/2603_
 #EXTINF:-1 tvg-id="10077" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 7 FHD
 http://r656.dad:80/ch/10077_
 #EXTINF:-1 tvg-id="22388" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 7 HEVC
 http://r656.dad:80/ch/22388_
+#EXTINF:-1 tvg-id="792" tvg-name="BEIN SPORTS_7 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_7 HD
+http://r656.dad:80/ch/792_
+#EXTINF:-1 tvg-id="2604" tvg-name="BEIN SPORTS_7 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_7 SD
+http://r656.dad:80/ch/2604_
 #EXTINF:-1 tvg-id="10076" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 8 FHD
 http://r656.dad:80/ch/10076_
 #EXTINF:-1 tvg-id="22387" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 8 HEVC
 http://r656.dad:80/ch/22387_
+#EXTINF:-1 tvg-id="793" tvg-name="BEIN SPORTS_8 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_8 HD
+http://r656.dad:80/ch/793_
+#EXTINF:-1 tvg-id="2605" tvg-name="BEIN SPORTS_8 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_8 SD
+http://r656.dad:80/ch/2605_
 #EXTINF:-1 tvg-id="10075" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 9 FHD
 http://r656.dad:80/ch/10075_
 #EXTINF:-1 tvg-id="22386" tvg-name="BEIN SPORTS 9 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 9 HEVC
 http://r656.dad:80/ch/22386_
+#EXTINF:-1 tvg-id="794" tvg-name="BEIN SPORTS_9 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_9 HD
+http://r656.dad:80/ch/794_
+#EXTINF:-1 tvg-id="2606" tvg-name="BEIN SPORTS_9 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_9 SD
+http://r656.dad:80/ch/2606_
+#EXTINF:-1 tvg-id="37234" tvg-name="BEIN FATAFEAT HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN FATAFEAT HD
+http://r656.dad:80/ch/37234_
+#EXTINF:-1 tvg-id="4391" tvg-name="BEIN NAT GEO HD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN NAT GEO HD
+http://r656.dad:80/ch/4391_
+#EXTINF:-1 tvg-id="3147" tvg-name="BEIN SERIES 2 FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SERIES 2 FHD
+http://r656.dad:80/ch/3147_
+#EXTINF:-1 tvg-id="104974" tvg-name="BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)" tvg-logo="https://i.imgur.com/WwH58EE.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
+http://r656.dad:80/ch/104974_
 #EXTINF:-1 tvg-id="26511" tvg-name="BEIN SPORTS ENGLISH FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS ENGLISH FHD
 http://r656.dad:80/ch/26511_
 #EXTINF:-1 tvg-id="4412" tvg-name="BEIN SPORTS FHD" tvg-logo="https://i.imgur.com/uCv82hS.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS FHD
@@ -61,48 +175,6 @@ http://r656.dad:80/ch/1454_
 http://r656.dad:80/ch/369_
 #EXTINF:-1 tvg-id="89275" tvg-name="BEIN SPORTS XTRA FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS XTRA FHD
 http://r656.dad:80/ch/89275_
-#EXTINF:-1 tvg-id="788" tvg-name="BEIN SPORTS_3 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_3 HD
-http://r656.dad:80/ch/788_
-#EXTINF:-1 tvg-id="2600" tvg-name="BEIN SPORTS_3 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_3 SD
-http://r656.dad:80/ch/2600_
-#EXTINF:-1 tvg-id="789" tvg-name="BEIN SPORTS_4 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_4 HD
-http://r656.dad:80/ch/789_
-#EXTINF:-1 tvg-id="2601" tvg-name="BEIN SPORTS_4 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_4 SD
-http://r656.dad:80/ch/2601_
-#EXTINF:-1 tvg-id="790" tvg-name="BEIN SPORTS_5 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_5 HD
-http://r656.dad:80/ch/790_
-#EXTINF:-1 tvg-id="2602" tvg-name="BEIN SPORTS_5 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_5 SD
-http://r656.dad:80/ch/2602_
-#EXTINF:-1 tvg-id="791" tvg-name="BEIN SPORTS_6 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_6 HD
-http://r656.dad:80/ch/791_
-#EXTINF:-1 tvg-id="2603" tvg-name="BEIN SPORTS_6 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_6 SD
-http://r656.dad:80/ch/2603_
-#EXTINF:-1 tvg-id="792" tvg-name="BEIN SPORTS_7 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_7 HD
-http://r656.dad:80/ch/792_
-#EXTINF:-1 tvg-id="2604" tvg-name="BEIN SPORTS_7 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_7 SD
-http://r656.dad:80/ch/2604_
-#EXTINF:-1 tvg-id="793" tvg-name="BEIN SPORTS_8 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_8 HD
-http://r656.dad:80/ch/793_
-#EXTINF:-1 tvg-id="2605" tvg-name="BEIN SPORTS_8 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_8 SD
-http://r656.dad:80/ch/2605_
-#EXTINF:-1 tvg-id="794" tvg-name="BEIN SPORTS_9 HD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_9 HD
-http://r656.dad:80/ch/794_
-#EXTINF:-1 tvg-id="2606" tvg-name="BEIN SPORTS_9 SD" tvg-logo="http://i.imgur.com/UMyLxRI.png" group-title="BeIN & Sports & Entertainment (Arabic)",BEIN SPORTS_9 SD
-http://r656.dad:80/ch/2606_
-#EXTINF:-1 tvg-id="112030" tvg-name="BEIN DRAMA 1 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN DRAMA 1 FHD
-http://r656.dad:80/ch/112030_
-#EXTINF:-1 tvg-id="69350" tvg-name="BEIN MOVIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 1 FHD (EXCLUS)
-http://r656.dad:80/ch/69350_
-#EXTINF:-1 tvg-id="43850" tvg-name="BEIN MOVIES 2 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 2 FHD (EXCLUS)
-http://r656.dad:80/ch/43850_
-#EXTINF:-1 tvg-id="346" tvg-name="BEIN MOVIES 2 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 2 HD
-http://r656.dad:80/ch/346_
-#EXTINF:-1 tvg-id="111" tvg-name="BEIN MOVIES 3 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 3 FHD
-http://r656.dad:80/ch/111_
-#EXTINF:-1 tvg-id="43852" tvg-name="BEIN MOVIES 4 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 4 FHD (EXCLUS)
-http://r656.dad:80/ch/43852_
-#EXTINF:-1 tvg-id="2396" tvg-name="BEIN SERIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SERIES 1 FHD (EXCLUS)
-http://r656.dad:80/ch/2396_
 #EXTINF:-1 tvg-id="112484" tvg-name="BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 1 FHD (50 FPS)
 http://r656.dad:80/ch/112484_
 #EXTINF:-1 tvg-id="89259" tvg-name="BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 1 HD (50 FPS)
@@ -139,6 +211,20 @@ http://r656.dad:80/ch/112154_
 http://r656.dad:80/ch/22393_
 #EXTINF:-1 tvg-id="112156" tvg-name="BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS 9 HD (50 FPS)
 http://r656.dad:80/ch/112156_
+#EXTINF:-1 tvg-id="112030" tvg-name="BEIN DRAMA 1 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN DRAMA 1 FHD
+http://r656.dad:80/ch/112030_
+#EXTINF:-1 tvg-id="69350" tvg-name="BEIN MOVIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 1 FHD (EXCLUS)
+http://r656.dad:80/ch/69350_
+#EXTINF:-1 tvg-id="43850" tvg-name="BEIN MOVIES 2 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 2 FHD (EXCLUS)
+http://r656.dad:80/ch/43850_
+#EXTINF:-1 tvg-id="346" tvg-name="BEIN MOVIES 2 HD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 2 HD
+http://r656.dad:80/ch/346_
+#EXTINF:-1 tvg-id="111" tvg-name="BEIN MOVIES 3 FHD" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 3 FHD
+http://r656.dad:80/ch/111_
+#EXTINF:-1 tvg-id="43852" tvg-name="BEIN MOVIES 4 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN MOVIES 4 FHD (EXCLUS)
+http://r656.dad:80/ch/43852_
+#EXTINF:-1 tvg-id="2396" tvg-name="BEIN SERIES 1 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SERIES 1 FHD (EXCLUS)
+http://r656.dad:80/ch/2396_
 #EXTINF:-1 tvg-id="89273" tvg-name="BEIN SPORTS EN FRANÇAIS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS EN FRANÇAIS FHD (50 FPS)
 http://r656.dad:80/ch/89273_
 #EXTINF:-1 tvg-id="43854" tvg-name="BEIN SPORTS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",BEIN SPORTS FHD (50 FPS)
@@ -565,6 +651,18 @@ http://r656.dad:80/ch/195450_
 http://r656.dad:80/ch/7034_
 #EXTINF:-1 tvg-id="5233" tvg-name="ANIMAL PLANET ARABIA HD" tvg-logo="" group-title="ARABES ( العربية)",ANIMAL PLANET ARABIA HD
 http://r656.dad:80/ch/5233_
+#EXTINF:-1 tvg-id="7024" tvg-name="AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀
+http://r656.dad:80/ch/7024_
+#EXTINF:-1 tvg-id="3725" tvg-name="AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀
+http://r656.dad:80/ch/3725_
+#EXTINF:-1 tvg-id="3730" tvg-name="AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀
+http://r656.dad:80/ch/3730_
+#EXTINF:-1 tvg-id="3727" tvg-name="AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀
+http://r656.dad:80/ch/3727_
+#EXTINF:-1 tvg-id="3729" tvg-name="AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀
+http://r656.dad:80/ch/3729_
+#EXTINF:-1 tvg-id="7026" tvg-name="AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES ( العربية)",AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀
+http://r656.dad:80/ch/7026_
 #EXTINF:-1 tvg-id="195387" tvg-name="ARABICA HD" tvg-logo="" group-title="ARABES ( العربية)",ARABICA HD
 http://r656.dad:80/ch/195387_
 #EXTINF:-1 tvg-id="1784" tvg-name="ARABICA TV FHD" tvg-logo="" group-title="ARABES ( العربية)",ARABICA TV FHD
@@ -603,6 +701,8 @@ http://r656.dad:80/ch/1511_
 http://r656.dad:80/ch/195256_
 #EXTINF:-1 tvg-id="195361" tvg-name="BAHRAN QURAN HD" tvg-logo="" group-title="ARABES ( العربية)",BAHRAN QURAN HD
 http://r656.dad:80/ch/195361_
+#EXTINF:-1 tvg-id="195255" tvg-name="BAHREIN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",BAHREIN ] ▀▄▀▄▀
+http://r656.dad:80/ch/195255_
 #EXTINF:-1 tvg-id="68966" tvg-name="BARAEM FHD" tvg-logo="" group-title="ARABES ( العربية)",BARAEM FHD
 http://r656.dad:80/ch/68966_
 #EXTINF:-1 tvg-id="41999" tvg-name="BARAEM HD" tvg-logo="" group-title="ARABES ( العربية)",BARAEM HD
@@ -641,6 +741,8 @@ http://r656.dad:80/ch/195351_
 http://r656.dad:80/ch/195352_
 #EXTINF:-1 tvg-id="5096" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="ARABES ( العربية)",DISNEY JUNIOR HD
 http://r656.dad:80/ch/5096_
+#EXTINF:-1 tvg-id="195262" tvg-name="DIVERS ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",DIVERS ] ▀▄▀▄▀
+http://r656.dad:80/ch/195262_
 #EXTINF:-1 tvg-id="5094" tvg-name="DMC DRAMA" tvg-logo="" group-title="ARABES ( العربية)",DMC DRAMA
 http://r656.dad:80/ch/5094_
 #EXTINF:-1 tvg-id="195291" tvg-name="DMC FHD" tvg-logo="" group-title="ARABES ( العربية)",DMC FHD
@@ -657,6 +759,10 @@ http://r656.dad:80/ch/682_
 http://r656.dad:80/ch/590_
 #EXTINF:-1 tvg-id="869" tvg-name="DW TV ARABIA" tvg-logo="" group-title="ARABES ( العربية)",DW TV ARABIA
 http://r656.dad:80/ch/869_
+#EXTINF:-1 tvg-id="195267" tvg-name="EDUCATION ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",EDUCATION ] ▀▄▀▄▀
+http://r656.dad:80/ch/195267_
+#EXTINF:-1 tvg-id="4114" tvg-name="EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀
+http://r656.dad:80/ch/4114_
 #EXTINF:-1 tvg-id="195268" tvg-name="EGY EDUC 1" tvg-logo="" group-title="ARABES ( العربية)",EGY EDUC 1
 http://r656.dad:80/ch/195268_
 #EXTINF:-1 tvg-id="195409" tvg-name="EL MAHADRA" tvg-logo="" group-title="ARABES ( العربية)",EL MAHADRA
@@ -665,6 +771,8 @@ http://r656.dad:80/ch/195409_
 http://r656.dad:80/ch/5270_
 #EXTINF:-1 tvg-id="195410" tvg-name="EL WATANIA TV" tvg-logo="" group-title="ARABES ( العربية)",EL WATANIA TV
 http://r656.dad:80/ch/195410_
+#EXTINF:-1 tvg-id="195312" tvg-name="EMIRATS ARABES UNIS ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",EMIRATS ARABES UNIS ] ▀▄▀▄▀
+http://r656.dad:80/ch/195312_
 #EXTINF:-1 tvg-id="195263" tvg-name="ERITREA TV" tvg-logo="" group-title="ARABES ( العربية)",ERITREA TV
 http://r656.dad:80/ch/195263_
 #EXTINF:-1 tvg-id="871" tvg-name="EURONEWS" tvg-logo="http://i.imgur.com/eoxsyGr.png" group-title="ARABES ( العربية)",EURONEWS
@@ -705,6 +813,8 @@ http://r656.dad:80/ch/195270_
 http://r656.dad:80/ch/195265_
 #EXTINF:-1 tvg-id="523" tvg-name="IQRA" tvg-logo="http://i.imgur.com/TRcKrY9.png" group-title="ARABES ( العربية)",IQRA
 http://r656.dad:80/ch/523_
+#EXTINF:-1 tvg-id="195342" tvg-name="IRAK ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",IRAK ] ▀▄▀▄▀
+http://r656.dad:80/ch/195342_
 #EXTINF:-1 tvg-id="195353" tvg-name="IRAQ 24 HD" tvg-logo="" group-title="ARABES ( العربية)",IRAQ 24 HD
 http://r656.dad:80/ch/195353_
 #EXTINF:-1 tvg-id="42081" tvg-name="IRAQ FUTURE TV HD" tvg-logo="" group-title="ARABES ( العربية)",IRAQ FUTURE TV HD
@@ -719,12 +829,16 @@ http://r656.dad:80/ch/2000_
 http://r656.dad:80/ch/5409_
 #EXTINF:-1 tvg-id="22634" tvg-name="JORDAN TV" tvg-logo="" group-title="ARABES ( العربية)",JORDAN TV
 http://r656.dad:80/ch/22634_
+#EXTINF:-1 tvg-id="195367" tvg-name="JORDANIE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",JORDANIE ] ▀▄▀▄▀
+http://r656.dad:80/ch/195367_
 #EXTINF:-1 tvg-id="195249" tvg-name="KAIF TV" tvg-logo="" group-title="ARABES ( العربية)",KAIF TV
 http://r656.dad:80/ch/195249_
 #EXTINF:-1 tvg-id="195445" tvg-name="KASSALA TV" tvg-logo="" group-title="ARABES ( العربية)",KASSALA TV
 http://r656.dad:80/ch/195445_
 #EXTINF:-1 tvg-id="195338" tvg-name="KRAMESH KIDS" tvg-logo="" group-title="ARABES ( العربية)",KRAMESH KIDS
 http://r656.dad:80/ch/195338_
+#EXTINF:-1 tvg-id="3724" tvg-name="KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀
+http://r656.dad:80/ch/3724_
 #EXTINF:-1 tvg-id="195379" tvg-name="KUWAIT ETHRAA HD" tvg-logo="" group-title="ARABES ( العربية)",KUWAIT ETHRAA HD
 http://r656.dad:80/ch/195379_
 #EXTINF:-1 tvg-id="195382" tvg-name="KUWAIT TV 1 FHD" tvg-logo="" group-title="ARABES ( العربية)",KUWAIT TV 1 FHD
@@ -735,10 +849,14 @@ http://r656.dad:80/ch/195383_
 http://r656.dad:80/ch/1773_
 #EXTINF:-1 tvg-id="1776" tvg-name="KUWEIT TV AL.ARABI FHD" tvg-logo="" group-title="ARABES ( العربية)",KUWEIT TV AL.ARABI FHD
 http://r656.dad:80/ch/1776_
+#EXTINF:-1 tvg-id="4112" tvg-name="KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀
+http://r656.dad:80/ch/4112_
 #EXTINF:-1 tvg-id="195452" tvg-name="LANA TV" tvg-logo="" group-title="ARABES ( العربية)",LANA TV
 http://r656.dad:80/ch/195452_
 #EXTINF:-1 tvg-id="101145" tvg-name="LANA TV HD" tvg-logo="" group-title="ARABES ( العربية)",LANA TV HD
 http://r656.dad:80/ch/101145_
+#EXTINF:-1 tvg-id="3711" tvg-name="LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀
+http://r656.dad:80/ch/3711_
 #EXTINF:-1 tvg-id="680" tvg-name="LBC HD" tvg-logo="" group-title="ARABES ( العربية)",LBC HD
 http://r656.dad:80/ch/680_
 #EXTINF:-1 tvg-id="42064" tvg-name="LBC INTERNATIONAL HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/lbc-international-lb.png" group-title="ARABES ( العربية)",LBC INTERNATIONAL HD
@@ -757,6 +875,8 @@ http://r656.dad:80/ch/195397_
 http://r656.dad:80/ch/2830_
 #EXTINF:-1 tvg-id="195398" tvg-name="LIBYA WTV HD" tvg-logo="" group-title="ARABES ( العربية)",LIBYA WTV HD
 http://r656.dad:80/ch/195398_
+#EXTINF:-1 tvg-id="195389" tvg-name="LIBYE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",LIBYE ] ▀▄▀▄▀
+http://r656.dad:80/ch/195389_
 #EXTINF:-1 tvg-id="195399" tvg-name="LJBC TV" tvg-logo="" group-title="ARABES ( العربية)",LJBC TV
 http://r656.dad:80/ch/195399_
 #EXTINF:-1 tvg-id="195257" tvg-name="LUALUA" tvg-logo="" group-title="ARABES ( العربية)",LUALUA
@@ -777,6 +897,8 @@ http://r656.dad:80/ch/757_
 http://r656.dad:80/ch/195384_
 #EXTINF:-1 tvg-id="5095" tvg-name="MASPERO ZAMAN" tvg-logo="" group-title="ARABES ( العربية)",MASPERO ZAMAN
 http://r656.dad:80/ch/5095_
+#EXTINF:-1 tvg-id="195402" tvg-name="MAURITANIE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",MAURITANIE ] ▀▄▀▄▀
+http://r656.dad:80/ch/195402_
 #EXTINF:-1 tvg-id="19704" tvg-name="MAZZIKA MUSIC" tvg-logo="" group-title="ARABES ( العربية)",MAZZIKA MUSIC
 http://r656.dad:80/ch/19704_
 #EXTINF:-1 tvg-id="1786" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES ( العربية)",MBC 1
@@ -889,6 +1011,8 @@ http://r656.dad:80/ch/195302_
 http://r656.dad:80/ch/195303_
 #EXTINF:-1 tvg-id="195388" tvg-name="OTV FHD" tvg-logo="" group-title="ARABES ( العربية)",OTV FHD
 http://r656.dad:80/ch/195388_
+#EXTINF:-1 tvg-id="195422" tvg-name="PALESTINE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",PALESTINE ] ▀▄▀▄▀
+http://r656.dad:80/ch/195422_
 #EXTINF:-1 tvg-id="7035" tvg-name="PALESTINE LIVE HD" tvg-logo="" group-title="ARABES ( العربية)",PALESTINE LIVE HD
 http://r656.dad:80/ch/7035_
 #EXTINF:-1 tvg-id="758" tvg-name="PALESTINE PFC" tvg-logo="" group-title="ARABES ( العربية)",PALESTINE PFC
@@ -919,6 +1043,8 @@ http://r656.dad:80/ch/195309_
 http://r656.dad:80/ch/7033_
 #EXTINF:-1 tvg-id="5403" tvg-name="QATAR TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/qatar-tv-ae.png" group-title="ARABES ( العربية)",QATAR TV HD
 http://r656.dad:80/ch/5403_
+#EXTINF:-1 tvg-id="4115" tvg-name="QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀
+http://r656.dad:80/ch/4115_
 #EXTINF:-1 tvg-id="195310" tvg-name="RADIO 9090" tvg-logo="" group-title="ARABES ( العربية)",RADIO 9090
 http://r656.dad:80/ch/195310_
 #EXTINF:-1 tvg-id="195430" tvg-name="RAJEEN HD" tvg-logo="" group-title="ARABES ( العربية)",RAJEEN HD
@@ -1041,6 +1167,8 @@ http://r656.dad:80/ch/195332_
 http://r656.dad:80/ch/195471_
 #EXTINF:-1 tvg-id="585" tvg-name="SKY NEWS ARABIYA HD" tvg-logo="" group-title="ARABES ( العربية)",SKY NEWS ARABIYA HD
 http://r656.dad:80/ch/585_
+#EXTINF:-1 tvg-id="195440" tvg-name="SOUDAN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",SOUDAN ] ▀▄▀▄▀
+http://r656.dad:80/ch/195440_
 #EXTINF:-1 tvg-id="568" tvg-name="SPACETOON" tvg-logo="http://i.imgur.com/eHw38xa.png" group-title="ARABES ( العربية)",SPACETOON
 http://r656.dad:80/ch/568_
 #EXTINF:-1 tvg-id="90005" tvg-name="SPACETOON FHD" tvg-logo="" group-title="ARABES ( العربية)",SPACETOON FHD
@@ -1053,6 +1181,8 @@ http://r656.dad:80/ch/195447_
 http://r656.dad:80/ch/3603_
 #EXTINF:-1 tvg-id="195472" tvg-name="SUHAIL TV" tvg-logo="" group-title="ARABES ( العربية)",SUHAIL TV
 http://r656.dad:80/ch/195472_
+#EXTINF:-1 tvg-id="3722" tvg-name="SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀
+http://r656.dad:80/ch/3722_
 #EXTINF:-1 tvg-id="195456" tvg-name="SYRIA AL THANIA TV" tvg-logo="" group-title="ARABES ( العربية)",SYRIA AL THANIA TV
 http://r656.dad:80/ch/195456_
 #EXTINF:-1 tvg-id="726" tvg-name="SYRIA CHANNEL FHD" tvg-logo="" group-title="ARABES ( العربية)",SYRIA CHANNEL FHD
@@ -1081,6 +1211,8 @@ http://r656.dad:80/ch/2614_
 http://r656.dad:80/ch/90007_
 #EXTINF:-1 tvg-id="195341" tvg-name="WANASAT BABY" tvg-logo="" group-title="ARABES ( العربية)",WANASAT BABY
 http://r656.dad:80/ch/195341_
+#EXTINF:-1 tvg-id="195461" tvg-name="YEMEN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",YEMEN ] ▀▄▀▄▀
+http://r656.dad:80/ch/195461_
 #EXTINF:-1 tvg-id="195473" tvg-name="YEMEN DOCUMENTARY" tvg-logo="" group-title="ARABES ( العربية)",YEMEN DOCUMENTARY
 http://r656.dad:80/ch/195473_
 #EXTINF:-1 tvg-id="195474" tvg-name="YEMEN HD" tvg-logo="" group-title="ARABES ( العربية)",YEMEN HD
@@ -1093,250 +1225,208 @@ http://r656.dad:80/ch/7233_
 http://r656.dad:80/ch/415_
 #EXTINF:-1 tvg-id="413" tvg-name="ZEE ALWAN" tvg-logo="http://i.imgur.com/XDKqhCY.png" group-title="ARABES ( العربية)",ZEE ALWAN
 http://r656.dad:80/ch/413_
-#EXTINF:-1 tvg-id="7024" tvg-name="▀▄ AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀
-http://r656.dad:80/ch/7024_
-#EXTINF:-1 tvg-id="3725" tvg-name="▀▄ AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀
-http://r656.dad:80/ch/3725_
-#EXTINF:-1 tvg-id="3730" tvg-name="▀▄ AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀
-http://r656.dad:80/ch/3730_
-#EXTINF:-1 tvg-id="3727" tvg-name="▀▄ AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀
-http://r656.dad:80/ch/3727_
-#EXTINF:-1 tvg-id="3729" tvg-name="▀▄ AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀
-http://r656.dad:80/ch/3729_
-#EXTINF:-1 tvg-id="7026" tvg-name="▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀" tvg-logo="https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png" group-title="ARABES ( العربية)",▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀
-http://r656.dad:80/ch/7026_
-#EXTINF:-1 tvg-id="4114" tvg-name="▀▄ EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀
-http://r656.dad:80/ch/4114_
-#EXTINF:-1 tvg-id="3724" tvg-name="▀▄ KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀
-http://r656.dad:80/ch/3724_
-#EXTINF:-1 tvg-id="4112" tvg-name="▀▄ KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀
-http://r656.dad:80/ch/4112_
-#EXTINF:-1 tvg-id="3711" tvg-name="▀▄ LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀
-http://r656.dad:80/ch/3711_
-#EXTINF:-1 tvg-id="4115" tvg-name="▀▄ QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀
-http://r656.dad:80/ch/4115_
-#EXTINF:-1 tvg-id="3722" tvg-name="▀▄ SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄ SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀
-http://r656.dad:80/ch/3722_
-#EXTINF:-1 tvg-id="195255" tvg-name="▀▄▀▄▀ [ BAHREIN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ BAHREIN ] ▀▄▀▄▀
-http://r656.dad:80/ch/195255_
-#EXTINF:-1 tvg-id="195262" tvg-name="▀▄▀▄▀ [ DIVERS ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ DIVERS ] ▀▄▀▄▀
-http://r656.dad:80/ch/195262_
-#EXTINF:-1 tvg-id="195267" tvg-name="▀▄▀▄▀ [ EDUCATION ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ EDUCATION ] ▀▄▀▄▀
-http://r656.dad:80/ch/195267_
-#EXTINF:-1 tvg-id="195312" tvg-name="▀▄▀▄▀ [ EMIRATS ARABES UNIS ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ EMIRATS ARABES UNIS ] ▀▄▀▄▀
-http://r656.dad:80/ch/195312_
-#EXTINF:-1 tvg-id="195342" tvg-name="▀▄▀▄▀ [ IRAK ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ IRAK ] ▀▄▀▄▀
-http://r656.dad:80/ch/195342_
-#EXTINF:-1 tvg-id="195367" tvg-name="▀▄▀▄▀ [ JORDANIE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ JORDANIE ] ▀▄▀▄▀
-http://r656.dad:80/ch/195367_
-#EXTINF:-1 tvg-id="195389" tvg-name="▀▄▀▄▀ [ LIBYE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ LIBYE ] ▀▄▀▄▀
-http://r656.dad:80/ch/195389_
-#EXTINF:-1 tvg-id="195402" tvg-name="▀▄▀▄▀ [ MAURITANIE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ MAURITANIE ] ▀▄▀▄▀
-http://r656.dad:80/ch/195402_
-#EXTINF:-1 tvg-id="195422" tvg-name="▀▄▀▄▀ [ PALESTINE ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ PALESTINE ] ▀▄▀▄▀
-http://r656.dad:80/ch/195422_
-#EXTINF:-1 tvg-id="195440" tvg-name="▀▄▀▄▀ [ SOUDAN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ SOUDAN ] ▀▄▀▄▀
-http://r656.dad:80/ch/195440_
-#EXTINF:-1 tvg-id="195461" tvg-name="▀▄▀▄▀ [ YEMEN ] ▀▄▀▄▀" tvg-logo="" group-title="ARABES ( العربية)",▀▄▀▄▀ [ YEMEN ] ▀▄▀▄▀
-http://r656.dad:80/ch/195461_
-#EXTINF:-1 tvg-id="2810" tvg-name="DZ| AL MAGHARIBIA HD" tvg-logo="http://i.imgur.com/iMC45iQ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| AL MAGHARIBIA HD
-http://r656.dad:80/ch/2810_
-#EXTINF:-1 tvg-id="3601" tvg-name="DZ| AL24 NEWS FHD" tvg-logo="https://i.imgur.com/sHq6ktu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| AL24 NEWS FHD
-http://r656.dad:80/ch/3601_
-#EXTINF:-1 tvg-id="228" tvg-name="DZ| ALGERIA 4 KIDS" tvg-logo="https://4kids-tv.com/wp-content/uploads/2022/02/logo4kids.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIA 4 KIDS
-http://r656.dad:80/ch/228_
-#EXTINF:-1 tvg-id="1410" tvg-name="DZ| ALGERIE 3 FHD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 3 FHD
-http://r656.dad:80/ch/1410_
-#EXTINF:-1 tvg-id="225" tvg-name="DZ| ALGERIE 3 HD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 3 HD
-http://r656.dad:80/ch/225_
-#EXTINF:-1 tvg-id="226" tvg-name="DZ| ALGERIE 4" tvg-logo="http://i.imgur.com/IBx84Z7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 4
-http://r656.dad:80/ch/226_
-#EXTINF:-1 tvg-id="227" tvg-name="DZ| ALGERIE 5 HD" tvg-logo="http://i.imgur.com/TXyy8t7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 5 HD
-http://r656.dad:80/ch/227_
-#EXTINF:-1 tvg-id="229" tvg-name="DZ| ALGERIE 6 FHD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 6 FHD
-http://r656.dad:80/ch/229_
-#EXTINF:-1 tvg-id="42087" tvg-name="DZ| ALGERIE 6 HD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 6 HD
-http://r656.dad:80/ch/42087_
-#EXTINF:-1 tvg-id="45716" tvg-name="DZ| ALGERIE 7 EL MAARIFA" tvg-logo="https://i.imgur.com/GVfSdP1.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 7 EL MAARIFA
-http://r656.dad:80/ch/45716_
-#EXTINF:-1 tvg-id="45717" tvg-name="DZ| ALGERIE 8 EL DAKIRA" tvg-logo="https://i.imgur.com/6dGGebB.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ALGERIE 8 EL DAKIRA
-http://r656.dad:80/ch/45717_
-#EXTINF:-1 tvg-id="6974" tvg-name="DZ| AMOU YAZID TOFOLA HD" tvg-logo="https://i.imgur.com/jrfdlWq.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| AMOU YAZID TOFOLA HD
-http://r656.dad:80/ch/6974_
-#EXTINF:-1 tvg-id="1112" tvg-name="DZ| BAHIA TV" tvg-logo="http://i.imgur.com/3ExRISi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| BAHIA TV
-http://r656.dad:80/ch/1112_
-#EXTINF:-1 tvg-id="374" tvg-name="DZ| BERBERE JEUNESSE (EXCLUS)" tvg-logo="https://i.imgur.com/iNaAtbD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| BERBERE JEUNESSE (EXCLUS)
-http://r656.dad:80/ch/374_
-#EXTINF:-1 tvg-id="42075" tvg-name="DZ| BERBERE MUSIC (EXCLUS)" tvg-logo="https://i.imgur.com/AmekoXo.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| BERBERE MUSIC (EXCLUS)
-http://r656.dad:80/ch/42075_
-#EXTINF:-1 tvg-id="949" tvg-name="DZ| BERBERE TV" tvg-logo="http://i.imgur.com/98gjMeV.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| BERBERE TV
-http://r656.dad:80/ch/949_
-#EXTINF:-1 tvg-id="4279" tvg-name="DZ| BEUR FM TV (EXCLU)" tvg-logo="https://i.imgur.com/bgtm9Gm.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| BEUR FM TV (EXCLU)
-http://r656.dad:80/ch/4279_
-#EXTINF:-1 tvg-id="2805" tvg-name="DZ| BEUR TV HD" tvg-logo="http://i.imgur.com/GvMXf3K.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| BEUR TV HD
-http://r656.dad:80/ch/2805_
-#EXTINF:-1 tvg-id="173" tvg-name="DZ| CANAL ALGERIE" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| CANAL ALGERIE
-http://r656.dad:80/ch/173_
-#EXTINF:-1 tvg-id="2825" tvg-name="DZ| CANAL ALGERIE FHD" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| CANAL ALGERIE FHD
-http://r656.dad:80/ch/2825_
-#EXTINF:-1 tvg-id="230" tvg-name="DZ| ECHOROUK NEWS" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ECHOROUK NEWS
-http://r656.dad:80/ch/230_
-#EXTINF:-1 tvg-id="1560" tvg-name="DZ| ECHOROUK NEWS HD" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ECHOROUK NEWS HD
-http://r656.dad:80/ch/1560_
-#EXTINF:-1 tvg-id="175" tvg-name="DZ| ECHOROUK TV" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ECHOROUK TV
-http://r656.dad:80/ch/175_
-#EXTINF:-1 tvg-id="1559" tvg-name="DZ| ECHOROUK TV FHD" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ECHOROUK TV FHD
-http://r656.dad:80/ch/1559_
-#EXTINF:-1 tvg-id="1113" tvg-name="DZ| EL ANIS TV" tvg-logo="https://i.imgur.com/2CNfkrr.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL ANIS TV
-http://r656.dad:80/ch/1113_
-#EXTINF:-1 tvg-id="104965" tvg-name="DZ| EL BARLAMANYA FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL BARLAMANYA FHD
-http://r656.dad:80/ch/104965_
-#EXTINF:-1 tvg-id="231" tvg-name="DZ| EL BILAD TV" tvg-logo="http://i.imgur.com/lESg64o.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL BILAD TV
-http://r656.dad:80/ch/231_
-#EXTINF:-1 tvg-id="6183" tvg-name="DZ| EL DJAZAIR N1" tvg-logo="https://i.imgur.com/Cpt7Lri.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL DJAZAIR N1
-http://r656.dad:80/ch/6183_
-#EXTINF:-1 tvg-id="236" tvg-name="DZ| EL FADJR TV" tvg-logo="https://i.imgur.com/W1x47Ar.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL FADJR TV
-http://r656.dad:80/ch/236_
-#EXTINF:-1 tvg-id="2260" tvg-name="DZ| EL HAYAT TV FHD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL HAYAT TV FHD
-http://r656.dad:80/ch/2260_
-#EXTINF:-1 tvg-id="1772" tvg-name="DZ| EL HAYAT TV HD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL HAYAT TV HD
-http://r656.dad:80/ch/1772_
-#EXTINF:-1 tvg-id="233" tvg-name="DZ| EL HEDDAF TV FHD" tvg-logo="http://i.imgur.com/mgPHvo8.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL HEDDAF TV FHD
-http://r656.dad:80/ch/233_
-#EXTINF:-1 tvg-id="42074" tvg-name="DZ| EL WATANIA TV" tvg-logo="https://i.imgur.com/VUdIe25.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| EL WATANIA TV
-http://r656.dad:80/ch/42074_
-#EXTINF:-1 tvg-id="172" tvg-name="DZ| ENNAHAR TV" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ENNAHAR TV
-http://r656.dad:80/ch/172_
-#EXTINF:-1 tvg-id="2806" tvg-name="DZ| ENNAHAR TV SD" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ENNAHAR TV SD
-http://r656.dad:80/ch/2806_
-#EXTINF:-1 tvg-id="171" tvg-name="DZ| ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ENTV (PROGRAMME NATIONAL) FHD
-http://r656.dad:80/ch/171_
-#EXTINF:-1 tvg-id="1783" tvg-name="DZ| ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ENTV (PROGRAMME NATIONAL) HD
-http://r656.dad:80/ch/1783_
-#EXTINF:-1 tvg-id="112124" tvg-name="DZ| NATV NORTH AFRICA CHANNEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbqRjDRPB4SE9-LwzU_dYIemOYSrUS2VQew&s" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| NATV NORTH AFRICA CHANNEL HD
-http://r656.dad:80/ch/112124_
-#EXTINF:-1 tvg-id="22395" tvg-name="DZ| ONE TV FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ONE TV FHD
-http://r656.dad:80/ch/22395_
-#EXTINF:-1 tvg-id="42041" tvg-name="DZ| SALAM TV HD" tvg-logo="https://i.imgur.com/YKJQLtf.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| SALAM TV HD
-http://r656.dad:80/ch/42041_
-#EXTINF:-1 tvg-id="176" tvg-name="DZ| SAMIRA TV" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| SAMIRA TV
-http://r656.dad:80/ch/176_
-#EXTINF:-1 tvg-id="22398" tvg-name="DZ| SAMIRA TV FHD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| SAMIRA TV FHD
-http://r656.dad:80/ch/22398_
-#EXTINF:-1 tvg-id="3151" tvg-name="DZ| SAMIRA TV HD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| SAMIRA TV HD
-http://r656.dad:80/ch/3151_
-#EXTINF:-1 tvg-id="112129" tvg-name="DZ| SPORT PLUS HD" tvg-logo="https://i.imgur.com/H0EVUuN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| SPORT PLUS HD
-http://r656.dad:80/ch/112129_
-#EXTINF:-1 tvg-id="41988" tvg-name="DZ| ZAHRA TV" tvg-logo="https://i.imgur.com/K9BnK4p.png" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ| ZAHRA TV
-http://r656.dad:80/ch/41988_
-#EXTINF:-1 tvg-id="5245" tvg-name="MA| 2M FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| 2M FHD
+#EXTINF:-1 tvg-id="5245" tvg-name="2M FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",2M FHD
 http://r656.dad:80/ch/5245_
-#EXTINF:-1 tvg-id="274" tvg-name="MA| 2M MAROC HD" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| 2M MAROC HD
+#EXTINF:-1 tvg-id="274" tvg-name="2M MAROC HD" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",2M MAROC HD
 http://r656.dad:80/ch/274_
-#EXTINF:-1 tvg-id="3150" tvg-name="MA| 2M MONDE" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| 2M MONDE
+#EXTINF:-1 tvg-id="3150" tvg-name="2M MONDE" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",2M MONDE
 http://r656.dad:80/ch/3150_
-#EXTINF:-1 tvg-id="1507" tvg-name="MA| AL AOULA FHD" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| AL AOULA FHD
+#EXTINF:-1 tvg-id="1507" tvg-name="AL AOULA FHD" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL AOULA FHD
 http://r656.dad:80/ch/1507_
-#EXTINF:-1 tvg-id="383" tvg-name="MA| AL AOULA INTER" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| AL AOULA INTER
+#EXTINF:-1 tvg-id="383" tvg-name="AL AOULA INTER" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL AOULA INTER
 http://r656.dad:80/ch/383_
-#EXTINF:-1 tvg-id="5246" tvg-name="MA| AL AOULA MAROC TNT HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| AL AOULA MAROC TNT HD
+#EXTINF:-1 tvg-id="5246" tvg-name="AL AOULA MAROC TNT HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",AL AOULA MAROC TNT HD
 http://r656.dad:80/ch/5246_
-#EXTINF:-1 tvg-id="382" tvg-name="MA| AL MAGHRIBIA ALIKHBARIA FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| AL MAGHRIBIA ALIKHBARIA FHD
-http://r656.dad:80/ch/382_
-#EXTINF:-1 tvg-id="4261" tvg-name="MA| AL OULA INTER FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| AL OULA INTER FHD
-http://r656.dad:80/ch/4261_
-#EXTINF:-1 tvg-id="560" tvg-name="MA| ARRABIAA ATHAQAFIA HD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ARRABIAA ATHAQAFIA HD
-http://r656.dad:80/ch/560_
-#EXTINF:-1 tvg-id="4380" tvg-name="MA| ARRABIAA FHD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ARRABIAA FHD
-http://r656.dad:80/ch/4380_
-#EXTINF:-1 tvg-id="5244" tvg-name="MA| ARRIADIA LIVE TNT HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ARRIADIA LIVE TNT HD
-http://r656.dad:80/ch/5244_
-#EXTINF:-1 tvg-id="4377" tvg-name="MA| ARRIADIA MAROC FHD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ARRIADIA MAROC FHD
-http://r656.dad:80/ch/4377_
-#EXTINF:-1 tvg-id="644" tvg-name="MA| ARRIADIA MAROC HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ARRIADIA MAROC HD
-http://r656.dad:80/ch/644_
-#EXTINF:-1 tvg-id="42108" tvg-name="MA| ARRYADIA 2 HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ARRYADIA 2 HD
-http://r656.dad:80/ch/42108_
-#EXTINF:-1 tvg-id="13308" tvg-name="MA| ARRYADIA MAROC" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ARRYADIA MAROC
-http://r656.dad:80/ch/13308_
-#EXTINF:-1 tvg-id="1768" tvg-name="MA| ASSABIA 7 TV FHD" tvg-logo="https://i.imgur.com/3E5nP0Y.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ASSABIA 7 TV FHD
-http://r656.dad:80/ch/1768_
-#EXTINF:-1 tvg-id="4378" tvg-name="MA| ASSADISSA FHD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ASSADISSA FHD
-http://r656.dad:80/ch/4378_
-#EXTINF:-1 tvg-id="535" tvg-name="MA| ASSADISSA HD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| ASSADISSA HD
-http://r656.dad:80/ch/535_
-#EXTINF:-1 tvg-id="5313" tvg-name="MA| CANAL ATLAS" tvg-logo="https://i.imgur.com/ExQOKII.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| CANAL ATLAS
-http://r656.dad:80/ch/5313_
-#EXTINF:-1 tvg-id="5247" tvg-name="MA| CHADA TV HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| CHADA TV HD
-http://r656.dad:80/ch/5247_
-#EXTINF:-1 tvg-id="7083" tvg-name="MA| LAAYOUN TV FHD" tvg-logo="https://i.imgur.com/XYS9g4x.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| LAAYOUN TV FHD
-http://r656.dad:80/ch/7083_
-#EXTINF:-1 tvg-id="42018" tvg-name="MA| M24 MAROC" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| M24 MAROC
-http://r656.dad:80/ch/42018_
-#EXTINF:-1 tvg-id="1447" tvg-name="MA| MEDI1 ARABIC HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| MEDI1 ARABIC HD
-http://r656.dad:80/ch/1447_
-#EXTINF:-1 tvg-id="411" tvg-name="MA| MEDI1 MAGHREB HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| MEDI1 MAGHREB HD
-http://r656.dad:80/ch/411_
-#EXTINF:-1 tvg-id="4379" tvg-name="MA| TAMAZIGHT FHD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| TAMAZIGHT FHD
-http://r656.dad:80/ch/4379_
-#EXTINF:-1 tvg-id="559" tvg-name="MA| TAMAZIGHT HD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| TAMAZIGHT HD
-http://r656.dad:80/ch/559_
-#EXTINF:-1 tvg-id="1114" tvg-name="MA| TELE MAROC FHD" tvg-logo="http://i.imgur.com/oDn4VbO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| TELE MAROC FHD
-http://r656.dad:80/ch/1114_
-#EXTINF:-1 tvg-id="41990" tvg-name="MA| TELE MAROC HD" tvg-logo="http://i.imgur.com/oDn4VbO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MA| TELE MAROC HD
-http://r656.dad:80/ch/41990_
-#EXTINF:-1 tvg-id="1115" tvg-name="TN| AL INSEN TV" tvg-logo="http://i.imgur.com/cU2YQkI.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL INSEN TV
+#EXTINF:-1 tvg-id="1115" tvg-name="AL INSEN TV" tvg-logo="http://i.imgur.com/cU2YQkI.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL INSEN TV
 http://r656.dad:80/ch/1115_
-#EXTINF:-1 tvg-id="1785" tvg-name="TN| AL JANOUBIA" tvg-logo="https://i.imgur.com/CMydHtZ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL JANOUBIA
+#EXTINF:-1 tvg-id="1785" tvg-name="AL JANOUBIA" tvg-logo="https://i.imgur.com/CMydHtZ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL JANOUBIA
 http://r656.dad:80/ch/1785_
-#EXTINF:-1 tvg-id="1111" tvg-name="TN| AL MUSTAKILAH" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL MUSTAKILAH
+#EXTINF:-1 tvg-id="2810" tvg-name="AL MAGHARIBIA HD" tvg-logo="http://i.imgur.com/iMC45iQ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL MAGHARIBIA HD
+http://r656.dad:80/ch/2810_
+#EXTINF:-1 tvg-id="382" tvg-name="AL MAGHRIBIA ALIKHBARIA FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL MAGHRIBIA ALIKHBARIA FHD
+http://r656.dad:80/ch/382_
+#EXTINF:-1 tvg-id="1111" tvg-name="AL MUSTAKILAH" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",AL MUSTAKILAH
 http://r656.dad:80/ch/1111_
-#EXTINF:-1 tvg-id="408" tvg-name="TN| AL WATANIA 1" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL WATANIA 1
+#EXTINF:-1 tvg-id="4261" tvg-name="AL OULA INTER FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL OULA INTER FHD
+http://r656.dad:80/ch/4261_
+#EXTINF:-1 tvg-id="408" tvg-name="AL WATANIA 1" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL WATANIA 1
 http://r656.dad:80/ch/408_
-#EXTINF:-1 tvg-id="3016" tvg-name="TN| AL WATANIA 1 EDUC" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL WATANIA 1 EDUC
+#EXTINF:-1 tvg-id="3016" tvg-name="AL WATANIA 1 EDUC" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL WATANIA 1 EDUC
 http://r656.dad:80/ch/3016_
-#EXTINF:-1 tvg-id="4376" tvg-name="TN| AL WATANIA 1 FHD" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL WATANIA 1 FHD
+#EXTINF:-1 tvg-id="4376" tvg-name="AL WATANIA 1 FHD" tvg-logo="http://i.imgur.com/PV84GcJ.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL WATANIA 1 FHD
 http://r656.dad:80/ch/4376_
-#EXTINF:-1 tvg-id="645" tvg-name="TN| AL WATANIA 2" tvg-logo="https://i.imgur.com/t3kXPWp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL WATANIA 2
+#EXTINF:-1 tvg-id="645" tvg-name="AL WATANIA 2" tvg-logo="https://i.imgur.com/t3kXPWp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL WATANIA 2
 http://r656.dad:80/ch/645_
-#EXTINF:-1 tvg-id="4375" tvg-name="TN| AL WATANIA 2 HD" tvg-logo="https://i.imgur.com/t3kXPWp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| AL WATANIA 2 HD
+#EXTINF:-1 tvg-id="4375" tvg-name="AL WATANIA 2 HD" tvg-logo="https://i.imgur.com/t3kXPWp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL WATANIA 2 HD
 http://r656.dad:80/ch/4375_
-#EXTINF:-1 tvg-id="564" tvg-name="TN| ATTESIA TV" tvg-logo="http://i.imgur.com/fWumXQF.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| ATTESIA TV
+#EXTINF:-1 tvg-id="3601" tvg-name="AL24 NEWS FHD" tvg-logo="https://i.imgur.com/sHq6ktu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AL24 NEWS FHD
+http://r656.dad:80/ch/3601_
+#EXTINF:-1 tvg-id="228" tvg-name="ALGERIA 4 KIDS" tvg-logo="https://4kids-tv.com/wp-content/uploads/2022/02/logo4kids.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIA 4 KIDS
+http://r656.dad:80/ch/228_
+#EXTINF:-1 tvg-id="1410" tvg-name="ALGERIE 3 FHD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 3 FHD
+http://r656.dad:80/ch/1410_
+#EXTINF:-1 tvg-id="225" tvg-name="ALGERIE 3 HD" tvg-logo="http://www.tunisvista.com/medias/algeria3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 3 HD
+http://r656.dad:80/ch/225_
+#EXTINF:-1 tvg-id="226" tvg-name="ALGERIE 4" tvg-logo="http://i.imgur.com/IBx84Z7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 4
+http://r656.dad:80/ch/226_
+#EXTINF:-1 tvg-id="227" tvg-name="ALGERIE 5 HD" tvg-logo="http://i.imgur.com/TXyy8t7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 5 HD
+http://r656.dad:80/ch/227_
+#EXTINF:-1 tvg-id="229" tvg-name="ALGERIE 6 FHD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 6 FHD
+http://r656.dad:80/ch/229_
+#EXTINF:-1 tvg-id="42087" tvg-name="ALGERIE 6 HD" tvg-logo="https://i.imgur.com/FcNLRrO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 6 HD
+http://r656.dad:80/ch/42087_
+#EXTINF:-1 tvg-id="45716" tvg-name="ALGERIE 7 EL MAARIFA" tvg-logo="https://i.imgur.com/GVfSdP1.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 7 EL MAARIFA
+http://r656.dad:80/ch/45716_
+#EXTINF:-1 tvg-id="45717" tvg-name="ALGERIE 8 EL DAKIRA" tvg-logo="https://i.imgur.com/6dGGebB.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ALGERIE 8 EL DAKIRA
+http://r656.dad:80/ch/45717_
+#EXTINF:-1 tvg-id="6974" tvg-name="AMOU YAZID TOFOLA HD" tvg-logo="https://i.imgur.com/jrfdlWq.png" group-title="MAGHRÈBINES (DZ/MA/TN)",AMOU YAZID TOFOLA HD
+http://r656.dad:80/ch/6974_
+#EXTINF:-1 tvg-id="560" tvg-name="ARRABIAA ATHAQAFIA HD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ARRABIAA ATHAQAFIA HD
+http://r656.dad:80/ch/560_
+#EXTINF:-1 tvg-id="4380" tvg-name="ARRABIAA FHD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ARRABIAA FHD
+http://r656.dad:80/ch/4380_
+#EXTINF:-1 tvg-id="5244" tvg-name="ARRIADIA LIVE TNT HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ARRIADIA LIVE TNT HD
+http://r656.dad:80/ch/5244_
+#EXTINF:-1 tvg-id="4377" tvg-name="ARRIADIA MAROC FHD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ARRIADIA MAROC FHD
+http://r656.dad:80/ch/4377_
+#EXTINF:-1 tvg-id="644" tvg-name="ARRIADIA MAROC HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ARRIADIA MAROC HD
+http://r656.dad:80/ch/644_
+#EXTINF:-1 tvg-id="42108" tvg-name="ARRYADIA 2 HD" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ARRYADIA 2 HD
+http://r656.dad:80/ch/42108_
+#EXTINF:-1 tvg-id="13308" tvg-name="ARRYADIA MAROC" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ARRYADIA MAROC
+http://r656.dad:80/ch/13308_
+#EXTINF:-1 tvg-id="1768" tvg-name="ASSABIA 7 TV FHD" tvg-logo="https://i.imgur.com/3E5nP0Y.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ASSABIA 7 TV FHD
+http://r656.dad:80/ch/1768_
+#EXTINF:-1 tvg-id="4378" tvg-name="ASSADISSA FHD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ASSADISSA FHD
+http://r656.dad:80/ch/4378_
+#EXTINF:-1 tvg-id="535" tvg-name="ASSADISSA HD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ASSADISSA HD
+http://r656.dad:80/ch/535_
+#EXTINF:-1 tvg-id="564" tvg-name="ATTESIA TV" tvg-logo="http://i.imgur.com/fWumXQF.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ATTESIA TV
 http://r656.dad:80/ch/564_
-#EXTINF:-1 tvg-id="8724" tvg-name="TN| CARTHAGE+" tvg-logo="https://i.imgur.com/xkxCa69.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| CARTHAGE+
+#EXTINF:-1 tvg-id="1112" tvg-name="BAHIA TV" tvg-logo="http://i.imgur.com/3ExRISi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",BAHIA TV
+http://r656.dad:80/ch/1112_
+#EXTINF:-1 tvg-id="374" tvg-name="BERBERE JEUNESSE (EXCLUS)" tvg-logo="https://i.imgur.com/iNaAtbD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",BERBERE JEUNESSE (EXCLUS)
+http://r656.dad:80/ch/374_
+#EXTINF:-1 tvg-id="42075" tvg-name="BERBERE MUSIC (EXCLUS)" tvg-logo="https://i.imgur.com/AmekoXo.png" group-title="MAGHRÈBINES (DZ/MA/TN)",BERBERE MUSIC (EXCLUS)
+http://r656.dad:80/ch/42075_
+#EXTINF:-1 tvg-id="949" tvg-name="BERBERE TV" tvg-logo="http://i.imgur.com/98gjMeV.png" group-title="MAGHRÈBINES (DZ/MA/TN)",BERBERE TV
+http://r656.dad:80/ch/949_
+#EXTINF:-1 tvg-id="4279" tvg-name="BEUR FM TV (EXCLU)" tvg-logo="https://i.imgur.com/bgtm9Gm.png" group-title="MAGHRÈBINES (DZ/MA/TN)",BEUR FM TV (EXCLU)
+http://r656.dad:80/ch/4279_
+#EXTINF:-1 tvg-id="2805" tvg-name="BEUR TV HD" tvg-logo="http://i.imgur.com/GvMXf3K.png" group-title="MAGHRÈBINES (DZ/MA/TN)",BEUR TV HD
+http://r656.dad:80/ch/2805_
+#EXTINF:-1 tvg-id="173" tvg-name="CANAL ALGERIE" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",CANAL ALGERIE
+http://r656.dad:80/ch/173_
+#EXTINF:-1 tvg-id="2825" tvg-name="CANAL ALGERIE FHD" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",CANAL ALGERIE FHD
+http://r656.dad:80/ch/2825_
+#EXTINF:-1 tvg-id="5313" tvg-name="CANAL ATLAS" tvg-logo="https://i.imgur.com/ExQOKII.png" group-title="MAGHRÈBINES (DZ/MA/TN)",CANAL ATLAS
+http://r656.dad:80/ch/5313_
+#EXTINF:-1 tvg-id="8724" tvg-name="CARTHAGE+" tvg-logo="https://i.imgur.com/xkxCa69.png" group-title="MAGHRÈBINES (DZ/MA/TN)",CARTHAGE+
 http://r656.dad:80/ch/8724_
-#EXTINF:-1 tvg-id="562" tvg-name="TN| EL HIWAR ETTOUNSI TV" tvg-logo="http://i.imgur.com/YYP8evG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| EL HIWAR ETTOUNSI TV
-http://r656.dad:80/ch/562_
-#EXTINF:-1 tvg-id="3159" tvg-name="TN| EL HIWAR ETTOUNSI TV HD" tvg-logo="http://i.imgur.com/YYP8evG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| EL HIWAR ETTOUNSI TV HD
-http://r656.dad:80/ch/3159_
-#EXTINF:-1 tvg-id="410" tvg-name="TN| HANNIBAL" tvg-logo="http://i.imgur.com/nlg56WH.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| HANNIBAL
-http://r656.dad:80/ch/410_
-#EXTINF:-1 tvg-id="8723" tvg-name="TN| MOSAIQUE FM" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| MOSAIQUE FM
-http://r656.dad:80/ch/8723_
-#EXTINF:-1 tvg-id="2807" tvg-name="TN| NESSMA TV" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| NESSMA TV
-http://r656.dad:80/ch/2807_
-#EXTINF:-1 tvg-id="41330" tvg-name="TN| NESSMA TV EJDIDA" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| NESSMA TV EJDIDA
-http://r656.dad:80/ch/41330_
-#EXTINF:-1 tvg-id="334" tvg-name="TN| NESSMA TV HD" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| NESSMA TV HD
-http://r656.dad:80/ch/334_
-#EXTINF:-1 tvg-id="6052" tvg-name="TN| TELEVISION 1" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| TELEVISION 1
-http://r656.dad:80/ch/6052_
-#EXTINF:-1 tvg-id="1510" tvg-name="TN| TELVAZA TV" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| TELVAZA TV
-http://r656.dad:80/ch/1510_
-#EXTINF:-1 tvg-id="195441" tvg-name="TN| TUNISIA SPORT HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| TUNISIA SPORT HD
-http://r656.dad:80/ch/195441_
-#EXTINF:-1 tvg-id="698" tvg-name="TN| TUNISNA" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| TUNISNA
-http://r656.dad:80/ch/698_
-#EXTINF:-1 tvg-id="409" tvg-name="TN| TUNISNA" tvg-logo="http://i.imgur.com/4nxzeZ3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| TUNISNA
-http://r656.dad:80/ch/409_
-#EXTINF:-1 tvg-id="565" tvg-name="TN| ZAYTOONA TV HD" tvg-logo="http://i.imgur.com/IY2Ysal.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TN| ZAYTOONA TV HD
-http://r656.dad:80/ch/565_
-#EXTINF:-1 tvg-id="3712" tvg-name="▀▄ DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀
+#EXTINF:-1 tvg-id="5247" tvg-name="CHADA TV HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",CHADA TV HD
+http://r656.dad:80/ch/5247_
+#EXTINF:-1 tvg-id="3712" tvg-name="DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀
 http://r656.dad:80/ch/3712_
-#EXTINF:-1 tvg-id="3709" tvg-name="▀▄ MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀
+#EXTINF:-1 tvg-id="230" tvg-name="ECHOROUK NEWS" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ECHOROUK NEWS
+http://r656.dad:80/ch/230_
+#EXTINF:-1 tvg-id="1560" tvg-name="ECHOROUK NEWS HD" tvg-logo="http://i.imgur.com/b2koAeh.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ECHOROUK NEWS HD
+http://r656.dad:80/ch/1560_
+#EXTINF:-1 tvg-id="175" tvg-name="ECHOROUK TV" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ECHOROUK TV
+http://r656.dad:80/ch/175_
+#EXTINF:-1 tvg-id="1559" tvg-name="ECHOROUK TV FHD" tvg-logo="http://i.imgur.com/hizkQd7.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ECHOROUK TV FHD
+http://r656.dad:80/ch/1559_
+#EXTINF:-1 tvg-id="1113" tvg-name="EL ANIS TV" tvg-logo="https://i.imgur.com/2CNfkrr.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL ANIS TV
+http://r656.dad:80/ch/1113_
+#EXTINF:-1 tvg-id="104965" tvg-name="EL BARLAMANYA FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",EL BARLAMANYA FHD
+http://r656.dad:80/ch/104965_
+#EXTINF:-1 tvg-id="231" tvg-name="EL BILAD TV" tvg-logo="http://i.imgur.com/lESg64o.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL BILAD TV
+http://r656.dad:80/ch/231_
+#EXTINF:-1 tvg-id="6183" tvg-name="EL DJAZAIR N1" tvg-logo="https://i.imgur.com/Cpt7Lri.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL DJAZAIR N1
+http://r656.dad:80/ch/6183_
+#EXTINF:-1 tvg-id="236" tvg-name="EL FADJR TV" tvg-logo="https://i.imgur.com/W1x47Ar.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL FADJR TV
+http://r656.dad:80/ch/236_
+#EXTINF:-1 tvg-id="2260" tvg-name="EL HAYAT TV FHD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL HAYAT TV FHD
+http://r656.dad:80/ch/2260_
+#EXTINF:-1 tvg-id="1772" tvg-name="EL HAYAT TV HD" tvg-logo="https://i.imgur.com/s8NHjDR.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL HAYAT TV HD
+http://r656.dad:80/ch/1772_
+#EXTINF:-1 tvg-id="233" tvg-name="EL HEDDAF TV FHD" tvg-logo="http://i.imgur.com/mgPHvo8.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL HEDDAF TV FHD
+http://r656.dad:80/ch/233_
+#EXTINF:-1 tvg-id="562" tvg-name="EL HIWAR ETTOUNSI TV" tvg-logo="http://i.imgur.com/YYP8evG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL HIWAR ETTOUNSI TV
+http://r656.dad:80/ch/562_
+#EXTINF:-1 tvg-id="3159" tvg-name="EL HIWAR ETTOUNSI TV HD" tvg-logo="http://i.imgur.com/YYP8evG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL HIWAR ETTOUNSI TV HD
+http://r656.dad:80/ch/3159_
+#EXTINF:-1 tvg-id="42074" tvg-name="EL WATANIA TV" tvg-logo="https://i.imgur.com/VUdIe25.png" group-title="MAGHRÈBINES (DZ/MA/TN)",EL WATANIA TV
+http://r656.dad:80/ch/42074_
+#EXTINF:-1 tvg-id="172" tvg-name="ENNAHAR TV" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ENNAHAR TV
+http://r656.dad:80/ch/172_
+#EXTINF:-1 tvg-id="2806" tvg-name="ENNAHAR TV SD" tvg-logo="http://i.imgur.com/QxUvmMy.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ENNAHAR TV SD
+http://r656.dad:80/ch/2806_
+#EXTINF:-1 tvg-id="171" tvg-name="ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ENTV (PROGRAMME NATIONAL) FHD
+http://r656.dad:80/ch/171_
+#EXTINF:-1 tvg-id="1783" tvg-name="ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ENTV (PROGRAMME NATIONAL) HD
+http://r656.dad:80/ch/1783_
+#EXTINF:-1 tvg-id="410" tvg-name="HANNIBAL" tvg-logo="http://i.imgur.com/nlg56WH.png" group-title="MAGHRÈBINES (DZ/MA/TN)",HANNIBAL
+http://r656.dad:80/ch/410_
+#EXTINF:-1 tvg-id="7083" tvg-name="LAAYOUN TV FHD" tvg-logo="https://i.imgur.com/XYS9g4x.png" group-title="MAGHRÈBINES (DZ/MA/TN)",LAAYOUN TV FHD
+http://r656.dad:80/ch/7083_
+#EXTINF:-1 tvg-id="42018" tvg-name="M24 MAROC" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",M24 MAROC
+http://r656.dad:80/ch/42018_
+#EXTINF:-1 tvg-id="3709" tvg-name="MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀
 http://r656.dad:80/ch/3709_
-#EXTINF:-1 tvg-id="3710" tvg-name="▀▄ TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",▀▄ TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀
+#EXTINF:-1 tvg-id="1447" tvg-name="MEDI1 ARABIC HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MEDI1 ARABIC HD
+http://r656.dad:80/ch/1447_
+#EXTINF:-1 tvg-id="411" tvg-name="MEDI1 MAGHREB HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",MEDI1 MAGHREB HD
+http://r656.dad:80/ch/411_
+#EXTINF:-1 tvg-id="8723" tvg-name="MOSAIQUE FM" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",MOSAIQUE FM
+http://r656.dad:80/ch/8723_
+#EXTINF:-1 tvg-id="112124" tvg-name="NATV NORTH AFRICA CHANNEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbqRjDRPB4SE9-LwzU_dYIemOYSrUS2VQew&s" group-title="MAGHRÈBINES (DZ/MA/TN)",NATV NORTH AFRICA CHANNEL HD
+http://r656.dad:80/ch/112124_
+#EXTINF:-1 tvg-id="2807" tvg-name="NESSMA TV" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",NESSMA TV
+http://r656.dad:80/ch/2807_
+#EXTINF:-1 tvg-id="41330" tvg-name="NESSMA TV EJDIDA" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",NESSMA TV EJDIDA
+http://r656.dad:80/ch/41330_
+#EXTINF:-1 tvg-id="334" tvg-name="NESSMA TV HD" tvg-logo="http://i.imgur.com/zhHRK51.png" group-title="MAGHRÈBINES (DZ/MA/TN)",NESSMA TV HD
+http://r656.dad:80/ch/334_
+#EXTINF:-1 tvg-id="22395" tvg-name="ONE TV FHD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",ONE TV FHD
+http://r656.dad:80/ch/22395_
+#EXTINF:-1 tvg-id="42041" tvg-name="SALAM TV HD" tvg-logo="https://i.imgur.com/YKJQLtf.png" group-title="MAGHRÈBINES (DZ/MA/TN)",SALAM TV HD
+http://r656.dad:80/ch/42041_
+#EXTINF:-1 tvg-id="176" tvg-name="SAMIRA TV" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",SAMIRA TV
+http://r656.dad:80/ch/176_
+#EXTINF:-1 tvg-id="22398" tvg-name="SAMIRA TV FHD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",SAMIRA TV FHD
+http://r656.dad:80/ch/22398_
+#EXTINF:-1 tvg-id="3151" tvg-name="SAMIRA TV HD" tvg-logo="http://i.imgur.com/J26q8bp.png" group-title="MAGHRÈBINES (DZ/MA/TN)",SAMIRA TV HD
+http://r656.dad:80/ch/3151_
+#EXTINF:-1 tvg-id="112129" tvg-name="SPORT PLUS HD" tvg-logo="https://i.imgur.com/H0EVUuN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",SPORT PLUS HD
+http://r656.dad:80/ch/112129_
+#EXTINF:-1 tvg-id="4379" tvg-name="TAMAZIGHT FHD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TAMAZIGHT FHD
+http://r656.dad:80/ch/4379_
+#EXTINF:-1 tvg-id="559" tvg-name="TAMAZIGHT HD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TAMAZIGHT HD
+http://r656.dad:80/ch/559_
+#EXTINF:-1 tvg-id="1114" tvg-name="TELE MAROC FHD" tvg-logo="http://i.imgur.com/oDn4VbO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TELE MAROC FHD
+http://r656.dad:80/ch/1114_
+#EXTINF:-1 tvg-id="41990" tvg-name="TELE MAROC HD" tvg-logo="http://i.imgur.com/oDn4VbO.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TELE MAROC HD
+http://r656.dad:80/ch/41990_
+#EXTINF:-1 tvg-id="6052" tvg-name="TELEVISION 1" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TELEVISION 1
+http://r656.dad:80/ch/6052_
+#EXTINF:-1 tvg-id="1510" tvg-name="TELVAZA TV" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TELVAZA TV
+http://r656.dad:80/ch/1510_
+#EXTINF:-1 tvg-id="3710" tvg-name="TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀
 http://r656.dad:80/ch/3710_
+#EXTINF:-1 tvg-id="195441" tvg-name="TUNISIA SPORT HD" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TUNISIA SPORT HD
+http://r656.dad:80/ch/195441_
+#EXTINF:-1 tvg-id="698" tvg-name="TUNISNA" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",TUNISNA
+http://r656.dad:80/ch/698_
+#EXTINF:-1 tvg-id="409" tvg-name="TUNISNA" tvg-logo="http://i.imgur.com/4nxzeZ3.png" group-title="MAGHRÈBINES (DZ/MA/TN)",TUNISNA
+http://r656.dad:80/ch/409_
+#EXTINF:-1 tvg-id="41988" tvg-name="ZAHRA TV" tvg-logo="https://i.imgur.com/K9BnK4p.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ZAHRA TV
+http://r656.dad:80/ch/41988_
+#EXTINF:-1 tvg-id="565" tvg-name="ZAYTOONA TV HD" tvg-logo="http://i.imgur.com/IY2Ysal.png" group-title="MAGHRÈBINES (DZ/MA/TN)",ZAYTOONA TV HD
+http://r656.dad:80/ch/565_
+#EXTINF:-1 tvg-id="7025" tvg-name="AR ▀▄▀▄▀▄ MY HD ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",AR ▀▄▀▄▀▄ MY HD ▄▀▄▀▄▀
+http://r656.dad:80/ch/7025_
+#EXTINF:-1 tvg-id="3713" tvg-name="AR ▀▄▀▄▀▄ OSN ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",AR ▀▄▀▄▀▄ OSN ▄▀▄▀▄▀
+http://r656.dad:80/ch/3713_
 #EXTINF:-1 tvg-id="94" tvg-name="MBC 1 HD" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="OSN & MY HD (Arabic)",MBC 1 HD
 http://r656.dad:80/ch/94_
 #EXTINF:-1 tvg-id="109" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="OSN & MY HD (Arabic)",MBC 2 HD
@@ -1455,6 +1545,18 @@ http://r656.dad:80/ch/516_
 http://r656.dad:80/ch/1207_
 #EXTINF:-1 tvg-id="7054" tvg-name="OSN YA HALA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN & MY HD (Arabic)",OSN YA HALA HD
 http://r656.dad:80/ch/7054_
+#EXTINF:-1 tvg-id="7109" tvg-name="OSN ▀▄▀▄▀▄ ARABIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN ▀▄▀▄▀▄ ARABIC ▄▀▄▀▄▀
+http://r656.dad:80/ch/7109_
+#EXTINF:-1 tvg-id="7108" tvg-name="OSN ▀▄▀▄▀▄ ENTERTAINMENT ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN ▀▄▀▄▀▄ ENTERTAINMENT ▄▀▄▀▄▀
+http://r656.dad:80/ch/7108_
+#EXTINF:-1 tvg-id="7112" tvg-name="OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀
+http://r656.dad:80/ch/7112_
+#EXTINF:-1 tvg-id="7111" tvg-name="OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀
+http://r656.dad:80/ch/7111_
+#EXTINF:-1 tvg-id="7107" tvg-name="OSN ▀▄▀▄▀▄ MOVIES ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN ▀▄▀▄▀▄ MOVIES ▄▀▄▀▄▀
+http://r656.dad:80/ch/7107_
+#EXTINF:-1 tvg-id="7110" tvg-name="OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀" tvg-logo="" group-title="OSN & MY HD (Arabic)",OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀
+http://r656.dad:80/ch/7110_
 #EXTINF:-1 tvg-id="2014" tvg-name="ASHARQ DISCOVERY FHD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",ASHARQ DISCOVERY FHD
 http://r656.dad:80/ch/2014_
 #EXTINF:-1 tvg-id="112422" tvg-name="ASHARQ DISCOVERY HD" tvg-logo="" group-title="SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",ASHARQ DISCOVERY HD

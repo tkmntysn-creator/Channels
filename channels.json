@@ -1,10 +1,15 @@
 {
-  "updatedAt": "2026-11-08T09:26:45.850078Z",
+  "updatedAt": "2026-11-08T10:02:14.629035Z",
   "categories": [
+    {
+      "id": "TOD by beIN",
+      "title": "TOD by beIN",
+      "count": 37
+    },
     {
       "id": "BeIN & Sports & Entertainment (Arabic)",
       "title": "BeIN & Sports & Entertainment (Arabic)",
-      "count": 45
+      "count": 51
     },
     {
       "id": "BEIN CONNECT ARABE ( LIVE ONLY )",
@@ -39,7 +44,7 @@
     {
       "id": "OSN & MY HD (Arabic)",
       "title": "OSN & MY HD (Arabic)",
-      "count": 59
+      "count": 67
     },
     {
       "id": "SHAHID | STC| THMANYAH ARABE ( SAUDI PRO LEAGUE)",
@@ -49,59 +54,724 @@
   ],
   "channels": [
     {
-      "id": "37234",
-      "name": "BEIN FATAFEAT HD",
-      "logo": null,
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
+      "id": "69346",
+      "name": "EVENT SPORTS 1 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
       "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/37234_",
+      "streamUrl": "http://r656.dad:80/ch/69346_",
       "description": "Imported from the user-provided IPTV subscription.",
       "country": "MENA / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "BEIN FATAFEAT HD stream",
-          "url": "http://r656.dad:80/ch/37234_"
+          "label": "EVENT SPORTS 1 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/69346_"
         }
       ]
     },
     {
-      "id": "4391",
-      "name": "BEIN NAT GEO HD",
-      "logo": null,
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
+      "id": "89271",
+      "name": "EVENT SPORTS 1 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
       "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4391_",
+      "streamUrl": "http://r656.dad:80/ch/89271_",
       "description": "Imported from the user-provided IPTV subscription.",
       "country": "MENA / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "BEIN NAT GEO HD stream",
-          "url": "http://r656.dad:80/ch/4391_"
+          "label": "EVENT SPORTS 1 HD stream",
+          "url": "http://r656.dad:80/ch/89271_"
         }
       ]
     },
     {
-      "id": "3147",
-      "name": "BEIN SERIES 2 FHD",
-      "logo": null,
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
+      "id": "89272",
+      "name": "EVENT SPORTS 1 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
       "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3147_",
+      "streamUrl": "http://r656.dad:80/ch/89272_",
       "description": "Imported from the user-provided IPTV subscription.",
       "country": "MENA / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "BEIN SERIES 2 FHD stream",
-          "url": "http://r656.dad:80/ch/3147_"
+          "label": "EVENT SPORTS 1 SD stream",
+          "url": "http://r656.dad:80/ch/89272_"
+        }
+      ]
+    },
+    {
+      "id": "69164",
+      "name": "EVENT SPORTS 2 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/69164_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 2 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/69164_"
+        }
+      ]
+    },
+    {
+      "id": "89267",
+      "name": "EVENT SPORTS 2 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/89267_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 2 HD stream",
+          "url": "http://r656.dad:80/ch/89267_"
+        }
+      ]
+    },
+    {
+      "id": "89268",
+      "name": "EVENT SPORTS 2 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/89268_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 2 SD stream",
+          "url": "http://r656.dad:80/ch/89268_"
+        }
+      ]
+    },
+    {
+      "id": "1205",
+      "name": "EVENT SPORTS 3 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1205_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 3 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/1205_"
+        }
+      ]
+    },
+    {
+      "id": "74017",
+      "name": "EVENT SPORTS 3 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/74017_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 3 HD stream",
+          "url": "http://r656.dad:80/ch/74017_"
+        }
+      ]
+    },
+    {
+      "id": "99520",
+      "name": "EVENT SPORTS 3 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/99520_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 3 SD stream",
+          "url": "http://r656.dad:80/ch/99520_"
+        }
+      ]
+    },
+    {
+      "id": "1206",
+      "name": "EVENT SPORTS 4 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1206_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 4 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/1206_"
+        }
+      ]
+    },
+    {
+      "id": "68967",
+      "name": "EVENT SPORTS 4 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/68967_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 4 HD stream",
+          "url": "http://r656.dad:80/ch/68967_"
+        }
+      ]
+    },
+    {
+      "id": "74012",
+      "name": "EVENT SPORTS 4 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/74012_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 4 SD stream",
+          "url": "http://r656.dad:80/ch/74012_"
+        }
+      ]
+    },
+    {
+      "id": "1774",
+      "name": "EVENT SPORTS 5 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1774_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 5 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/1774_"
+        }
+      ]
+    },
+    {
+      "id": "89262",
+      "name": "EVENT SPORTS 5 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/89262_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 5 HD stream",
+          "url": "http://r656.dad:80/ch/89262_"
+        }
+      ]
+    },
+    {
+      "id": "101070",
+      "name": "EVENT SPORTS 5 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/101070_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 5 SD stream",
+          "url": "http://r656.dad:80/ch/101070_"
+        }
+      ]
+    },
+    {
+      "id": "2664",
+      "name": "EVENT SPORTS 6 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2664_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 6 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/2664_"
+        }
+      ]
+    },
+    {
+      "id": "89270",
+      "name": "EVENT SPORTS 6 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/89270_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 6 HD stream",
+          "url": "http://r656.dad:80/ch/89270_"
+        }
+      ]
+    },
+    {
+      "id": "101113",
+      "name": "EVENT SPORTS 6 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/101113_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 6 SD stream",
+          "url": "http://r656.dad:80/ch/101113_"
+        }
+      ]
+    },
+    {
+      "id": "2820",
+      "name": "EVENT SPORTS 7 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2820_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 7 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/2820_"
+        }
+      ]
+    },
+    {
+      "id": "99533",
+      "name": "EVENT SPORTS 7 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/99533_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 7 HD stream",
+          "url": "http://r656.dad:80/ch/99533_"
+        }
+      ]
+    },
+    {
+      "id": "99507",
+      "name": "EVENT SPORTS 7 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/99507_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 7 SD stream",
+          "url": "http://r656.dad:80/ch/99507_"
+        }
+      ]
+    },
+    {
+      "id": "12671",
+      "name": "EVENT SPORTS 8 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/12671_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 8 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/12671_"
+        }
+      ]
+    },
+    {
+      "id": "26848",
+      "name": "EVENT SPORTS 8 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/26848_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 8 HD stream",
+          "url": "http://r656.dad:80/ch/26848_"
+        }
+      ]
+    },
+    {
+      "id": "99421",
+      "name": "EVENT SPORTS 8 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/99421_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 8 SD stream",
+          "url": "http://r656.dad:80/ch/99421_"
+        }
+      ]
+    },
+    {
+      "id": "2250",
+      "name": "EVENT SPORTS 9 FHD (EXCLUS)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2250_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 9 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/2250_"
+        }
+      ]
+    },
+    {
+      "id": "37261",
+      "name": "EVENT SPORTS 9 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/37261_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 9 HD stream",
+          "url": "http://r656.dad:80/ch/37261_"
+        }
+      ]
+    },
+    {
+      "id": "26849",
+      "name": "EVENT SPORTS 9 SD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/26849_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 9 SD stream",
+          "url": "http://r656.dad:80/ch/26849_"
+        }
+      ]
+    },
+    {
+      "id": "99605",
+      "name": "EVENT SPORTS 10 FHD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/99605_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 10 FHD stream",
+          "url": "http://r656.dad:80/ch/99605_"
+        }
+      ]
+    },
+    {
+      "id": "89261",
+      "name": "EVENT SPORTS 10 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/89261_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 10 HD stream",
+          "url": "http://r656.dad:80/ch/89261_"
+        }
+      ]
+    },
+    {
+      "id": "43851",
+      "name": "EVENT SPORTS 11 FHD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/43851_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 11 FHD stream",
+          "url": "http://r656.dad:80/ch/43851_"
+        }
+      ]
+    },
+    {
+      "id": "69098",
+      "name": "EVENT SPORTS 11 HD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/69098_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 11 HD stream",
+          "url": "http://r656.dad:80/ch/69098_"
+        }
+      ]
+    },
+    {
+      "id": "112607",
+      "name": "EVENT SPORTS 12 FHD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/112607_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 12 FHD stream",
+          "url": "http://r656.dad:80/ch/112607_"
+        }
+      ]
+    },
+    {
+      "id": "112600",
+      "name": "EVENT SPORTS 13 FHD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/112600_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 13 FHD stream",
+          "url": "http://r656.dad:80/ch/112600_"
+        }
+      ]
+    },
+    {
+      "id": "112599",
+      "name": "EVENT SPORTS 14 FHD",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/112599_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT SPORTS 14 FHD stream",
+          "url": "http://r656.dad:80/ch/112599_"
+        }
+      ]
+    },
+    {
+      "id": "112078",
+      "name": "EVENT 1 4K HDR (LIVE EVENT ONLY)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/112078_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT 1 4K HDR (LIVE EVENT ONLY) stream",
+          "url": "http://r656.dad:80/ch/112078_"
+        }
+      ]
+    },
+    {
+      "id": "3644",
+      "name": "EVENT 2 4K HDR (LIVE EVENT ONLY)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3644_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT 2 4K HDR (LIVE EVENT ONLY) stream",
+          "url": "http://r656.dad:80/ch/3644_"
+        }
+      ]
+    },
+    {
+      "id": "111992",
+      "name": "EVENT 3 4K HDR (LIVE EVENT ONLY)",
+      "logo": "https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png",
+      "category": "TOD by beIN",
+      "categoryId": "239",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/111992_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EVENT 3 4K HDR (LIVE EVENT ONLY) stream",
+          "url": "http://r656.dad:80/ch/111992_"
+        }
+      ]
+    },
+    {
+      "id": "105102",
+      "name": "BEIN SPORTS 1 FHD",
+      "logo": "https://i.imgur.com/sOtkVtv.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/105102_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS 1 FHD stream",
+          "url": "http://r656.dad:80/ch/105102_"
         }
       ]
     },
@@ -121,6 +791,25 @@
         {
           "label": "BEIN SPORTS 1 FHD stream",
           "url": "http://r656.dad:80/ch/45704_"
+        }
+      ]
+    },
+    {
+      "id": "105103",
+      "name": "BEIN SPORTS 1 HD",
+      "logo": "https://i.imgur.com/sOtkVtv.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/105103_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS 1 HD stream",
+          "url": "http://r656.dad:80/ch/105103_"
         }
       ]
     },
@@ -163,6 +852,25 @@
       ]
     },
     {
+      "id": "105104",
+      "name": "BEIN SPORTS 1 SD",
+      "logo": "https://i.imgur.com/sOtkVtv.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/105104_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS 1 SD stream",
+          "url": "http://r656.dad:80/ch/105104_"
+        }
+      ]
+    },
+    {
       "id": "45706",
       "name": "BEIN SPORTS 1 SD",
       "logo": "https://i.imgur.com/sOtkVtv.png",
@@ -182,6 +890,25 @@
       ]
     },
     {
+      "id": "105105",
+      "name": "BEIN SPORTS 2 FHD",
+      "logo": "https://i.imgur.com/sOtkVtv.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/105105_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS 2 FHD stream",
+          "url": "http://r656.dad:80/ch/105105_"
+        }
+      ]
+    },
+    {
       "id": "45707",
       "name": "BEIN SPORTS 2 FHD",
       "logo": "https://i.imgur.com/sOtkVtv.png",
@@ -197,6 +924,25 @@
         {
           "label": "BEIN SPORTS 2 FHD stream",
           "url": "http://r656.dad:80/ch/45707_"
+        }
+      ]
+    },
+    {
+      "id": "105106",
+      "name": "BEIN SPORTS 2 HD",
+      "logo": "https://i.imgur.com/sOtkVtv.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/105106_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS 2 HD stream",
+          "url": "http://r656.dad:80/ch/105106_"
         }
       ]
     },
@@ -235,6 +981,25 @@
         {
           "label": "BEIN SPORTS 2 HEVC stream",
           "url": "http://r656.dad:80/ch/683_"
+        }
+      ]
+    },
+    {
+      "id": "105107",
+      "name": "BEIN SPORTS 2 SD",
+      "logo": "https://i.imgur.com/sOtkVtv.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/105107_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS 2 SD stream",
+          "url": "http://r656.dad:80/ch/105107_"
         }
       ]
     },
@@ -296,6 +1061,44 @@
       ]
     },
     {
+      "id": "788",
+      "name": "BEIN SPORTS_3 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/788_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_3 HD stream",
+          "url": "http://r656.dad:80/ch/788_"
+        }
+      ]
+    },
+    {
+      "id": "2600",
+      "name": "BEIN SPORTS_3 SD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2600_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_3 SD stream",
+          "url": "http://r656.dad:80/ch/2600_"
+        }
+      ]
+    },
+    {
       "id": "10080",
       "name": "BEIN SPORTS 4 FHD",
       "logo": "https://i.imgur.com/uCv82hS.png",
@@ -334,21 +1137,40 @@
       ]
     },
     {
-      "id": "104974",
-      "name": "BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)",
-      "logo": "https://i.imgur.com/WwH58EE.png",
+      "id": "789",
+      "name": "BEIN SPORTS_4 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
       "category": "BeIN & Sports & Entertainment (Arabic)",
       "categoryId": "17",
       "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/104974_",
+      "streamUrl": "http://r656.dad:80/ch/789_",
       "description": "Imported from the user-provided IPTV subscription.",
       "country": "MENA / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY) stream",
-          "url": "http://r656.dad:80/ch/104974_"
+          "label": "BEIN SPORTS_4 HD stream",
+          "url": "http://r656.dad:80/ch/789_"
+        }
+      ]
+    },
+    {
+      "id": "2601",
+      "name": "BEIN SPORTS_4 SD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2601_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_4 SD stream",
+          "url": "http://r656.dad:80/ch/2601_"
         }
       ]
     },
@@ -391,6 +1213,44 @@
       ]
     },
     {
+      "id": "790",
+      "name": "BEIN SPORTS_5 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/790_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_5 HD stream",
+          "url": "http://r656.dad:80/ch/790_"
+        }
+      ]
+    },
+    {
+      "id": "2602",
+      "name": "BEIN SPORTS_5 SD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2602_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_5 SD stream",
+          "url": "http://r656.dad:80/ch/2602_"
+        }
+      ]
+    },
+    {
       "id": "10078",
       "name": "BEIN SPORTS 6 FHD",
       "logo": "https://i.imgur.com/uCv82hS.png",
@@ -425,6 +1285,44 @@
         {
           "label": "BEIN SPORTS 6 HEVC stream",
           "url": "http://r656.dad:80/ch/22389_"
+        }
+      ]
+    },
+    {
+      "id": "791",
+      "name": "BEIN SPORTS_6 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/791_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_6 HD stream",
+          "url": "http://r656.dad:80/ch/791_"
+        }
+      ]
+    },
+    {
+      "id": "2603",
+      "name": "BEIN SPORTS_6 SD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2603_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_6 SD stream",
+          "url": "http://r656.dad:80/ch/2603_"
         }
       ]
     },
@@ -467,6 +1365,44 @@
       ]
     },
     {
+      "id": "792",
+      "name": "BEIN SPORTS_7 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/792_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_7 HD stream",
+          "url": "http://r656.dad:80/ch/792_"
+        }
+      ]
+    },
+    {
+      "id": "2604",
+      "name": "BEIN SPORTS_7 SD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2604_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_7 SD stream",
+          "url": "http://r656.dad:80/ch/2604_"
+        }
+      ]
+    },
+    {
       "id": "10076",
       "name": "BEIN SPORTS 8 FHD",
       "logo": "https://i.imgur.com/uCv82hS.png",
@@ -505,6 +1441,44 @@
       ]
     },
     {
+      "id": "793",
+      "name": "BEIN SPORTS_8 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/793_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_8 HD stream",
+          "url": "http://r656.dad:80/ch/793_"
+        }
+      ]
+    },
+    {
+      "id": "2605",
+      "name": "BEIN SPORTS_8 SD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2605_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_8 SD stream",
+          "url": "http://r656.dad:80/ch/2605_"
+        }
+      ]
+    },
+    {
       "id": "10075",
       "name": "BEIN SPORTS 9 FHD",
       "logo": "https://i.imgur.com/uCv82hS.png",
@@ -539,6 +1513,120 @@
         {
           "label": "BEIN SPORTS 9 HEVC stream",
           "url": "http://r656.dad:80/ch/22386_"
+        }
+      ]
+    },
+    {
+      "id": "794",
+      "name": "BEIN SPORTS_9 HD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/794_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_9 HD stream",
+          "url": "http://r656.dad:80/ch/794_"
+        }
+      ]
+    },
+    {
+      "id": "2606",
+      "name": "BEIN SPORTS_9 SD",
+      "logo": "http://i.imgur.com/UMyLxRI.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2606_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS_9 SD stream",
+          "url": "http://r656.dad:80/ch/2606_"
+        }
+      ]
+    },
+    {
+      "id": "37234",
+      "name": "BEIN FATAFEAT HD",
+      "logo": null,
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/37234_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN FATAFEAT HD stream",
+          "url": "http://r656.dad:80/ch/37234_"
+        }
+      ]
+    },
+    {
+      "id": "4391",
+      "name": "BEIN NAT GEO HD",
+      "logo": null,
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4391_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN NAT GEO HD stream",
+          "url": "http://r656.dad:80/ch/4391_"
+        }
+      ]
+    },
+    {
+      "id": "3147",
+      "name": "BEIN SERIES 2 FHD",
+      "logo": null,
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3147_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SERIES 2 FHD stream",
+          "url": "http://r656.dad:80/ch/3147_"
+        }
+      ]
+    },
+    {
+      "id": "104974",
+      "name": "BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)",
+      "logo": "https://i.imgur.com/WwH58EE.png",
+      "category": "BeIN & Sports & Entertainment (Arabic)",
+      "categoryId": "17",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/104974_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY) stream",
+          "url": "http://r656.dad:80/ch/104974_"
         }
       ]
     },
@@ -634,405 +1722,6 @@
         {
           "label": "BEIN SPORTS XTRA FHD stream",
           "url": "http://r656.dad:80/ch/89275_"
-        }
-      ]
-    },
-    {
-      "id": "788",
-      "name": "BEIN SPORTS_3 HD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/788_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_3 HD stream",
-          "url": "http://r656.dad:80/ch/788_"
-        }
-      ]
-    },
-    {
-      "id": "2600",
-      "name": "BEIN SPORTS_3 SD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2600_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_3 SD stream",
-          "url": "http://r656.dad:80/ch/2600_"
-        }
-      ]
-    },
-    {
-      "id": "789",
-      "name": "BEIN SPORTS_4 HD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/789_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_4 HD stream",
-          "url": "http://r656.dad:80/ch/789_"
-        }
-      ]
-    },
-    {
-      "id": "2601",
-      "name": "BEIN SPORTS_4 SD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2601_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_4 SD stream",
-          "url": "http://r656.dad:80/ch/2601_"
-        }
-      ]
-    },
-    {
-      "id": "790",
-      "name": "BEIN SPORTS_5 HD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/790_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_5 HD stream",
-          "url": "http://r656.dad:80/ch/790_"
-        }
-      ]
-    },
-    {
-      "id": "2602",
-      "name": "BEIN SPORTS_5 SD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2602_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_5 SD stream",
-          "url": "http://r656.dad:80/ch/2602_"
-        }
-      ]
-    },
-    {
-      "id": "791",
-      "name": "BEIN SPORTS_6 HD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/791_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_6 HD stream",
-          "url": "http://r656.dad:80/ch/791_"
-        }
-      ]
-    },
-    {
-      "id": "2603",
-      "name": "BEIN SPORTS_6 SD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2603_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_6 SD stream",
-          "url": "http://r656.dad:80/ch/2603_"
-        }
-      ]
-    },
-    {
-      "id": "792",
-      "name": "BEIN SPORTS_7 HD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/792_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_7 HD stream",
-          "url": "http://r656.dad:80/ch/792_"
-        }
-      ]
-    },
-    {
-      "id": "2604",
-      "name": "BEIN SPORTS_7 SD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2604_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_7 SD stream",
-          "url": "http://r656.dad:80/ch/2604_"
-        }
-      ]
-    },
-    {
-      "id": "793",
-      "name": "BEIN SPORTS_8 HD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/793_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_8 HD stream",
-          "url": "http://r656.dad:80/ch/793_"
-        }
-      ]
-    },
-    {
-      "id": "2605",
-      "name": "BEIN SPORTS_8 SD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2605_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_8 SD stream",
-          "url": "http://r656.dad:80/ch/2605_"
-        }
-      ]
-    },
-    {
-      "id": "794",
-      "name": "BEIN SPORTS_9 HD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/794_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_9 HD stream",
-          "url": "http://r656.dad:80/ch/794_"
-        }
-      ]
-    },
-    {
-      "id": "2606",
-      "name": "BEIN SPORTS_9 SD",
-      "logo": "http://i.imgur.com/UMyLxRI.png",
-      "category": "BeIN & Sports & Entertainment (Arabic)",
-      "categoryId": "17",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2606_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SPORTS_9 SD stream",
-          "url": "http://r656.dad:80/ch/2606_"
-        }
-      ]
-    },
-    {
-      "id": "112030",
-      "name": "BEIN DRAMA 1 FHD",
-      "logo": "https://i.imgur.com/OkeHSUT.png",
-      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
-      "categoryId": "245",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/112030_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN DRAMA 1 FHD stream",
-          "url": "http://r656.dad:80/ch/112030_"
-        }
-      ]
-    },
-    {
-      "id": "69350",
-      "name": "BEIN MOVIES 1 FHD (EXCLUS)",
-      "logo": "https://i.imgur.com/OkeHSUT.png",
-      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
-      "categoryId": "245",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/69350_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN MOVIES 1 FHD (EXCLUS) stream",
-          "url": "http://r656.dad:80/ch/69350_"
-        }
-      ]
-    },
-    {
-      "id": "43850",
-      "name": "BEIN MOVIES 2 FHD (EXCLUS)",
-      "logo": "https://i.imgur.com/OkeHSUT.png",
-      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
-      "categoryId": "245",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/43850_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN MOVIES 2 FHD (EXCLUS) stream",
-          "url": "http://r656.dad:80/ch/43850_"
-        }
-      ]
-    },
-    {
-      "id": "346",
-      "name": "BEIN MOVIES 2 HD",
-      "logo": "https://i.imgur.com/OkeHSUT.png",
-      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
-      "categoryId": "245",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/346_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN MOVIES 2 HD stream",
-          "url": "http://r656.dad:80/ch/346_"
-        }
-      ]
-    },
-    {
-      "id": "111",
-      "name": "BEIN MOVIES 3 FHD",
-      "logo": "https://i.imgur.com/OkeHSUT.png",
-      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
-      "categoryId": "245",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/111_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN MOVIES 3 FHD stream",
-          "url": "http://r656.dad:80/ch/111_"
-        }
-      ]
-    },
-    {
-      "id": "43852",
-      "name": "BEIN MOVIES 4 FHD (EXCLUS)",
-      "logo": "https://i.imgur.com/OkeHSUT.png",
-      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
-      "categoryId": "245",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/43852_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN MOVIES 4 FHD (EXCLUS) stream",
-          "url": "http://r656.dad:80/ch/43852_"
-        }
-      ]
-    },
-    {
-      "id": "2396",
-      "name": "BEIN SERIES 1 FHD (EXCLUS)",
-      "logo": "https://i.imgur.com/OkeHSUT.png",
-      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
-      "categoryId": "245",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2396_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "BEIN SERIES 1 FHD (EXCLUS) stream",
-          "url": "http://r656.dad:80/ch/2396_"
         }
       ]
     },
@@ -1375,6 +2064,139 @@
         {
           "label": "BEIN SPORTS 9 HD (50 FPS) stream",
           "url": "http://r656.dad:80/ch/112156_"
+        }
+      ]
+    },
+    {
+      "id": "112030",
+      "name": "BEIN DRAMA 1 FHD",
+      "logo": "https://i.imgur.com/OkeHSUT.png",
+      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
+      "categoryId": "245",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/112030_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN DRAMA 1 FHD stream",
+          "url": "http://r656.dad:80/ch/112030_"
+        }
+      ]
+    },
+    {
+      "id": "69350",
+      "name": "BEIN MOVIES 1 FHD (EXCLUS)",
+      "logo": "https://i.imgur.com/OkeHSUT.png",
+      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
+      "categoryId": "245",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/69350_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN MOVIES 1 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/69350_"
+        }
+      ]
+    },
+    {
+      "id": "43850",
+      "name": "BEIN MOVIES 2 FHD (EXCLUS)",
+      "logo": "https://i.imgur.com/OkeHSUT.png",
+      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
+      "categoryId": "245",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/43850_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN MOVIES 2 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/43850_"
+        }
+      ]
+    },
+    {
+      "id": "346",
+      "name": "BEIN MOVIES 2 HD",
+      "logo": "https://i.imgur.com/OkeHSUT.png",
+      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
+      "categoryId": "245",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/346_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN MOVIES 2 HD stream",
+          "url": "http://r656.dad:80/ch/346_"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "name": "BEIN MOVIES 3 FHD",
+      "logo": "https://i.imgur.com/OkeHSUT.png",
+      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
+      "categoryId": "245",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/111_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN MOVIES 3 FHD stream",
+          "url": "http://r656.dad:80/ch/111_"
+        }
+      ]
+    },
+    {
+      "id": "43852",
+      "name": "BEIN MOVIES 4 FHD (EXCLUS)",
+      "logo": "https://i.imgur.com/OkeHSUT.png",
+      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
+      "categoryId": "245",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/43852_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN MOVIES 4 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/43852_"
+        }
+      ]
+    },
+    {
+      "id": "2396",
+      "name": "BEIN SERIES 1 FHD (EXCLUS)",
+      "logo": "https://i.imgur.com/OkeHSUT.png",
+      "category": "BEIN CONNECT ARABE ( LIVE ONLY )",
+      "categoryId": "245",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2396_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEIN SERIES 1 FHD (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/2396_"
         }
       ]
     },
@@ -5426,6 +6248,120 @@
       ]
     },
     {
+      "id": "7024",
+      "name": "AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7024_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7024_"
+        }
+      ]
+    },
+    {
+      "id": "3725",
+      "name": "AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3725_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3725_"
+        }
+      ]
+    },
+    {
+      "id": "3730",
+      "name": "AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3730_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3730_"
+        }
+      ]
+    },
+    {
+      "id": "3727",
+      "name": "AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3727_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3727_"
+        }
+      ]
+    },
+    {
+      "id": "3729",
+      "name": "AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3729_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3729_"
+        }
+      ]
+    },
+    {
+      "id": "7026",
+      "name": "AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀",
+      "logo": "https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png",
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7026_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7026_"
+        }
+      ]
+    },
+    {
       "id": "195387",
       "name": "ARABICA HD",
       "logo": null,
@@ -5783,6 +6719,25 @@
         {
           "label": "BAHRAN QURAN HD stream",
           "url": "http://r656.dad:80/ch/195361_"
+        }
+      ]
+    },
+    {
+      "id": "195255",
+      "name": "BAHREIN ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195255_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BAHREIN ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195255_"
         }
       ]
     },
@@ -6148,6 +7103,25 @@
       ]
     },
     {
+      "id": "195262",
+      "name": "DIVERS ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195262_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "DIVERS ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195262_"
+        }
+      ]
+    },
+    {
       "id": "5094",
       "name": "DMC DRAMA",
       "logo": null,
@@ -6300,6 +7274,44 @@
       ]
     },
     {
+      "id": "195267",
+      "name": "EDUCATION ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195267_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EDUCATION ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195267_"
+        }
+      ]
+    },
+    {
+      "id": "4114",
+      "name": "EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4114_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/4114_"
+        }
+      ]
+    },
+    {
       "id": "195268",
       "name": "EGY EDUC 1",
       "logo": null,
@@ -6372,6 +7384,25 @@
         {
           "label": "EL WATANIA TV stream",
           "url": "http://r656.dad:80/ch/195410_"
+        }
+      ]
+    },
+    {
+      "id": "195312",
+      "name": "EMIRATS ARABES UNIS ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195312_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EMIRATS ARABES UNIS ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195312_"
         }
       ]
     },
@@ -6756,6 +7787,25 @@
       ]
     },
     {
+      "id": "195342",
+      "name": "IRAK ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195342_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "IRAK ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195342_"
+        }
+      ]
+    },
+    {
       "id": "195353",
       "name": "IRAQ 24 HD",
       "logo": null,
@@ -6889,6 +7939,25 @@
       ]
     },
     {
+      "id": "195367",
+      "name": "JORDANIE ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195367_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "JORDANIE ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195367_"
+        }
+      ]
+    },
+    {
       "id": "195249",
       "name": "KAIF TV",
       "logo": null,
@@ -6942,6 +8011,25 @@
         {
           "label": "KRAMESH KIDS stream",
           "url": "http://r656.dad:80/ch/195338_"
+        }
+      ]
+    },
+    {
+      "id": "3724",
+      "name": "KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3724_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3724_"
         }
       ]
     },
@@ -7041,6 +8129,25 @@
       ]
     },
     {
+      "id": "4112",
+      "name": "KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4112_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/4112_"
+        }
+      ]
+    },
+    {
       "id": "195452",
       "name": "LANA TV",
       "logo": null,
@@ -7075,6 +8182,25 @@
         {
           "label": "LANA TV HD stream",
           "url": "http://r656.dad:80/ch/101145_"
+        }
+      ]
+    },
+    {
+      "id": "3711",
+      "name": "LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3711_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3711_"
         }
       ]
     },
@@ -7246,6 +8372,25 @@
         {
           "label": "LIBYA WTV HD stream",
           "url": "http://r656.dad:80/ch/195398_"
+        }
+      ]
+    },
+    {
+      "id": "195389",
+      "name": "LIBYE ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195389_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "LIBYE ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195389_"
         }
       ]
     },
@@ -7436,6 +8581,25 @@
         {
           "label": "MASPERO ZAMAN stream",
           "url": "http://r656.dad:80/ch/5095_"
+        }
+      ]
+    },
+    {
+      "id": "195402",
+      "name": "MAURITANIE ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195402_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MAURITANIE ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195402_"
         }
       ]
     },
@@ -8504,6 +9668,25 @@
       ]
     },
     {
+      "id": "195422",
+      "name": "PALESTINE ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195422_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "PALESTINE ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195422_"
+        }
+      ]
+    },
+    {
       "id": "7035",
       "name": "PALESTINE LIVE HD",
       "logo": null,
@@ -8785,6 +9968,25 @@
         {
           "label": "QATAR TV HD stream",
           "url": "http://r656.dad:80/ch/5403_"
+        }
+      ]
+    },
+    {
+      "id": "4115",
+      "name": "QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4115_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/4115_"
         }
       ]
     },
@@ -9948,6 +11150,25 @@
       ]
     },
     {
+      "id": "195440",
+      "name": "SOUDAN ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195440_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "SOUDAN ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195440_"
+        }
+      ]
+    },
+    {
       "id": "568",
       "name": "SPACETOON",
       "logo": "http://i.imgur.com/eHw38xa.png",
@@ -10058,6 +11279,25 @@
         {
           "label": "SUHAIL TV stream",
           "url": "http://r656.dad:80/ch/195472_"
+        }
+      ]
+    },
+    {
+      "id": "3722",
+      "name": "SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3722_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3722_"
         }
       ]
     },
@@ -10328,6 +11568,25 @@
       ]
     },
     {
+      "id": "195461",
+      "name": "YEMEN ] ▀▄▀▄▀",
+      "logo": null,
+      "category": "ARABES ( العربية)",
+      "categoryId": "3",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195461_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "YEMEN ] ▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/195461_"
+        }
+      ]
+    },
+    {
       "id": "195473",
       "name": "YEMEN DOCUMENTARY",
       "logo": null,
@@ -10442,1300 +11701,8 @@
       ]
     },
     {
-      "id": "7024",
-      "name": "▀▄ AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/7024_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ AR ▀▄▀▄▀▄ ART ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/7024_"
-        }
-      ]
-    },
-    {
-      "id": "3725",
-      "name": "▀▄ AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3725_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ AR ▀▄▀▄▀▄ DOC ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/3725_"
-        }
-      ]
-    },
-    {
-      "id": "3730",
-      "name": "▀▄ AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3730_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ AR ▀▄▀▄▀▄ INFORMATION ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/3730_"
-        }
-      ]
-    },
-    {
-      "id": "3727",
-      "name": "▀▄ AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3727_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ AR ▀▄▀▄▀▄ ISLAMIC ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/3727_"
-        }
-      ]
-    },
-    {
-      "id": "3729",
-      "name": "▀▄ AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3729_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ AR ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/3729_"
-        }
-      ]
-    },
-    {
-      "id": "7026",
-      "name": "▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀",
-      "logo": "https://images.seeklogo.com/logo-png/22/1/rotana-media-group-logo-png_seeklogo-222490.png",
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/7026_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ AR ▀▄▀▄▀▄ ROTANA ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/7026_"
-        }
-      ]
-    },
-    {
-      "id": "4114",
-      "name": "▀▄ EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4114_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ EG ▀▄▀▄▀▄ EGYPTE ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/4114_"
-        }
-      ]
-    },
-    {
-      "id": "3724",
-      "name": "▀▄ KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3724_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ KSA ▀▄▀▄▀▄ SAUDIA ARABIA ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/3724_"
-        }
-      ]
-    },
-    {
-      "id": "4112",
-      "name": "▀▄ KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4112_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ KW ▀▄▀▄▀▄ KUWAIT ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/4112_"
-        }
-      ]
-    },
-    {
-      "id": "3711",
-      "name": "▀▄ LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3711_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ LB ▀▄▀▄▀▄ LEBANON ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/3711_"
-        }
-      ]
-    },
-    {
-      "id": "4115",
-      "name": "▀▄ QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4115_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ QP ▀▄▀▄▀▄ QATAR ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/4115_"
-        }
-      ]
-    },
-    {
-      "id": "3722",
-      "name": "▀▄ SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3722_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄ SY ▀▄▀▄▀▄ SYRIA ▄▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/3722_"
-        }
-      ]
-    },
-    {
-      "id": "195255",
-      "name": "▀▄▀▄▀ [ BAHREIN ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195255_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ BAHREIN ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195255_"
-        }
-      ]
-    },
-    {
-      "id": "195262",
-      "name": "▀▄▀▄▀ [ DIVERS ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195262_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ DIVERS ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195262_"
-        }
-      ]
-    },
-    {
-      "id": "195267",
-      "name": "▀▄▀▄▀ [ EDUCATION ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195267_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ EDUCATION ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195267_"
-        }
-      ]
-    },
-    {
-      "id": "195312",
-      "name": "▀▄▀▄▀ [ EMIRATS ARABES UNIS ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195312_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ EMIRATS ARABES UNIS ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195312_"
-        }
-      ]
-    },
-    {
-      "id": "195342",
-      "name": "▀▄▀▄▀ [ IRAK ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195342_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ IRAK ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195342_"
-        }
-      ]
-    },
-    {
-      "id": "195367",
-      "name": "▀▄▀▄▀ [ JORDANIE ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195367_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ JORDANIE ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195367_"
-        }
-      ]
-    },
-    {
-      "id": "195389",
-      "name": "▀▄▀▄▀ [ LIBYE ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195389_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ LIBYE ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195389_"
-        }
-      ]
-    },
-    {
-      "id": "195402",
-      "name": "▀▄▀▄▀ [ MAURITANIE ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195402_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ MAURITANIE ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195402_"
-        }
-      ]
-    },
-    {
-      "id": "195422",
-      "name": "▀▄▀▄▀ [ PALESTINE ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195422_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ PALESTINE ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195422_"
-        }
-      ]
-    },
-    {
-      "id": "195440",
-      "name": "▀▄▀▄▀ [ SOUDAN ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195440_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ SOUDAN ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195440_"
-        }
-      ]
-    },
-    {
-      "id": "195461",
-      "name": "▀▄▀▄▀ [ YEMEN ] ▀▄▀▄▀",
-      "logo": null,
-      "category": "ARABES ( العربية)",
-      "categoryId": "3",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195461_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "▀▄▀▄▀ [ YEMEN ] ▀▄▀▄▀ stream",
-          "url": "http://r656.dad:80/ch/195461_"
-        }
-      ]
-    },
-    {
-      "id": "2810",
-      "name": "DZ| AL MAGHARIBIA HD",
-      "logo": "http://i.imgur.com/iMC45iQ.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2810_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| AL MAGHARIBIA HD stream",
-          "url": "http://r656.dad:80/ch/2810_"
-        }
-      ]
-    },
-    {
-      "id": "3601",
-      "name": "DZ| AL24 NEWS FHD",
-      "logo": "https://i.imgur.com/sHq6ktu.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3601_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| AL24 NEWS FHD stream",
-          "url": "http://r656.dad:80/ch/3601_"
-        }
-      ]
-    },
-    {
-      "id": "228",
-      "name": "DZ| ALGERIA 4 KIDS",
-      "logo": "https://4kids-tv.com/wp-content/uploads/2022/02/logo4kids.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/228_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIA 4 KIDS stream",
-          "url": "http://r656.dad:80/ch/228_"
-        }
-      ]
-    },
-    {
-      "id": "1410",
-      "name": "DZ| ALGERIE 3 FHD",
-      "logo": "http://www.tunisvista.com/medias/algeria3.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1410_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 3 FHD stream",
-          "url": "http://r656.dad:80/ch/1410_"
-        }
-      ]
-    },
-    {
-      "id": "225",
-      "name": "DZ| ALGERIE 3 HD",
-      "logo": "http://www.tunisvista.com/medias/algeria3.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/225_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 3 HD stream",
-          "url": "http://r656.dad:80/ch/225_"
-        }
-      ]
-    },
-    {
-      "id": "226",
-      "name": "DZ| ALGERIE 4",
-      "logo": "http://i.imgur.com/IBx84Z7.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/226_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 4 stream",
-          "url": "http://r656.dad:80/ch/226_"
-        }
-      ]
-    },
-    {
-      "id": "227",
-      "name": "DZ| ALGERIE 5 HD",
-      "logo": "http://i.imgur.com/TXyy8t7.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/227_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 5 HD stream",
-          "url": "http://r656.dad:80/ch/227_"
-        }
-      ]
-    },
-    {
-      "id": "229",
-      "name": "DZ| ALGERIE 6 FHD",
-      "logo": "https://i.imgur.com/FcNLRrO.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/229_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 6 FHD stream",
-          "url": "http://r656.dad:80/ch/229_"
-        }
-      ]
-    },
-    {
-      "id": "42087",
-      "name": "DZ| ALGERIE 6 HD",
-      "logo": "https://i.imgur.com/FcNLRrO.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/42087_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 6 HD stream",
-          "url": "http://r656.dad:80/ch/42087_"
-        }
-      ]
-    },
-    {
-      "id": "45716",
-      "name": "DZ| ALGERIE 7 EL MAARIFA",
-      "logo": "https://i.imgur.com/GVfSdP1.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/45716_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 7 EL MAARIFA stream",
-          "url": "http://r656.dad:80/ch/45716_"
-        }
-      ]
-    },
-    {
-      "id": "45717",
-      "name": "DZ| ALGERIE 8 EL DAKIRA",
-      "logo": "https://i.imgur.com/6dGGebB.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/45717_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ALGERIE 8 EL DAKIRA stream",
-          "url": "http://r656.dad:80/ch/45717_"
-        }
-      ]
-    },
-    {
-      "id": "6974",
-      "name": "DZ| AMOU YAZID TOFOLA HD",
-      "logo": "https://i.imgur.com/jrfdlWq.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/6974_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| AMOU YAZID TOFOLA HD stream",
-          "url": "http://r656.dad:80/ch/6974_"
-        }
-      ]
-    },
-    {
-      "id": "1112",
-      "name": "DZ| BAHIA TV",
-      "logo": "http://i.imgur.com/3ExRISi.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1112_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| BAHIA TV stream",
-          "url": "http://r656.dad:80/ch/1112_"
-        }
-      ]
-    },
-    {
-      "id": "374",
-      "name": "DZ| BERBERE JEUNESSE (EXCLUS)",
-      "logo": "https://i.imgur.com/iNaAtbD.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/374_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| BERBERE JEUNESSE (EXCLUS) stream",
-          "url": "http://r656.dad:80/ch/374_"
-        }
-      ]
-    },
-    {
-      "id": "42075",
-      "name": "DZ| BERBERE MUSIC (EXCLUS)",
-      "logo": "https://i.imgur.com/AmekoXo.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/42075_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| BERBERE MUSIC (EXCLUS) stream",
-          "url": "http://r656.dad:80/ch/42075_"
-        }
-      ]
-    },
-    {
-      "id": "949",
-      "name": "DZ| BERBERE TV",
-      "logo": "http://i.imgur.com/98gjMeV.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/949_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| BERBERE TV stream",
-          "url": "http://r656.dad:80/ch/949_"
-        }
-      ]
-    },
-    {
-      "id": "4279",
-      "name": "DZ| BEUR FM TV (EXCLU)",
-      "logo": "https://i.imgur.com/bgtm9Gm.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4279_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| BEUR FM TV (EXCLU) stream",
-          "url": "http://r656.dad:80/ch/4279_"
-        }
-      ]
-    },
-    {
-      "id": "2805",
-      "name": "DZ| BEUR TV HD",
-      "logo": "http://i.imgur.com/GvMXf3K.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2805_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| BEUR TV HD stream",
-          "url": "http://r656.dad:80/ch/2805_"
-        }
-      ]
-    },
-    {
-      "id": "173",
-      "name": "DZ| CANAL ALGERIE",
-      "logo": "http://i.imgur.com/pOE3cTT.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/173_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| CANAL ALGERIE stream",
-          "url": "http://r656.dad:80/ch/173_"
-        }
-      ]
-    },
-    {
-      "id": "2825",
-      "name": "DZ| CANAL ALGERIE FHD",
-      "logo": "http://i.imgur.com/pOE3cTT.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2825_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| CANAL ALGERIE FHD stream",
-          "url": "http://r656.dad:80/ch/2825_"
-        }
-      ]
-    },
-    {
-      "id": "230",
-      "name": "DZ| ECHOROUK NEWS",
-      "logo": "http://i.imgur.com/b2koAeh.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/230_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ECHOROUK NEWS stream",
-          "url": "http://r656.dad:80/ch/230_"
-        }
-      ]
-    },
-    {
-      "id": "1560",
-      "name": "DZ| ECHOROUK NEWS HD",
-      "logo": "http://i.imgur.com/b2koAeh.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1560_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ECHOROUK NEWS HD stream",
-          "url": "http://r656.dad:80/ch/1560_"
-        }
-      ]
-    },
-    {
-      "id": "175",
-      "name": "DZ| ECHOROUK TV",
-      "logo": "http://i.imgur.com/hizkQd7.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/175_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ECHOROUK TV stream",
-          "url": "http://r656.dad:80/ch/175_"
-        }
-      ]
-    },
-    {
-      "id": "1559",
-      "name": "DZ| ECHOROUK TV FHD",
-      "logo": "http://i.imgur.com/hizkQd7.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1559_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ECHOROUK TV FHD stream",
-          "url": "http://r656.dad:80/ch/1559_"
-        }
-      ]
-    },
-    {
-      "id": "1113",
-      "name": "DZ| EL ANIS TV",
-      "logo": "https://i.imgur.com/2CNfkrr.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1113_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL ANIS TV stream",
-          "url": "http://r656.dad:80/ch/1113_"
-        }
-      ]
-    },
-    {
-      "id": "104965",
-      "name": "DZ| EL BARLAMANYA FHD",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/104965_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL BARLAMANYA FHD stream",
-          "url": "http://r656.dad:80/ch/104965_"
-        }
-      ]
-    },
-    {
-      "id": "231",
-      "name": "DZ| EL BILAD TV",
-      "logo": "http://i.imgur.com/lESg64o.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/231_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL BILAD TV stream",
-          "url": "http://r656.dad:80/ch/231_"
-        }
-      ]
-    },
-    {
-      "id": "6183",
-      "name": "DZ| EL DJAZAIR N1",
-      "logo": "https://i.imgur.com/Cpt7Lri.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/6183_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL DJAZAIR N1 stream",
-          "url": "http://r656.dad:80/ch/6183_"
-        }
-      ]
-    },
-    {
-      "id": "236",
-      "name": "DZ| EL FADJR TV",
-      "logo": "https://i.imgur.com/W1x47Ar.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/236_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL FADJR TV stream",
-          "url": "http://r656.dad:80/ch/236_"
-        }
-      ]
-    },
-    {
-      "id": "2260",
-      "name": "DZ| EL HAYAT TV FHD",
-      "logo": "https://i.imgur.com/s8NHjDR.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2260_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL HAYAT TV FHD stream",
-          "url": "http://r656.dad:80/ch/2260_"
-        }
-      ]
-    },
-    {
-      "id": "1772",
-      "name": "DZ| EL HAYAT TV HD",
-      "logo": "https://i.imgur.com/s8NHjDR.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1772_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL HAYAT TV HD stream",
-          "url": "http://r656.dad:80/ch/1772_"
-        }
-      ]
-    },
-    {
-      "id": "233",
-      "name": "DZ| EL HEDDAF TV FHD",
-      "logo": "http://i.imgur.com/mgPHvo8.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/233_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL HEDDAF TV FHD stream",
-          "url": "http://r656.dad:80/ch/233_"
-        }
-      ]
-    },
-    {
-      "id": "42074",
-      "name": "DZ| EL WATANIA TV",
-      "logo": "https://i.imgur.com/VUdIe25.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/42074_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| EL WATANIA TV stream",
-          "url": "http://r656.dad:80/ch/42074_"
-        }
-      ]
-    },
-    {
-      "id": "172",
-      "name": "DZ| ENNAHAR TV",
-      "logo": "http://i.imgur.com/QxUvmMy.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/172_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ENNAHAR TV stream",
-          "url": "http://r656.dad:80/ch/172_"
-        }
-      ]
-    },
-    {
-      "id": "2806",
-      "name": "DZ| ENNAHAR TV SD",
-      "logo": "http://i.imgur.com/QxUvmMy.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2806_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ENNAHAR TV SD stream",
-          "url": "http://r656.dad:80/ch/2806_"
-        }
-      ]
-    },
-    {
-      "id": "171",
-      "name": "DZ| ENTV (PROGRAMME NATIONAL) FHD",
-      "logo": "https://i.imgur.com/UPECPKc.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/171_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ENTV (PROGRAMME NATIONAL) FHD stream",
-          "url": "http://r656.dad:80/ch/171_"
-        }
-      ]
-    },
-    {
-      "id": "1783",
-      "name": "DZ| ENTV (PROGRAMME NATIONAL) HD",
-      "logo": "https://i.imgur.com/UPECPKc.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1783_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ENTV (PROGRAMME NATIONAL) HD stream",
-          "url": "http://r656.dad:80/ch/1783_"
-        }
-      ]
-    },
-    {
-      "id": "112124",
-      "name": "DZ| NATV NORTH AFRICA CHANNEL HD",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbqRjDRPB4SE9-LwzU_dYIemOYSrUS2VQew&s",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/112124_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| NATV NORTH AFRICA CHANNEL HD stream",
-          "url": "http://r656.dad:80/ch/112124_"
-        }
-      ]
-    },
-    {
-      "id": "22395",
-      "name": "DZ| ONE TV FHD",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/22395_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ONE TV FHD stream",
-          "url": "http://r656.dad:80/ch/22395_"
-        }
-      ]
-    },
-    {
-      "id": "42041",
-      "name": "DZ| SALAM TV HD",
-      "logo": "https://i.imgur.com/YKJQLtf.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/42041_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| SALAM TV HD stream",
-          "url": "http://r656.dad:80/ch/42041_"
-        }
-      ]
-    },
-    {
-      "id": "176",
-      "name": "DZ| SAMIRA TV",
-      "logo": "http://i.imgur.com/J26q8bp.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/176_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| SAMIRA TV stream",
-          "url": "http://r656.dad:80/ch/176_"
-        }
-      ]
-    },
-    {
-      "id": "22398",
-      "name": "DZ| SAMIRA TV FHD",
-      "logo": "http://i.imgur.com/J26q8bp.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/22398_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| SAMIRA TV FHD stream",
-          "url": "http://r656.dad:80/ch/22398_"
-        }
-      ]
-    },
-    {
-      "id": "3151",
-      "name": "DZ| SAMIRA TV HD",
-      "logo": "http://i.imgur.com/J26q8bp.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3151_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| SAMIRA TV HD stream",
-          "url": "http://r656.dad:80/ch/3151_"
-        }
-      ]
-    },
-    {
-      "id": "112129",
-      "name": "DZ| SPORT PLUS HD",
-      "logo": "https://i.imgur.com/H0EVUuN.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/112129_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| SPORT PLUS HD stream",
-          "url": "http://r656.dad:80/ch/112129_"
-        }
-      ]
-    },
-    {
-      "id": "41988",
-      "name": "DZ| ZAHRA TV",
-      "logo": "https://i.imgur.com/K9BnK4p.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/41988_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "DZ| ZAHRA TV stream",
-          "url": "http://r656.dad:80/ch/41988_"
-        }
-      ]
-    },
-    {
       "id": "5245",
-      "name": "MA| 2M FHD",
+      "name": "2M FHD",
       "logo": null,
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -11747,14 +11714,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "MA| 2M FHD stream",
+          "label": "2M FHD stream",
           "url": "http://r656.dad:80/ch/5245_"
         }
       ]
     },
     {
       "id": "274",
-      "name": "MA| 2M MAROC HD",
+      "name": "2M MAROC HD",
       "logo": "http://i.imgur.com/YGXdwKu.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -11766,14 +11733,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "MA| 2M MAROC HD stream",
+          "label": "2M MAROC HD stream",
           "url": "http://r656.dad:80/ch/274_"
         }
       ]
     },
     {
       "id": "3150",
-      "name": "MA| 2M MONDE",
+      "name": "2M MONDE",
       "logo": "http://i.imgur.com/YGXdwKu.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -11785,14 +11752,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "MA| 2M MONDE stream",
+          "label": "2M MONDE stream",
           "url": "http://r656.dad:80/ch/3150_"
         }
       ]
     },
     {
       "id": "1507",
-      "name": "MA| AL AOULA FHD",
+      "name": "AL AOULA FHD",
       "logo": "http://i.imgur.com/NjFnTSG.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -11804,14 +11771,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "MA| AL AOULA FHD stream",
+          "label": "AL AOULA FHD stream",
           "url": "http://r656.dad:80/ch/1507_"
         }
       ]
     },
     {
       "id": "383",
-      "name": "MA| AL AOULA INTER",
+      "name": "AL AOULA INTER",
       "logo": "http://i.imgur.com/NjFnTSG.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -11823,14 +11790,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "MA| AL AOULA INTER stream",
+          "label": "AL AOULA INTER stream",
           "url": "http://r656.dad:80/ch/383_"
         }
       ]
     },
     {
       "id": "5246",
-      "name": "MA| AL AOULA MAROC TNT HD",
+      "name": "AL AOULA MAROC TNT HD",
       "logo": null,
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -11842,432 +11809,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "MA| AL AOULA MAROC TNT HD stream",
+          "label": "AL AOULA MAROC TNT HD stream",
           "url": "http://r656.dad:80/ch/5246_"
         }
       ]
     },
     {
-      "id": "382",
-      "name": "MA| AL MAGHRIBIA ALIKHBARIA FHD",
-      "logo": "http://i.imgur.com/TaxrKCi.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/382_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| AL MAGHRIBIA ALIKHBARIA FHD stream",
-          "url": "http://r656.dad:80/ch/382_"
-        }
-      ]
-    },
-    {
-      "id": "4261",
-      "name": "MA| AL OULA INTER FHD",
-      "logo": "http://i.imgur.com/TaxrKCi.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4261_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| AL OULA INTER FHD stream",
-          "url": "http://r656.dad:80/ch/4261_"
-        }
-      ]
-    },
-    {
-      "id": "560",
-      "name": "MA| ARRABIAA ATHAQAFIA HD",
-      "logo": "http://i.imgur.com/IWBJT17.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/560_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ARRABIAA ATHAQAFIA HD stream",
-          "url": "http://r656.dad:80/ch/560_"
-        }
-      ]
-    },
-    {
-      "id": "4380",
-      "name": "MA| ARRABIAA FHD",
-      "logo": "http://i.imgur.com/IWBJT17.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4380_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ARRABIAA FHD stream",
-          "url": "http://r656.dad:80/ch/4380_"
-        }
-      ]
-    },
-    {
-      "id": "5244",
-      "name": "MA| ARRIADIA LIVE TNT HD",
-      "logo": "https://i.imgur.com/81ksuGS.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/5244_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ARRIADIA LIVE TNT HD stream",
-          "url": "http://r656.dad:80/ch/5244_"
-        }
-      ]
-    },
-    {
-      "id": "4377",
-      "name": "MA| ARRIADIA MAROC FHD",
-      "logo": "https://i.imgur.com/81ksuGS.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4377_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ARRIADIA MAROC FHD stream",
-          "url": "http://r656.dad:80/ch/4377_"
-        }
-      ]
-    },
-    {
-      "id": "644",
-      "name": "MA| ARRIADIA MAROC HD",
-      "logo": "https://i.imgur.com/81ksuGS.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/644_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ARRIADIA MAROC HD stream",
-          "url": "http://r656.dad:80/ch/644_"
-        }
-      ]
-    },
-    {
-      "id": "42108",
-      "name": "MA| ARRYADIA 2 HD",
-      "logo": "https://i.imgur.com/81ksuGS.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/42108_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ARRYADIA 2 HD stream",
-          "url": "http://r656.dad:80/ch/42108_"
-        }
-      ]
-    },
-    {
-      "id": "13308",
-      "name": "MA| ARRYADIA MAROC",
-      "logo": "https://i.imgur.com/81ksuGS.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/13308_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ARRYADIA MAROC stream",
-          "url": "http://r656.dad:80/ch/13308_"
-        }
-      ]
-    },
-    {
-      "id": "1768",
-      "name": "MA| ASSABIA 7 TV FHD",
-      "logo": "https://i.imgur.com/3E5nP0Y.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1768_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ASSABIA 7 TV FHD stream",
-          "url": "http://r656.dad:80/ch/1768_"
-        }
-      ]
-    },
-    {
-      "id": "4378",
-      "name": "MA| ASSADISSA FHD",
-      "logo": "http://i.imgur.com/l1puCC0.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4378_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ASSADISSA FHD stream",
-          "url": "http://r656.dad:80/ch/4378_"
-        }
-      ]
-    },
-    {
-      "id": "535",
-      "name": "MA| ASSADISSA HD",
-      "logo": "http://i.imgur.com/l1puCC0.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/535_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| ASSADISSA HD stream",
-          "url": "http://r656.dad:80/ch/535_"
-        }
-      ]
-    },
-    {
-      "id": "5313",
-      "name": "MA| CANAL ATLAS",
-      "logo": "https://i.imgur.com/ExQOKII.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/5313_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| CANAL ATLAS stream",
-          "url": "http://r656.dad:80/ch/5313_"
-        }
-      ]
-    },
-    {
-      "id": "5247",
-      "name": "MA| CHADA TV HD",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/5247_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| CHADA TV HD stream",
-          "url": "http://r656.dad:80/ch/5247_"
-        }
-      ]
-    },
-    {
-      "id": "7083",
-      "name": "MA| LAAYOUN TV FHD",
-      "logo": "https://i.imgur.com/XYS9g4x.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/7083_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| LAAYOUN TV FHD stream",
-          "url": "http://r656.dad:80/ch/7083_"
-        }
-      ]
-    },
-    {
-      "id": "42018",
-      "name": "MA| M24 MAROC",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/42018_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| M24 MAROC stream",
-          "url": "http://r656.dad:80/ch/42018_"
-        }
-      ]
-    },
-    {
-      "id": "1447",
-      "name": "MA| MEDI1 ARABIC HD",
-      "logo": "http://i.imgur.com/JWcgynN.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1447_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| MEDI1 ARABIC HD stream",
-          "url": "http://r656.dad:80/ch/1447_"
-        }
-      ]
-    },
-    {
-      "id": "411",
-      "name": "MA| MEDI1 MAGHREB HD",
-      "logo": "http://i.imgur.com/JWcgynN.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/411_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| MEDI1 MAGHREB HD stream",
-          "url": "http://r656.dad:80/ch/411_"
-        }
-      ]
-    },
-    {
-      "id": "4379",
-      "name": "MA| TAMAZIGHT FHD",
-      "logo": "http://i.imgur.com/htebjJD.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/4379_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| TAMAZIGHT FHD stream",
-          "url": "http://r656.dad:80/ch/4379_"
-        }
-      ]
-    },
-    {
-      "id": "559",
-      "name": "MA| TAMAZIGHT HD",
-      "logo": "http://i.imgur.com/htebjJD.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/559_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| TAMAZIGHT HD stream",
-          "url": "http://r656.dad:80/ch/559_"
-        }
-      ]
-    },
-    {
-      "id": "1114",
-      "name": "MA| TELE MAROC FHD",
-      "logo": "http://i.imgur.com/oDn4VbO.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1114_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| TELE MAROC FHD stream",
-          "url": "http://r656.dad:80/ch/1114_"
-        }
-      ]
-    },
-    {
-      "id": "41990",
-      "name": "MA| TELE MAROC HD",
-      "logo": "http://i.imgur.com/oDn4VbO.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/41990_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "MA| TELE MAROC HD stream",
-          "url": "http://r656.dad:80/ch/41990_"
-        }
-      ]
-    },
-    {
       "id": "1115",
-      "name": "TN| AL INSEN TV",
+      "name": "AL INSEN TV",
       "logo": "http://i.imgur.com/cU2YQkI.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12279,14 +11828,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL INSEN TV stream",
+          "label": "AL INSEN TV stream",
           "url": "http://r656.dad:80/ch/1115_"
         }
       ]
     },
     {
       "id": "1785",
-      "name": "TN| AL JANOUBIA",
+      "name": "AL JANOUBIA",
       "logo": "https://i.imgur.com/CMydHtZ.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12298,14 +11847,52 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL JANOUBIA stream",
+          "label": "AL JANOUBIA stream",
           "url": "http://r656.dad:80/ch/1785_"
         }
       ]
     },
     {
+      "id": "2810",
+      "name": "AL MAGHARIBIA HD",
+      "logo": "http://i.imgur.com/iMC45iQ.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2810_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AL MAGHARIBIA HD stream",
+          "url": "http://r656.dad:80/ch/2810_"
+        }
+      ]
+    },
+    {
+      "id": "382",
+      "name": "AL MAGHRIBIA ALIKHBARIA FHD",
+      "logo": "http://i.imgur.com/TaxrKCi.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/382_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AL MAGHRIBIA ALIKHBARIA FHD stream",
+          "url": "http://r656.dad:80/ch/382_"
+        }
+      ]
+    },
+    {
       "id": "1111",
-      "name": "TN| AL MUSTAKILAH",
+      "name": "AL MUSTAKILAH",
       "logo": null,
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12317,14 +11904,33 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL MUSTAKILAH stream",
+          "label": "AL MUSTAKILAH stream",
           "url": "http://r656.dad:80/ch/1111_"
         }
       ]
     },
     {
+      "id": "4261",
+      "name": "AL OULA INTER FHD",
+      "logo": "http://i.imgur.com/TaxrKCi.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4261_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AL OULA INTER FHD stream",
+          "url": "http://r656.dad:80/ch/4261_"
+        }
+      ]
+    },
+    {
       "id": "408",
-      "name": "TN| AL WATANIA 1",
+      "name": "AL WATANIA 1",
       "logo": "http://i.imgur.com/PV84GcJ.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12336,14 +11942,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL WATANIA 1 stream",
+          "label": "AL WATANIA 1 stream",
           "url": "http://r656.dad:80/ch/408_"
         }
       ]
     },
     {
       "id": "3016",
-      "name": "TN| AL WATANIA 1 EDUC",
+      "name": "AL WATANIA 1 EDUC",
       "logo": "http://i.imgur.com/PV84GcJ.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12355,14 +11961,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL WATANIA 1 EDUC stream",
+          "label": "AL WATANIA 1 EDUC stream",
           "url": "http://r656.dad:80/ch/3016_"
         }
       ]
     },
     {
       "id": "4376",
-      "name": "TN| AL WATANIA 1 FHD",
+      "name": "AL WATANIA 1 FHD",
       "logo": "http://i.imgur.com/PV84GcJ.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12374,14 +11980,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL WATANIA 1 FHD stream",
+          "label": "AL WATANIA 1 FHD stream",
           "url": "http://r656.dad:80/ch/4376_"
         }
       ]
     },
     {
       "id": "645",
-      "name": "TN| AL WATANIA 2",
+      "name": "AL WATANIA 2",
       "logo": "https://i.imgur.com/t3kXPWp.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12393,14 +11999,14 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL WATANIA 2 stream",
+          "label": "AL WATANIA 2 stream",
           "url": "http://r656.dad:80/ch/645_"
         }
       ]
     },
     {
       "id": "4375",
-      "name": "TN| AL WATANIA 2 HD",
+      "name": "AL WATANIA 2 HD",
       "logo": "https://i.imgur.com/t3kXPWp.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12412,14 +12018,413 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| AL WATANIA 2 HD stream",
+          "label": "AL WATANIA 2 HD stream",
           "url": "http://r656.dad:80/ch/4375_"
         }
       ]
     },
     {
+      "id": "3601",
+      "name": "AL24 NEWS FHD",
+      "logo": "https://i.imgur.com/sHq6ktu.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3601_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AL24 NEWS FHD stream",
+          "url": "http://r656.dad:80/ch/3601_"
+        }
+      ]
+    },
+    {
+      "id": "228",
+      "name": "ALGERIA 4 KIDS",
+      "logo": "https://4kids-tv.com/wp-content/uploads/2022/02/logo4kids.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/228_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIA 4 KIDS stream",
+          "url": "http://r656.dad:80/ch/228_"
+        }
+      ]
+    },
+    {
+      "id": "1410",
+      "name": "ALGERIE 3 FHD",
+      "logo": "http://www.tunisvista.com/medias/algeria3.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1410_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 3 FHD stream",
+          "url": "http://r656.dad:80/ch/1410_"
+        }
+      ]
+    },
+    {
+      "id": "225",
+      "name": "ALGERIE 3 HD",
+      "logo": "http://www.tunisvista.com/medias/algeria3.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/225_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 3 HD stream",
+          "url": "http://r656.dad:80/ch/225_"
+        }
+      ]
+    },
+    {
+      "id": "226",
+      "name": "ALGERIE 4",
+      "logo": "http://i.imgur.com/IBx84Z7.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/226_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 4 stream",
+          "url": "http://r656.dad:80/ch/226_"
+        }
+      ]
+    },
+    {
+      "id": "227",
+      "name": "ALGERIE 5 HD",
+      "logo": "http://i.imgur.com/TXyy8t7.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/227_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 5 HD stream",
+          "url": "http://r656.dad:80/ch/227_"
+        }
+      ]
+    },
+    {
+      "id": "229",
+      "name": "ALGERIE 6 FHD",
+      "logo": "https://i.imgur.com/FcNLRrO.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/229_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 6 FHD stream",
+          "url": "http://r656.dad:80/ch/229_"
+        }
+      ]
+    },
+    {
+      "id": "42087",
+      "name": "ALGERIE 6 HD",
+      "logo": "https://i.imgur.com/FcNLRrO.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/42087_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 6 HD stream",
+          "url": "http://r656.dad:80/ch/42087_"
+        }
+      ]
+    },
+    {
+      "id": "45716",
+      "name": "ALGERIE 7 EL MAARIFA",
+      "logo": "https://i.imgur.com/GVfSdP1.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/45716_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 7 EL MAARIFA stream",
+          "url": "http://r656.dad:80/ch/45716_"
+        }
+      ]
+    },
+    {
+      "id": "45717",
+      "name": "ALGERIE 8 EL DAKIRA",
+      "logo": "https://i.imgur.com/6dGGebB.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/45717_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ALGERIE 8 EL DAKIRA stream",
+          "url": "http://r656.dad:80/ch/45717_"
+        }
+      ]
+    },
+    {
+      "id": "6974",
+      "name": "AMOU YAZID TOFOLA HD",
+      "logo": "https://i.imgur.com/jrfdlWq.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/6974_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AMOU YAZID TOFOLA HD stream",
+          "url": "http://r656.dad:80/ch/6974_"
+        }
+      ]
+    },
+    {
+      "id": "560",
+      "name": "ARRABIAA ATHAQAFIA HD",
+      "logo": "http://i.imgur.com/IWBJT17.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/560_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ARRABIAA ATHAQAFIA HD stream",
+          "url": "http://r656.dad:80/ch/560_"
+        }
+      ]
+    },
+    {
+      "id": "4380",
+      "name": "ARRABIAA FHD",
+      "logo": "http://i.imgur.com/IWBJT17.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4380_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ARRABIAA FHD stream",
+          "url": "http://r656.dad:80/ch/4380_"
+        }
+      ]
+    },
+    {
+      "id": "5244",
+      "name": "ARRIADIA LIVE TNT HD",
+      "logo": "https://i.imgur.com/81ksuGS.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/5244_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ARRIADIA LIVE TNT HD stream",
+          "url": "http://r656.dad:80/ch/5244_"
+        }
+      ]
+    },
+    {
+      "id": "4377",
+      "name": "ARRIADIA MAROC FHD",
+      "logo": "https://i.imgur.com/81ksuGS.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4377_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ARRIADIA MAROC FHD stream",
+          "url": "http://r656.dad:80/ch/4377_"
+        }
+      ]
+    },
+    {
+      "id": "644",
+      "name": "ARRIADIA MAROC HD",
+      "logo": "https://i.imgur.com/81ksuGS.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/644_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ARRIADIA MAROC HD stream",
+          "url": "http://r656.dad:80/ch/644_"
+        }
+      ]
+    },
+    {
+      "id": "42108",
+      "name": "ARRYADIA 2 HD",
+      "logo": "https://i.imgur.com/81ksuGS.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/42108_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ARRYADIA 2 HD stream",
+          "url": "http://r656.dad:80/ch/42108_"
+        }
+      ]
+    },
+    {
+      "id": "13308",
+      "name": "ARRYADIA MAROC",
+      "logo": "https://i.imgur.com/81ksuGS.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/13308_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ARRYADIA MAROC stream",
+          "url": "http://r656.dad:80/ch/13308_"
+        }
+      ]
+    },
+    {
+      "id": "1768",
+      "name": "ASSABIA 7 TV FHD",
+      "logo": "https://i.imgur.com/3E5nP0Y.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1768_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ASSABIA 7 TV FHD stream",
+          "url": "http://r656.dad:80/ch/1768_"
+        }
+      ]
+    },
+    {
+      "id": "4378",
+      "name": "ASSADISSA FHD",
+      "logo": "http://i.imgur.com/l1puCC0.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4378_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ASSADISSA FHD stream",
+          "url": "http://r656.dad:80/ch/4378_"
+        }
+      ]
+    },
+    {
+      "id": "535",
+      "name": "ASSADISSA HD",
+      "logo": "http://i.imgur.com/l1puCC0.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/535_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ASSADISSA HD stream",
+          "url": "http://r656.dad:80/ch/535_"
+        }
+      ]
+    },
+    {
       "id": "564",
-      "name": "TN| ATTESIA TV",
+      "name": "ATTESIA TV",
       "logo": "http://i.imgur.com/fWumXQF.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12431,14 +12436,185 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| ATTESIA TV stream",
+          "label": "ATTESIA TV stream",
           "url": "http://r656.dad:80/ch/564_"
         }
       ]
     },
     {
+      "id": "1112",
+      "name": "BAHIA TV",
+      "logo": "http://i.imgur.com/3ExRISi.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1112_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BAHIA TV stream",
+          "url": "http://r656.dad:80/ch/1112_"
+        }
+      ]
+    },
+    {
+      "id": "374",
+      "name": "BERBERE JEUNESSE (EXCLUS)",
+      "logo": "https://i.imgur.com/iNaAtbD.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/374_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BERBERE JEUNESSE (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/374_"
+        }
+      ]
+    },
+    {
+      "id": "42075",
+      "name": "BERBERE MUSIC (EXCLUS)",
+      "logo": "https://i.imgur.com/AmekoXo.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/42075_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BERBERE MUSIC (EXCLUS) stream",
+          "url": "http://r656.dad:80/ch/42075_"
+        }
+      ]
+    },
+    {
+      "id": "949",
+      "name": "BERBERE TV",
+      "logo": "http://i.imgur.com/98gjMeV.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/949_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BERBERE TV stream",
+          "url": "http://r656.dad:80/ch/949_"
+        }
+      ]
+    },
+    {
+      "id": "4279",
+      "name": "BEUR FM TV (EXCLU)",
+      "logo": "https://i.imgur.com/bgtm9Gm.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4279_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEUR FM TV (EXCLU) stream",
+          "url": "http://r656.dad:80/ch/4279_"
+        }
+      ]
+    },
+    {
+      "id": "2805",
+      "name": "BEUR TV HD",
+      "logo": "http://i.imgur.com/GvMXf3K.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2805_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "BEUR TV HD stream",
+          "url": "http://r656.dad:80/ch/2805_"
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "name": "CANAL ALGERIE",
+      "logo": "http://i.imgur.com/pOE3cTT.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/173_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "CANAL ALGERIE stream",
+          "url": "http://r656.dad:80/ch/173_"
+        }
+      ]
+    },
+    {
+      "id": "2825",
+      "name": "CANAL ALGERIE FHD",
+      "logo": "http://i.imgur.com/pOE3cTT.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2825_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "CANAL ALGERIE FHD stream",
+          "url": "http://r656.dad:80/ch/2825_"
+        }
+      ]
+    },
+    {
+      "id": "5313",
+      "name": "CANAL ATLAS",
+      "logo": "https://i.imgur.com/ExQOKII.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/5313_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "CANAL ATLAS stream",
+          "url": "http://r656.dad:80/ch/5313_"
+        }
+      ]
+    },
+    {
       "id": "8724",
-      "name": "TN| CARTHAGE+",
+      "name": "CARTHAGE+",
       "logo": "https://i.imgur.com/xkxCa69.png",
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12450,261 +12626,33 @@
       "enabled": true,
       "sources": [
         {
-          "label": "TN| CARTHAGE+ stream",
+          "label": "CARTHAGE+ stream",
           "url": "http://r656.dad:80/ch/8724_"
         }
       ]
     },
     {
-      "id": "562",
-      "name": "TN| EL HIWAR ETTOUNSI TV",
-      "logo": "http://i.imgur.com/YYP8evG.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/562_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| EL HIWAR ETTOUNSI TV stream",
-          "url": "http://r656.dad:80/ch/562_"
-        }
-      ]
-    },
-    {
-      "id": "3159",
-      "name": "TN| EL HIWAR ETTOUNSI TV HD",
-      "logo": "http://i.imgur.com/YYP8evG.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/3159_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| EL HIWAR ETTOUNSI TV HD stream",
-          "url": "http://r656.dad:80/ch/3159_"
-        }
-      ]
-    },
-    {
-      "id": "410",
-      "name": "TN| HANNIBAL",
-      "logo": "http://i.imgur.com/nlg56WH.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/410_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| HANNIBAL stream",
-          "url": "http://r656.dad:80/ch/410_"
-        }
-      ]
-    },
-    {
-      "id": "8723",
-      "name": "TN| MOSAIQUE FM",
+      "id": "5247",
+      "name": "CHADA TV HD",
       "logo": null,
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
       "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/8723_",
+      "streamUrl": "http://r656.dad:80/ch/5247_",
       "description": "Imported from the user-provided IPTV subscription.",
       "country": "MENA / Global",
       "language": "Arabic",
       "enabled": true,
       "sources": [
         {
-          "label": "TN| MOSAIQUE FM stream",
-          "url": "http://r656.dad:80/ch/8723_"
-        }
-      ]
-    },
-    {
-      "id": "2807",
-      "name": "TN| NESSMA TV",
-      "logo": "http://i.imgur.com/zhHRK51.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/2807_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| NESSMA TV stream",
-          "url": "http://r656.dad:80/ch/2807_"
-        }
-      ]
-    },
-    {
-      "id": "41330",
-      "name": "TN| NESSMA TV EJDIDA",
-      "logo": "http://i.imgur.com/zhHRK51.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/41330_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| NESSMA TV EJDIDA stream",
-          "url": "http://r656.dad:80/ch/41330_"
-        }
-      ]
-    },
-    {
-      "id": "334",
-      "name": "TN| NESSMA TV HD",
-      "logo": "http://i.imgur.com/zhHRK51.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/334_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| NESSMA TV HD stream",
-          "url": "http://r656.dad:80/ch/334_"
-        }
-      ]
-    },
-    {
-      "id": "6052",
-      "name": "TN| TELEVISION 1",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/6052_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| TELEVISION 1 stream",
-          "url": "http://r656.dad:80/ch/6052_"
-        }
-      ]
-    },
-    {
-      "id": "1510",
-      "name": "TN| TELVAZA TV",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/1510_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| TELVAZA TV stream",
-          "url": "http://r656.dad:80/ch/1510_"
-        }
-      ]
-    },
-    {
-      "id": "195441",
-      "name": "TN| TUNISIA SPORT HD",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/195441_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| TUNISIA SPORT HD stream",
-          "url": "http://r656.dad:80/ch/195441_"
-        }
-      ]
-    },
-    {
-      "id": "698",
-      "name": "TN| TUNISNA",
-      "logo": null,
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/698_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| TUNISNA stream",
-          "url": "http://r656.dad:80/ch/698_"
-        }
-      ]
-    },
-    {
-      "id": "409",
-      "name": "TN| TUNISNA",
-      "logo": "http://i.imgur.com/4nxzeZ3.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/409_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| TUNISNA stream",
-          "url": "http://r656.dad:80/ch/409_"
-        }
-      ]
-    },
-    {
-      "id": "565",
-      "name": "TN| ZAYTOONA TV HD",
-      "logo": "http://i.imgur.com/IY2Ysal.png",
-      "category": "MAGHRÈBINES (DZ/MA/TN)",
-      "categoryId": "9",
-      "provider": "R656 IPTV",
-      "streamUrl": "http://r656.dad:80/ch/565_",
-      "description": "Imported from the user-provided IPTV subscription.",
-      "country": "MENA / Global",
-      "language": "Arabic",
-      "enabled": true,
-      "sources": [
-        {
-          "label": "TN| ZAYTOONA TV HD stream",
-          "url": "http://r656.dad:80/ch/565_"
+          "label": "CHADA TV HD stream",
+          "url": "http://r656.dad:80/ch/5247_"
         }
       ]
     },
     {
       "id": "3712",
-      "name": "▀▄ DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀",
+      "name": "DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀",
       "logo": null,
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12716,14 +12664,432 @@
       "enabled": true,
       "sources": [
         {
-          "label": "▀▄ DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀ stream",
+          "label": "DZ ▀▄▀▄▀▄ ALGERIE ▄▀▄▀▄▀ stream",
           "url": "http://r656.dad:80/ch/3712_"
         }
       ]
     },
     {
+      "id": "230",
+      "name": "ECHOROUK NEWS",
+      "logo": "http://i.imgur.com/b2koAeh.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/230_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ECHOROUK NEWS stream",
+          "url": "http://r656.dad:80/ch/230_"
+        }
+      ]
+    },
+    {
+      "id": "1560",
+      "name": "ECHOROUK NEWS HD",
+      "logo": "http://i.imgur.com/b2koAeh.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1560_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ECHOROUK NEWS HD stream",
+          "url": "http://r656.dad:80/ch/1560_"
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "name": "ECHOROUK TV",
+      "logo": "http://i.imgur.com/hizkQd7.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/175_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ECHOROUK TV stream",
+          "url": "http://r656.dad:80/ch/175_"
+        }
+      ]
+    },
+    {
+      "id": "1559",
+      "name": "ECHOROUK TV FHD",
+      "logo": "http://i.imgur.com/hizkQd7.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1559_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ECHOROUK TV FHD stream",
+          "url": "http://r656.dad:80/ch/1559_"
+        }
+      ]
+    },
+    {
+      "id": "1113",
+      "name": "EL ANIS TV",
+      "logo": "https://i.imgur.com/2CNfkrr.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1113_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL ANIS TV stream",
+          "url": "http://r656.dad:80/ch/1113_"
+        }
+      ]
+    },
+    {
+      "id": "104965",
+      "name": "EL BARLAMANYA FHD",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/104965_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL BARLAMANYA FHD stream",
+          "url": "http://r656.dad:80/ch/104965_"
+        }
+      ]
+    },
+    {
+      "id": "231",
+      "name": "EL BILAD TV",
+      "logo": "http://i.imgur.com/lESg64o.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/231_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL BILAD TV stream",
+          "url": "http://r656.dad:80/ch/231_"
+        }
+      ]
+    },
+    {
+      "id": "6183",
+      "name": "EL DJAZAIR N1",
+      "logo": "https://i.imgur.com/Cpt7Lri.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/6183_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL DJAZAIR N1 stream",
+          "url": "http://r656.dad:80/ch/6183_"
+        }
+      ]
+    },
+    {
+      "id": "236",
+      "name": "EL FADJR TV",
+      "logo": "https://i.imgur.com/W1x47Ar.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/236_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL FADJR TV stream",
+          "url": "http://r656.dad:80/ch/236_"
+        }
+      ]
+    },
+    {
+      "id": "2260",
+      "name": "EL HAYAT TV FHD",
+      "logo": "https://i.imgur.com/s8NHjDR.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2260_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL HAYAT TV FHD stream",
+          "url": "http://r656.dad:80/ch/2260_"
+        }
+      ]
+    },
+    {
+      "id": "1772",
+      "name": "EL HAYAT TV HD",
+      "logo": "https://i.imgur.com/s8NHjDR.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1772_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL HAYAT TV HD stream",
+          "url": "http://r656.dad:80/ch/1772_"
+        }
+      ]
+    },
+    {
+      "id": "233",
+      "name": "EL HEDDAF TV FHD",
+      "logo": "http://i.imgur.com/mgPHvo8.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/233_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL HEDDAF TV FHD stream",
+          "url": "http://r656.dad:80/ch/233_"
+        }
+      ]
+    },
+    {
+      "id": "562",
+      "name": "EL HIWAR ETTOUNSI TV",
+      "logo": "http://i.imgur.com/YYP8evG.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/562_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL HIWAR ETTOUNSI TV stream",
+          "url": "http://r656.dad:80/ch/562_"
+        }
+      ]
+    },
+    {
+      "id": "3159",
+      "name": "EL HIWAR ETTOUNSI TV HD",
+      "logo": "http://i.imgur.com/YYP8evG.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3159_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL HIWAR ETTOUNSI TV HD stream",
+          "url": "http://r656.dad:80/ch/3159_"
+        }
+      ]
+    },
+    {
+      "id": "42074",
+      "name": "EL WATANIA TV",
+      "logo": "https://i.imgur.com/VUdIe25.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/42074_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "EL WATANIA TV stream",
+          "url": "http://r656.dad:80/ch/42074_"
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "name": "ENNAHAR TV",
+      "logo": "http://i.imgur.com/QxUvmMy.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/172_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ENNAHAR TV stream",
+          "url": "http://r656.dad:80/ch/172_"
+        }
+      ]
+    },
+    {
+      "id": "2806",
+      "name": "ENNAHAR TV SD",
+      "logo": "http://i.imgur.com/QxUvmMy.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2806_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ENNAHAR TV SD stream",
+          "url": "http://r656.dad:80/ch/2806_"
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "name": "ENTV (PROGRAMME NATIONAL) FHD",
+      "logo": "https://i.imgur.com/UPECPKc.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/171_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ENTV (PROGRAMME NATIONAL) FHD stream",
+          "url": "http://r656.dad:80/ch/171_"
+        }
+      ]
+    },
+    {
+      "id": "1783",
+      "name": "ENTV (PROGRAMME NATIONAL) HD",
+      "logo": "https://i.imgur.com/UPECPKc.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1783_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ENTV (PROGRAMME NATIONAL) HD stream",
+          "url": "http://r656.dad:80/ch/1783_"
+        }
+      ]
+    },
+    {
+      "id": "410",
+      "name": "HANNIBAL",
+      "logo": "http://i.imgur.com/nlg56WH.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/410_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "HANNIBAL stream",
+          "url": "http://r656.dad:80/ch/410_"
+        }
+      ]
+    },
+    {
+      "id": "7083",
+      "name": "LAAYOUN TV FHD",
+      "logo": "https://i.imgur.com/XYS9g4x.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7083_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "LAAYOUN TV FHD stream",
+          "url": "http://r656.dad:80/ch/7083_"
+        }
+      ]
+    },
+    {
+      "id": "42018",
+      "name": "M24 MAROC",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/42018_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "M24 MAROC stream",
+          "url": "http://r656.dad:80/ch/42018_"
+        }
+      ]
+    },
+    {
       "id": "3709",
-      "name": "▀▄ MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀",
+      "name": "MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀",
       "logo": null,
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12735,14 +13101,375 @@
       "enabled": true,
       "sources": [
         {
-          "label": "▀▄ MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀ stream",
+          "label": "MA ▀▄▀▄▀▄ MAROC ▄▀▄▀▄▀ stream",
           "url": "http://r656.dad:80/ch/3709_"
         }
       ]
     },
     {
+      "id": "1447",
+      "name": "MEDI1 ARABIC HD",
+      "logo": "http://i.imgur.com/JWcgynN.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1447_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MEDI1 ARABIC HD stream",
+          "url": "http://r656.dad:80/ch/1447_"
+        }
+      ]
+    },
+    {
+      "id": "411",
+      "name": "MEDI1 MAGHREB HD",
+      "logo": "http://i.imgur.com/JWcgynN.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/411_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MEDI1 MAGHREB HD stream",
+          "url": "http://r656.dad:80/ch/411_"
+        }
+      ]
+    },
+    {
+      "id": "8723",
+      "name": "MOSAIQUE FM",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/8723_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "MOSAIQUE FM stream",
+          "url": "http://r656.dad:80/ch/8723_"
+        }
+      ]
+    },
+    {
+      "id": "112124",
+      "name": "NATV NORTH AFRICA CHANNEL HD",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbqRjDRPB4SE9-LwzU_dYIemOYSrUS2VQew&s",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/112124_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "NATV NORTH AFRICA CHANNEL HD stream",
+          "url": "http://r656.dad:80/ch/112124_"
+        }
+      ]
+    },
+    {
+      "id": "2807",
+      "name": "NESSMA TV",
+      "logo": "http://i.imgur.com/zhHRK51.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/2807_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "NESSMA TV stream",
+          "url": "http://r656.dad:80/ch/2807_"
+        }
+      ]
+    },
+    {
+      "id": "41330",
+      "name": "NESSMA TV EJDIDA",
+      "logo": "http://i.imgur.com/zhHRK51.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/41330_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "NESSMA TV EJDIDA stream",
+          "url": "http://r656.dad:80/ch/41330_"
+        }
+      ]
+    },
+    {
+      "id": "334",
+      "name": "NESSMA TV HD",
+      "logo": "http://i.imgur.com/zhHRK51.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/334_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "NESSMA TV HD stream",
+          "url": "http://r656.dad:80/ch/334_"
+        }
+      ]
+    },
+    {
+      "id": "22395",
+      "name": "ONE TV FHD",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/22395_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ONE TV FHD stream",
+          "url": "http://r656.dad:80/ch/22395_"
+        }
+      ]
+    },
+    {
+      "id": "42041",
+      "name": "SALAM TV HD",
+      "logo": "https://i.imgur.com/YKJQLtf.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/42041_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "SALAM TV HD stream",
+          "url": "http://r656.dad:80/ch/42041_"
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "name": "SAMIRA TV",
+      "logo": "http://i.imgur.com/J26q8bp.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/176_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "SAMIRA TV stream",
+          "url": "http://r656.dad:80/ch/176_"
+        }
+      ]
+    },
+    {
+      "id": "22398",
+      "name": "SAMIRA TV FHD",
+      "logo": "http://i.imgur.com/J26q8bp.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/22398_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "SAMIRA TV FHD stream",
+          "url": "http://r656.dad:80/ch/22398_"
+        }
+      ]
+    },
+    {
+      "id": "3151",
+      "name": "SAMIRA TV HD",
+      "logo": "http://i.imgur.com/J26q8bp.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3151_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "SAMIRA TV HD stream",
+          "url": "http://r656.dad:80/ch/3151_"
+        }
+      ]
+    },
+    {
+      "id": "112129",
+      "name": "SPORT PLUS HD",
+      "logo": "https://i.imgur.com/H0EVUuN.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/112129_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "SPORT PLUS HD stream",
+          "url": "http://r656.dad:80/ch/112129_"
+        }
+      ]
+    },
+    {
+      "id": "4379",
+      "name": "TAMAZIGHT FHD",
+      "logo": "http://i.imgur.com/htebjJD.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/4379_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TAMAZIGHT FHD stream",
+          "url": "http://r656.dad:80/ch/4379_"
+        }
+      ]
+    },
+    {
+      "id": "559",
+      "name": "TAMAZIGHT HD",
+      "logo": "http://i.imgur.com/htebjJD.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/559_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TAMAZIGHT HD stream",
+          "url": "http://r656.dad:80/ch/559_"
+        }
+      ]
+    },
+    {
+      "id": "1114",
+      "name": "TELE MAROC FHD",
+      "logo": "http://i.imgur.com/oDn4VbO.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1114_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TELE MAROC FHD stream",
+          "url": "http://r656.dad:80/ch/1114_"
+        }
+      ]
+    },
+    {
+      "id": "41990",
+      "name": "TELE MAROC HD",
+      "logo": "http://i.imgur.com/oDn4VbO.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/41990_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TELE MAROC HD stream",
+          "url": "http://r656.dad:80/ch/41990_"
+        }
+      ]
+    },
+    {
+      "id": "6052",
+      "name": "TELEVISION 1",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/6052_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TELEVISION 1 stream",
+          "url": "http://r656.dad:80/ch/6052_"
+        }
+      ]
+    },
+    {
+      "id": "1510",
+      "name": "TELVAZA TV",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/1510_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TELVAZA TV stream",
+          "url": "http://r656.dad:80/ch/1510_"
+        }
+      ]
+    },
+    {
       "id": "3710",
-      "name": "▀▄ TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀",
+      "name": "TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀",
       "logo": null,
       "category": "MAGHRÈBINES (DZ/MA/TN)",
       "categoryId": "9",
@@ -12754,8 +13481,141 @@
       "enabled": true,
       "sources": [
         {
-          "label": "▀▄ TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀ stream",
+          "label": "TN ▀▄▀▄▀▄ TUNISIE ▄▀▄▀▄▀ stream",
           "url": "http://r656.dad:80/ch/3710_"
+        }
+      ]
+    },
+    {
+      "id": "195441",
+      "name": "TUNISIA SPORT HD",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/195441_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TUNISIA SPORT HD stream",
+          "url": "http://r656.dad:80/ch/195441_"
+        }
+      ]
+    },
+    {
+      "id": "698",
+      "name": "TUNISNA",
+      "logo": null,
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/698_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TUNISNA stream",
+          "url": "http://r656.dad:80/ch/698_"
+        }
+      ]
+    },
+    {
+      "id": "409",
+      "name": "TUNISNA",
+      "logo": "http://i.imgur.com/4nxzeZ3.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/409_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "TUNISNA stream",
+          "url": "http://r656.dad:80/ch/409_"
+        }
+      ]
+    },
+    {
+      "id": "41988",
+      "name": "ZAHRA TV",
+      "logo": "https://i.imgur.com/K9BnK4p.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/41988_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ZAHRA TV stream",
+          "url": "http://r656.dad:80/ch/41988_"
+        }
+      ]
+    },
+    {
+      "id": "565",
+      "name": "ZAYTOONA TV HD",
+      "logo": "http://i.imgur.com/IY2Ysal.png",
+      "category": "MAGHRÈBINES (DZ/MA/TN)",
+      "categoryId": "9",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/565_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "ZAYTOONA TV HD stream",
+          "url": "http://r656.dad:80/ch/565_"
+        }
+      ]
+    },
+    {
+      "id": "7025",
+      "name": "AR ▀▄▀▄▀▄ MY HD ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7025_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ MY HD ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7025_"
+        }
+      ]
+    },
+    {
+      "id": "3713",
+      "name": "AR ▀▄▀▄▀▄ OSN ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/3713_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "AR ▀▄▀▄▀▄ OSN ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/3713_"
         }
       ]
     },
@@ -13877,6 +14737,120 @@
         {
           "label": "OSN YA HALA HD stream",
           "url": "http://r656.dad:80/ch/7054_"
+        }
+      ]
+    },
+    {
+      "id": "7109",
+      "name": "OSN ▀▄▀▄▀▄ ARABIC ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7109_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "OSN ▀▄▀▄▀▄ ARABIC ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7109_"
+        }
+      ]
+    },
+    {
+      "id": "7108",
+      "name": "OSN ▀▄▀▄▀▄ ENTERTAINMENT ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7108_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "OSN ▀▄▀▄▀▄ ENTERTAINMENT ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7108_"
+        }
+      ]
+    },
+    {
+      "id": "7112",
+      "name": "OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7112_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "OSN ▀▄▀▄▀▄ FACTUAL ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7112_"
+        }
+      ]
+    },
+    {
+      "id": "7111",
+      "name": "OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7111_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "OSN ▀▄▀▄▀▄ KIDS ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7111_"
+        }
+      ]
+    },
+    {
+      "id": "7107",
+      "name": "OSN ▀▄▀▄▀▄ MOVIES ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7107_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "OSN ▀▄▀▄▀▄ MOVIES ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7107_"
+        }
+      ]
+    },
+    {
+      "id": "7110",
+      "name": "OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀",
+      "logo": null,
+      "category": "OSN & MY HD (Arabic)",
+      "categoryId": "162",
+      "provider": "R656 IPTV",
+      "streamUrl": "http://r656.dad:80/ch/7110_",
+      "description": "Imported from the user-provided IPTV subscription.",
+      "country": "MENA / Global",
+      "language": "Arabic",
+      "enabled": true,
+      "sources": [
+        {
+          "label": "OSN ▀▄▀▄▀▄ MUSIC ▄▀▄▀▄▀ stream",
+          "url": "http://r656.dad:80/ch/7110_"
         }
       ]
     },
